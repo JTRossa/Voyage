@@ -53,3 +53,57 @@
 2 Chichen Itza; 2 Great Zimbabwe; 2 Templo Mayor|tenochtitlan; 2 Notre-Dame|notre dame; 2 Hagia Sophia; 2 Forbidden City; 2 Borobudur;
 3 Cahokia|monks mound; 3 Teotihuacan; 3 Lalibela|rock-hewn churches; 3 Great Mosque of Djenné|djenne mosque; 3 Sankore Mosque|sankore; 3 Alhambra; 3 Mesa Verde; 3 Tikal; 3 Kilwa Kisiwani|kilwa; 3 Qutb Minar; 3 Sacsayhuamán|sacsayhuaman; 3 Chartres Cathedral|chartres; 3 Bayon;
 4 Chan Chan; 4 Tiwanaku; 4 Chaco Canyon|pueblo bonito; 4 Djinguereber Mosque|djinguereber; 4 Grand Canal; 4 Temple of Heaven; 4 Konark Sun Temple|konark; 4 Hampi; 4 Golden Pavilion|kinkaku-ji|kinkakuji; 4 Tower of London; 4 Westminster Abbey; 4 Florence Cathedral|duomo; 4 Gedi; 4 Mapungubwe; 4 Moai|easter island|rapa nui; 4 Nan Madol; 4 Sukhothai; 4 Bagan|pagan; 4 Kremlin
+
+@voyage swahili | The Gold Coast of the East | Swahili merchants · Mogadishu to Great Zimbabwe · c. 1300
+? Places | Name an African kingdom, empire, or city-state that existed between 1200 and 1450.
+1 Mali Empire|mali; 1 Great Zimbabwe|zimbabwe; 1 Ethiopia|ethiopian empire|abyssinia|solomonic dynasty;
+2 Kilwa|kilwa sultanate; 2 Timbuktu; 2 Mamluk Sultanate|mamluks|mamluk egypt|egypt; 2 Kingdom of Benin|benin|edo; 2 Kingdom of Kongo|kongo; 2 Hausa city-states|hausa kingdoms|hausa;
+3 Mombasa; 3 Malindi; 3 Mogadishu|sultanate of mogadishu; 3 Gao|songhai|songhay; 3 Kanem-Bornu|kanem|bornu; 3 Ife|ile-ife|ile ife; 3 Kano; 3 Zanzibar; 3 Sofala; 3 Jenne|djenne; 3 Zagwe dynasty|zagwe; 3 Morocco|marinids|marinid sultanate;
+4 Lamu; 4 Pate; 4 Mapungubwe; 4 Mutapa|monomotapa|kingdom of mutapa; 4 Makuria|nubia|kingdom of makuria; 4 Alodia; 4 Adal Sultanate|adal; 4 Ifat Sultanate|ifat; 4 Hafsid dynasty|hafsids|hafsid; 4 Katsina; 4 Zazzau|zaria; 4 Oyo; 4 Sosso|soso|kaniaga; 4 Takrur|tekrur; 4 Gedi|gede; 4 Mafia island|kisimani; 4 Ajuran Sultanate|ajuran; 4 Wolof Empire|jolof|djolof; 4 Zayyanid dynasty|zayyanids|tlemcen
+? Trade | Name a good traded on the Swahili Coast or across the Indian Ocean between 1200 and 1450.
+1 Gold; 1 Ivory; 1 Spices|spice; 1 Silk;
+2 Porcelain|china|ceramics; 2 Cotton cloth|cotton|textiles|cloth; 2 Pepper|black pepper; 2 Copper; 2 Glass beads|beads; 2 Iron;
+3 Frankincense; 3 Myrrh; 3 Tortoiseshell; 3 Rhinoceros horn|rhino horn; 3 Mangrove poles|timber|wood; 3 Horses|horse; 3 Cinnamon; 3 Cloves; 3 Ginger; 3 Rice; 3 Sugar; 3 Incense; 3 Pearls;
+4 Ambergris; 4 Cowrie shells|cowries; 4 Sandalwood; 4 Coconut|coconuts|coir; 4 Dates; 4 Rock crystal|crystal; 4 Leopard skins|animal skins|skins|hides; 4 Salt; 4 Nutmeg; 4 Indigo; 4 Teak; 4 Camphor; 4 Glassware|glass; 4 Gemstones|gems|rubies|sapphires
+? Society | Name a language spoken in Africa between 1200 and 1450.
+1 Arabic; 1 Swahili|kiswahili;
+2 Berber|amazigh|tamazight; 2 Hausa; 2 Yoruba; 2 Mandinka|mande|malinke|mandingo; 2 Ge'ez|geez; 2 Coptic;
+3 Amharic; 3 Somali; 3 Shona; 3 Fula|fulani|fulfulde|pulaar; 3 Wolof; 3 Songhay|songhai; 3 Kanuri; 3 Tigrinya; 3 Igbo; 3 Edo|bini; 3 Kikongo|kongo language; 3 Nubian|old nubian;
+4 Oromo; 4 Malagasy; 4 Soninke; 4 Bambara; 4 Tuareg|tamasheq; 4 Akan; 4 Ewe; 4 Kikuyu|gikuyu; 4 Tigre; 4 Bantu languages|bantu; 4 Dinka; 4 Luganda|ganda; 4 Kimbundu; 4 Afar
+? Wild card | Name an animal native to Africa.
+1 Lion; 1 Elephant; 1 Giraffe; 1 Zebra; 1 Hippopotamus|hippo; 1 Rhinoceros|rhino;
+2 Cheetah; 2 Leopard; 2 Gorilla; 2 Chimpanzee|chimp; 2 Crocodile|nile crocodile; 2 Hyena; 2 Ostrich;
+3 Antelope; 3 Gazelle; 3 Wildebeest|gnu; 3 Buffalo|cape buffalo; 3 Baboon; 3 Meerkat; 3 Warthog; 3 Flamingo; 3 Lemur; 3 Impala; 3 Mongoose; 3 Okapi; 3 Jackal; 3 Vulture; 3 Wild dog|african wild dog|painted dog; 3 Bonobo; 3 Black mamba|mamba;
+4 Aardvark; 4 Pangolin; 4 Kudu; 4 Springbok; 4 Dik-dik|dik dik; 4 Oryx; 4 Eland; 4 Serval; 4 Caracal; 4 Mandrill; 4 Bushbaby|galago; 4 Secretary bird; 4 Shoebill; 4 Fennec fox|fennec; 4 Honey badger|ratel; 4 Topi; 4 Gerenuk; 4 Hartebeest; 4 Puff adder; 4 Chameleon; 4 Tsetse fly|tsetse
+? Power | Name a title used by a ruler somewhere in the world between 1200 and 1450.
+1 King; 1 Emperor; 1 Sultan; 1 Khan;
+2 Caliph; 2 Mansa; 2 Shah; 2 Shogun; 2 Pope; 2 Queen; 2 Raja|rajah; 2 Emir|amir; 2 Great Khan|khagan|khaghan;
+3 Maharaja; 3 Sapa Inca|sapa inka; 3 Tlatoani|huey tlatoani|huei tlatoani; 3 Negus|negusa nagast|king of kings; 3 Doge; 3 Prince; 3 Duke; 3 Grand Prince|grand duke; 3 Son of Heaven|tianzi|huangdi; 3 Daimyo; 3 Basileus; 3 Ilkhan|il-khan; 3 Sheikh|shaykh; 3 Lord;
+4 Oba; 4 Mai; 4 Mwenemutapa|mwene mutapa|munhumutapa; 4 Sarki; 4 Atabeg; 4 Bey|beg; 4 Despot; 4 Count|earl; 4 Tenno; 4 Khatun; 4 Regent; 4 Chief|chieftain; 4 Voivode|voievod; 4 Tsar|czar
+
+@voyage angkor | The City of Temples | Zhou Daguan's embassy · Wenzhou to Angkor · 1296–1297
+? Power | Name a kingdom or state in Southeast Asia between 1200 and 1450.
+1 Khmer Empire|khmer|angkor|cambodia; 1 Dai Viet|dai viet|vietnam; 1 Majapahit;
+2 Champa|cham; 2 Srivijaya; 2 Malacca Sultanate|malacca|melaka; 2 Ayutthaya|siam; 2 Sukhothai; 2 Pagan|bagan|pagan kingdom;
+3 Tran dynasty|tran; 3 Ly dynasty|ly; 3 Le dynasty|later le|le loi; 3 Ho dynasty|ho; 3 Lan Xang|laos; 3 Lan Na|lanna; 3 Singhasari; 3 Brunei; 3 Ava|kingdom of ava; 3 Hanthawaddy|pegu|bago;
+4 Kediri; 4 Samudera Pasai|pasai; 4 Sulu Sultanate|sulu; 4 Tambralinga; 4 Lavo|lopburi; 4 Haripunjaya; 4 Pinya; 4 Sagaing; 4 Mrauk U|arakan; 4 Sunda Kingdom|sunda; 4 Tondo; 4 Butuan; 4 Kutai
+? Belief | Name a Hindu or Buddhist god, figure, idea, or text.
+1 Buddha|siddhartha|gautama|siddhartha gautama; 1 Karma; 1 Reincarnation|rebirth; 1 Shiva|siva;
+2 Vishnu; 2 Brahma; 2 Nirvana; 2 Dharma; 2 Krishna; 2 Ganesha|ganesh; 2 Bodhisattva; 2 Four Noble Truths; 2 Eightfold Path|noble eightfold path;
+3 Samsara; 3 Moksha; 3 Lakshmi; 3 Rama; 3 Hanuman; 3 Durga; 3 Kali; 3 Parvati; 3 Avalokiteshvara|guanyin|quan am; 3 Amitabha|amida; 3 Maitreya; 3 Vedas; 3 Bhagavad Gita|gita; 3 Ramayana; 3 Mahabharata; 3 Upanishads; 3 Ahimsa;
+4 Brahman; 4 Atman; 4 Indra; 4 Saraswati; 4 Garuda; 4 Naga; 4 Devaraja|god-king; 4 Sangha; 4 Tripitaka|pali canon; 4 Lotus Sutra; 4 Mantra; 4 Stupa; 4 Surya; 4 Agni; 4 Yoga; 4 Middle Way
+? Tech | Name a crop or farming technique used in Asia between 1200 and 1450.
+1 Rice; 1 Terraced farming|terraces|rice terraces|terracing; 1 Irrigation;
+2 Champa rice; 2 Tea; 2 Wheat; 2 Canals|canal; 2 Reservoirs|baray|reservoir; 2 Wet-rice farming|paddy|rice paddies|paddies; 2 Sugarcane|sugar;
+3 Millet; 3 Barley; 3 Soybeans|soy|soybean; 3 Cotton; 3 Mulberry trees|mulberry|silkworms|sericulture; 3 Water wheel|waterwheel; 3 Chain pump|square-pallet chain pump; 3 Dikes|dykes|levees; 3 Double cropping; 3 Iron plow|plow|plough; 3 Water buffalo|buffalo;
+4 Sorghum; 4 Bananas|banana; 4 Coconuts|coconut; 4 Taro; 4 Yams|yam; 4 Pepper; 4 Citrus|oranges; 4 Manure|fertilizer; 4 Crop rotation; 4 Transplanting seedlings|transplanting; 4 Hemp; 4 Indigo; 4 Ginger; 4 Lotus
+? Places | Name a famous temple, mosque, church, or other religious building that existed by 1450.
+1 Angkor Wat; 1 Hagia Sophia; 1 Notre-Dame|notre dame; 1 Borobudur; 1 Dome of the Rock;
+2 Kaaba|masjid al-haram|great mosque of mecca; 2 Great Mosque of Djenne|djenne mosque; 2 Djinguereber Mosque|djinguereber; 2 Bayon; 2 Westminster Abbey; 2 Great Mosque of Cordoba|mezquita|cordoba mosque; 2 Temple of Literature|van mieu; 2 One Pillar Pagoda; 2 Todai-ji|todaiji;
+3 Prambanan; 3 Ta Prohm; 3 Al-Aqsa Mosque|al aqsa; 3 Prophet's Mosque|masjid an-nabawi|mosque of the prophet; 3 Sankore Mosque|sankore; 3 Lalibela|church of saint george|rock-hewn churches; 3 Chartres Cathedral|chartres; 3 Canterbury Cathedral; 3 Cologne Cathedral; 3 St. Mark's Basilica|st marks; 3 Konark Sun Temple|konark; 3 Shwedagon Pagoda|shwedagon; 3 Ananda Temple; 3 Mahabodhi Temple|mahabodhi; 3 Temple of Heaven; 3 Kinkaku-ji|golden pavilion; 3 My Son Sanctuary|my son; 3 Florence Cathedral|duomo|santa maria del fiore;
+4 Brihadeeswarar Temple|brihadeeswara|thanjavur temple; 4 Khajuraho; 4 Jagannath Temple|puri temple; 4 Qutb Minar|quwwat ul islam; 4 Umayyad Mosque; 4 Al-Azhar Mosque|al azhar; 4 Great Mosque of Kilwa; 4 Templo Mayor; 4 Byodo-in|byodoin; 4 Jokhang; 4 Sainte-Chapelle|sainte chapelle; 4 Preah Vihear; 4 Banteay Srei; 4 Sultan Hassan Mosque; 4 Great Mosque of Xi'an; 4 Kutubiyya Mosque|koutoubia; 4 Imam Reza shrine; 4 Bibi-Khanym Mosque|bibi khanym; 4 Salisbury Cathedral; 4 Milan Cathedral; 4 Seville Cathedral; 4 Phat Tich Pagoda
+? Society | Name a social class, role, or group in a society between 1200 and 1450.
+1 Peasants|peasant; 1 Knights|knight; 1 Samurai; 1 Merchants|merchant; 1 Monks|monk|nuns|nun;
+2 Serfs|serf; 2 Nobles|nobility|aristocrats|noble; 2 Priests|priest|clergy; 2 Scholar-gentry|scholar officials|scholars; 2 Artisans|artisan|craftsmen; 2 Lords|lord; 2 Vassals|vassal; 2 Brahmins|brahmin;
+3 Kshatriyas|kshatriya; 3 Vaishyas|vaishya; 3 Shudras|shudra; 3 Daimyo; 3 Eunuchs|eunuch; 3 Mandarins|mandarin; 3 Guild members|guilds|guild; 3 Burghers|townspeople|bourgeoisie; 3 Ulama|ulema; 3 Mamluks|mamluk; 3 Griots|griot; 3 Nomads|nomad|pastoralists; 3 Soldiers|warriors|soldier;
+4 Pochteca; 4 Calpulli; 4 Sufis|sufi; 4 Janissaries|janissary; 4 Shogun; 4 Dalits|untouchables; 4 Jati; 4 Yeomen|yeoman; 4 Concubines|concubine; 4 Sailors|sailor; 4 Mitmaq|mitima; 4 Kurakas|curacas; 4 Jews|jewish communities; 4 Dhimmis|dhimmi; 4 Bureaucrats|officials

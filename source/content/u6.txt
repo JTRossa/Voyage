@@ -52,3 +52,57 @@
 2 Quinine; 2 Telegraph; 2 Breech-loading rifles|rifles|repeating rifles; 2 Gunboats|gunboat;
 3 Suez Canal; 3 Ironclads|ironclad; 3 Dynamite; 3 Undersea cable|submarine cable; 3 Smokeless powder; 3 Maps|cartography; 3 Vaccines|vaccination; 3 Artillery|cannons;
 4 Gatling gun|gatling; 4 Martini-Henry rifle|martini henry; 4 Enfield rifle|enfield; 4 Photography; 4 Refrigeration; 4 Barbed wire
+
+@voyage stanley | Down the Congo | Henry Morton Stanley · Zanzibar to Boma · 1874–1877
+? Places | Name a country in Africa today.
+1 Egypt; 1 Nigeria; 1 South Africa; 1 Kenya; 1 Ethiopia; 1 Morocco; 1 Ghana;
+2 Democratic Republic of the Congo|dr congo|drc|congo kinshasa|zaire; 2 Tanzania; 2 Algeria; 2 Uganda; 2 Sudan; 2 Somalia; 2 Madagascar; 2 Senegal; 2 Zimbabwe; 2 Libya; 2 Tunisia; 2 Rwanda; 2 Cameroon; 2 Angola; 2 Mozambique; 2 Mali; 2 Ivory Coast|cote divoire;
+3 Republic of the Congo|congo brazzaville|congo; 3 Zambia; 3 Botswana; 3 Namibia; 3 Malawi; 3 Liberia; 3 Sierra Leone; 3 Guinea; 3 Niger; 3 Chad; 3 Burkina Faso; 3 Benin; 3 Togo; 3 Gabon; 3 South Sudan; 3 Eritrea; 3 Djibouti; 3 Burundi; 3 Mauritania; 3 Gambia|the gambia; 3 Central African Republic|car; 3 Lesotho; 3 Eswatini|swaziland; 3 Mauritius;
+4 Equatorial Guinea; 4 Guinea-Bissau|guinea bissau; 4 Cape Verde|cabo verde; 4 Comoros; 4 Seychelles; 4 Sao Tome and Principe|sao tome
+? People | Name a European or American explorer of Africa between 1750 and 1900.
+1 David Livingstone|livingstone; 1 Henry Morton Stanley|stanley;
+2 Richard Burton|richard francis burton|burton; 2 John Hanning Speke|speke; 2 Mungo Park; 2 Samuel Baker; 2 Mary Kingsley|kingsley;
+3 Rene Caillie|caillie; 3 Heinrich Barth|barth; 3 Florence Baker; 3 Pierre Savorgnan de Brazza|de brazza|brazza; 3 Hugh Clapperton|clapperton; 3 Joseph Thomson; 3 Verney Lovett Cameron|cameron; 3 Gustav Nachtigal|nachtigal; 3 James Bruce; 3 Richard Lander|lander; 3 Alexine Tinne|tinne;
+4 Gerhard Rohlfs|rohlfs; 4 Serpa Pinto; 4 Hermenegildo Capelo|capelo; 4 Roberto Ivens|ivens; 4 Frederick Selous|selous; 4 Paul Du Chaillu|du chaillu; 4 Georg Schweinfurth|schweinfurth; 4 Wilhelm Junker|junker; 4 Emin Pasha; 4 Samuel Teleki|count teleki|teleki; 4 Ludwig Krapf|krapf; 4 Johannes Rebmann|rebmann; 4 Dixon Denham|denham; 4 James Augustus Grant; 4 Louis-Gustave Binger|binger; 4 Hermann von Wissmann|wissmann; 4 Charles Chaille-Long; 4 May French Sheldon
+? Geography | Name a river or lake in Africa.
+1 Nile|nile river; 1 Congo River|congo; 1 Lake Victoria|victoria; 1 Niger River|niger;
+2 Zambezi; 2 Lake Tanganyika|tanganyika; 2 Lake Chad|chad; 2 Blue Nile; 2 White Nile; 2 Lake Malawi|lake nyasa|malawi; 2 Limpopo; 2 Orange River|orange;
+3 Senegal River|senegal; 3 Gambia River|gambia; 3 Lake Albert|albert; 3 Lake Turkana|lake rudolf|turkana; 3 Lake Volta; 3 Volta River|volta; 3 Lake Nasser; 3 Lake Kariba|kariba; 3 Lake Kivu|kivu; 3 Lake Edward; 3 Okavango|okavango delta; 3 Benue; 3 Ubangi; 3 Kasai; 3 Lualaba; 3 Lake Tana|tana;
+4 Shire River|shire; 4 Juba River|juba; 4 Shebelle|shabelle; 4 Rufiji; 4 Atbara; 4 Kagera; 4 Cuanza|kwanza; 4 Ogooue; 4 Sanaga; 4 Tana River; 4 Vaal; 4 Lomami; 4 Sankuru; 4 Lake Mweru|mweru; 4 Lake Bangweulu|bangweulu; 4 Lake Kyoga|kyoga; 4 Lake Naivasha|naivasha; 4 Lake Nakuru|nakuru; 4 Lake Abaya; 4 Lake Rukwa; 4 Kafue; 4 Luangwa; 4 Cunene|kunene; 4 Medjerda; 4 Sebou
+? Tech | Name a medical discovery, treatment, or invention from between 1750 and 1900.
+1 Vaccines|vaccine|vaccination|smallpox vaccine; 1 Germ theory; 1 Anesthesia|anaesthesia;
+2 Quinine; 2 Pasteurization; 2 Antiseptics|antiseptic|carbolic acid; 2 X-rays|x ray|xray; 2 Stethoscope; 2 Aspirin; 2 Rabies vaccine; 2 Hypodermic syringe|syringe; 2 Sanitation|sewers|sewer systems|clean water;
+3 Ether; 3 Chloroform; 3 Morphine; 3 Nursing|modern nursing; 3 Cholera discovery|broad street pump|john snow; 3 Tuberculosis bacterium|koch's postulates|koch; 3 Mosquitoes spread malaria|malaria mosquito|malaria parasite; 3 Anthrax vaccine; 3 Cholera vaccine; 3 Handwashing|hand washing|semmelweis; 3 Clinical thermometer|thermometer; 3 Blood pressure cuff|sphygmomanometer;
+4 Cell theory; 4 Antitoxin|diphtheria antitoxin; 4 Blood transfusion; 4 Ophthalmoscope; 4 Contact lenses; 4 Hospital reform; 4 Red Cross; 4 Ambulance|ambulances; 4 Tropical medicine; 4 Inoculation|variolation; 4 Laughing gas|nitrous oxide
+? Wild card | Name something made of rubber.
+1 Tires|tire|tyres|tyre; 1 Balls|ball|rubber ball; 1 Erasers|eraser|rubber;
+2 Rubber bands|rubber band|elastic bands; 2 Gloves|rubber gloves|latex gloves; 2 Boots|rain boots|rubber boots|wellies|wellington boots; 2 Hoses|hose|garden hose; 2 Balloons|balloon; 2 Shoe soles|soles; 2 Sneakers|trainers|running shoes; 2 Rubber duck|rubber ducky;
+3 Raincoat|mackintosh|raincoats; 3 Flip-flops|flip flops|sandals; 3 Tennis ball; 3 Basketball; 3 Bike tires|bicycle tires|inner tube|inner tubes; 3 Pacifier|dummy; 3 Hot water bottle; 3 Swim cap; 3 Wetsuit; 3 Hockey puck|puck; 3 Golf ball; 3 Gaskets|seals|o-rings; 3 Conveyor belts|conveyor belt; 3 Insulation|wire insulation; 3 Elastic; 3 Rubber stamp|stamp; 3 Mouse pad; 3 Yoga mat;
+4 Windshield wipers|wiper blades; 4 Plunger; 4 Spatula; 4 Phone case; 4 Car mats|floor mats; 4 Bungee cords|bungee; 4 Bouncy castle; 4 Squeaky toys|dog toys; 4 Boat|raft|dinghy; 4 Ping pong paddle|table tennis bat; 4 Shock absorbers; 4 Hair ties|scrunchie
+
+@voyage transsib | The Iron Road to the Pacific | The Trans-Siberian Railway · Moscow to Vladivostok · 1891–1904
+? Places | Name a city in Russia.
+1 Moscow; 1 St. Petersburg|saint petersburg|petersburg|leningrad|petrograd; 1 Vladivostok;
+2 Novosibirsk; 2 Yekaterinburg|ekaterinburg; 2 Kazan; 2 Sochi; 2 Volgograd|stalingrad|tsaritsyn; 2 Irkutsk; 2 Murmansk; 2 Kaliningrad|konigsberg;
+3 Omsk; 3 Nizhny Novgorod|gorky; 3 Samara; 3 Rostov-on-Don|rostov; 3 Krasnoyarsk; 3 Perm; 3 Ufa; 3 Chelyabinsk; 3 Khabarovsk; 3 Tomsk; 3 Tobolsk; 3 Yakutsk; 3 Arkhangelsk|archangel; 3 Novgorod|veliky novgorod; 3 Smolensk; 3 Astrakhan; 3 Voronezh; 3 Saratov; 3 Tula; 3 Yaroslavl;
+4 Chita; 4 Ulan-Ude|ulan ude; 4 Tyumen; 4 Barnaul; 4 Kursk; 4 Pskov; 4 Vladimir; 4 Magadan; 4 Okhotsk; 4 Petropavlovsk-Kamchatsky|petropavlovsk; 4 Norilsk; 4 Krasnodar; 4 Kirov|vyatka; 4 Tver; 4 Kaluga; 4 Ryazan; 4 Orenburg; 4 Penza; 4 Izhevsk; 4 Grozny; 4 Makhachkala; 4 Suzdal; 4 Kostroma; 4 Vologda; 4 Blagoveshchensk; 4 Yuzhno-Sakhalinsk; 4 Kemerovo; 4 Novokuznetsk
+? Economy | Name an economic idea or system from between 1750 and 1900.
+1 Capitalism; 1 Socialism; 1 Communism; 1 Free trade;
+2 Laissez-faire|laissez faire; 2 Marxism; 2 Mercantilism; 2 Supply and demand; 2 Invisible hand; 2 Protectionism|tariffs|tariff; 2 Division of labor|division of labour; 2 Industrial capitalism;
+3 Utopian socialism; 3 Anarchism; 3 Cooperatives|co-ops|cooperative movement; 3 Gold standard; 3 Joint-stock companies|corporations|joint stock company; 3 Monopolies|monopoly|trusts; 3 Labor unions|trade unions|unions; 3 State-sponsored industrialization|state capitalism; 3 Class struggle; 3 Social Darwinism; 3 Stock market|stock exchange; 3 Banking|banks; 3 Comparative advantage;
+4 Labor theory of value|labour theory of value; 4 Surplus value; 4 Physiocracy|physiocrats; 4 Utilitarianism; 4 Welfare state|social insurance; 4 Syndicalism; 4 Fabian socialism|fabians; 4 Iron law of wages; 4 Malthusianism|malthus; 4 Dialectical materialism; 4 Limited liability; 4 Economic imperialism
+? Reform | Name a reform or reform movement of the 1800s.
+1 Abolition of slavery|abolitionism|abolition; 1 Women's suffrage|womens suffrage|suffrage movement; 1 Meiji Restoration|meiji reforms;
+2 Emancipation of the serfs|emancipation edict|end of serfdom; 2 Tanzimat|tanzimat reforms; 2 Self-Strengthening Movement|self strengthening; 2 Factory Acts|factory laws; 2 Child labor laws|child labour laws; 2 Public education|compulsory education|free public schools; 2 Labor unions|labor movement|trade unions;
+3 Hundred Days' Reform|hundred days reform; 3 Reform Act of 1832|great reform act|reform acts; 3 Chartism|chartists; 3 Temperance movement|temperance; 3 Seneca Falls Convention|seneca falls; 3 Repeal of the Corn Laws|corn laws; 3 Ottoman constitution of 1876|first constitutional era; 3 Sanitation reform|public health reform; 3 Mines Act; 3 Secret ballot; 3 Prison reform; 3 Social insurance|old-age pensions|old age pensions;
+4 Poor Law|poor law amendment; 4 Ten Hours Act; 4 Eight-hour day|eight hour day; 4 Minimum wage; 4 Brahmo Samaj; 4 Young Ottomans; 4 Muhammad Ali's reforms|muhammad ali; 4 Witte's industrialization|witte; 4 Kulturkampf; 4 Married Women's Property Act; 4 Gwangmu Reform|gabo reform; 4 Abolition of the samurai class|abolition of samurai
+? People | Name a ruler of Russia, the Ottoman Empire, China, or Japan between 1750 and 1900.
+1 Catherine the Great|catherine ii; 1 Emperor Meiji|meiji|mutsuhito; 1 Empress Dowager Cixi|cixi|tzu hsi; 1 Nicholas II;
+2 Alexander II; 2 Alexander III; 2 Nicholas I; 2 Alexander I; 2 Qianlong|qianlong emperor; 2 Abdul Hamid II|abdulhamid ii; 2 Selim III; 2 Mahmud II; 2 Guangxu|guangxu emperor;
+3 Paul I; 3 Peter III; 3 Abdulmejid I|abdulmecid|abdulmejid; 3 Abdulaziz; 3 Jiaqing; 3 Daoguang; 3 Xianfeng; 3 Tongzhi; 3 Tokugawa Yoshinobu|yoshinobu; 3 Emperor Komei|komei; 3 Mustafa IV; 3 Abdul Hamid I|abdulhamid i;
+4 Mustafa III; 4 Murad V; 4 Tokugawa Ienari|ienari; 4 Tokugawa Iesada|iesada; 4 Tokugawa Iemochi|iemochi; 4 Tokugawa Ieyoshi|ieyoshi; 4 Tokugawa Ieharu|ieharu;4 Emperor Ninko|ninko; 4 Emperor Kokaku|kokaku
+? Wild card | Name something that was powered by steam.
+1 Locomotive|train|trains|steam train|steam locomotive; 1 Steamship|steamboat|steam ship; 1 Factory machines|factories|machines;
+2 Steam engine; 2 Power loom|loom|looms; 2 Printing press|steam press; 2 Paddle steamer|paddle wheeler|riverboat; 2 Tractor|steam tractor|traction engine; 2 Mine pumps|water pump|pump;
+3 Threshing machine|thresher; 3 Steam hammer; 3 Crane|steam crane; 3 Steam car|steam carriage|steam bus; 3 Fire engine|steam fire engine; 3 Calliope|steam organ; 3 Carousel|merry-go-round; 3 Steam turbine|turbine; 3 Ironclad|warship|battleship; 3 Steamroller|road roller; 3 Sawmill; 3 Spinning mule|spinning machines; 3 Tram|steam tram|streetcar;
+4 Steam shovel|excavator; 4 Pile driver; 4 Steam whistle|whistle; 4 Cable car; 4 Elevator|lift; 4 Steam-powered ferry|ferry; 4 Icebreaker; 4 Dredger; 4 Steam laundry|laundry; 4 Rolling mill; 4 Electric generator|dynamo|power station

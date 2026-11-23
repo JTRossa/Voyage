@@ -26,7 +26,10 @@ Matching: case/accent/punctuation-insensitive, plural-tolerant, typo tolerance 1
 - index.html: engine (inline JS); fetches data/ and maps/ relative to the artifact.
 - Publish: publish_files to the slug above, patch mode, with new data/maps files.
 
-## Coverage as of 23 Nov 2026
-21 voyages written: Unit 4 has 5 (da Gama, Columbus, Magellan, VOC, Manila galleons); every other unit has 2.
-Unique voyages run through Day 18 (Thu 10 Dec 2026); after that a unit's voyages repeat until more are added.
+## Coverage as of 24 Nov 2026
+39 voyages written: Unit 4 has 7; every other unit has 4.
+Unique voyages run through Day 36 (Mon 28 Dec 2026); after that a unit's voyages repeat until more are added.
 Next batches should add 2 voyages per unit (18 per batch) and reuse routes where sensible.
+Build: build.py reads maps/ and writes data/ next to itself, so run it with symlinks
+(source/maps -> ../maps, source/data -> ../data) or copy the output into the repo folders.
+gen.mjs falls back to "M0,0" when a tiny regional map has no graticule line in view.

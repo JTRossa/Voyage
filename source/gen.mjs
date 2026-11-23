@@ -16,7 +16,7 @@ for (const [id, r] of Object.entries(routes)) {
   proj.clipExtent([[0, 0], [W, H]]);
   const path = d3.geoPath(proj).digits(1);
   const land = path(r.detail === "110" ? land110 : land50);
-  const grat = path(d3.geoGraticule10());
+  const grat = path(d3.geoGraticule10()) || "M0,0";
   const legs = r.legs.map(l => path({ type: "LineString", coordinates: l }));
   const stops = r.stops.map(s => { const [x, y] = proj(s.at); return { name: s.name, x: +x.toFixed(1), y: +y.toFixed(1), dx: s.dx || 0, dy: s.dy || 0 }; });
   out[id] = { land, grat, legs, stops };

@@ -132,3 +132,57 @@
 2 Spices|spice; 2 Gold; 2 Cotton|textiles|cloth;
 3 Ivory; 3 Lacquerware|lacquer; 3 Tea; 3 Cinnamon; 3 Pepper; 3 Cloves; 3 Jewels|jewelry|gems|pearls; 3 Fans|fan; 3 Furniture;
 4 Jade; 4 Cacao|chocolate|cocoa; 4 Wine; 4 Cochineal; 4 Wax|beeswax; 4 Folding screens|screens; 4 Mangoes|mango; 4 Shawls|manila shawls; 4 Tobacco; 4 Olive oil; 4 Nutmeg; 4 Sandalwood; 4 Camphor; 4 Musk; 4 Indigo; 4 Tamarind;
+
+@voyage champlain | The River of Canada | Samuel de Champlain · Honfleur to Quebec · 1608
+? Trade | Name a good traded in the Atlantic world between 1450 and 1750.
+1 Sugar; 1 Tobacco; 1 Furs|fur|beaver pelts|beaver fur; 1 Silver; 1 Cotton;
+2 Gold; 2 Rum; 2 Molasses; 2 Cod|codfish|salt cod|fish; 2 Guns|firearms|muskets; 2 Textiles|cloth; 2 Indigo; 2 Rice; 2 Coffee; 2 Cacao|cocoa|chocolate;
+3 Timber|lumber|wood; 3 Iron tools|tools|iron goods; 3 Horses|horse; 3 Wine; 3 Brandy; 3 Whale oil; 3 Brazilwood|dyewood|logwood; 3 Cochineal; 3 Deerskins|deer hides|hides|leather; 3 Glass beads|beads; 3 Copper kettles|kettles|copper; 3 Gunpowder; 3 Salt; 3 Wheat|flour; 3 Corn|maize;
+4 Naval stores|tar|pitch; 4 Ginger; 4 Cattle|livestock; 4 Potash; 4 Wampum; 4 Ivory; 4 Linen; 4 Mahogany; 4 Potatoes|potato; 4 Pewter; 4 Iron bars|iron; 4 Cowrie shells|cowries; 4 Wool|woolens; 4 Pearls; 4 Emeralds
+? Places | Name a European colony or settlement in North America founded before 1750.
+1 Jamestown; 1 Plymouth|plymouth colony; 1 Quebec|quebec city; 1 New Amsterdam; 1 Boston;
+2 St. Augustine|saint augustine; 2 Montreal; 2 New Orleans; 2 Philadelphia; 2 New France; 2 Virginia; 2 Massachusetts Bay|massachusetts; 2 New Netherland; 2 Pennsylvania; 2 Roanoke; 2 Mexico City; 2 Santa Fe;
+3 Port Royal; 3 Louisbourg; 3 Charleston|charles town; 3 Savannah; 3 Williamsburg; 3 Detroit; 3 Mobile; 3 San Antonio; 3 New Haven; 3 Providence; 3 Albany|fort orange; 3 New York; 3 Louisiana; 3 Acadia; 3 Maryland; 3 Carolina; 3 Georgia; 3 Connecticut; 3 Rhode Island; 3 New Sweden; 3 Newfoundland|st johns; 3 Veracruz; 3 Halifax; 3 Trois-Rivieres|three rivers;
+4 Annapolis Royal; 4 St. Mary's City; 4 Biloxi; 4 Pensacola; 4 Kaskaskia; 4 Baltimore; 4 Annapolis; 4 Tadoussac; 4 Natchitoches; 4 Fort Christina|wilmington; 4 New Hampshire; 4 Delaware; 4 New Jersey; 4 Salem; 4 Hartford; 4 Monterrey; 4 Puebla; 4 El Paso; 4 Albuquerque; 4 Vincennes
+? Geography | Name a large lake or river in North America.
+1 Mississippi River|mississippi; 1 Lake Superior|superior; 1 Lake Michigan|michigan; 1 Lake Huron|huron; 1 Lake Erie|erie; 1 Lake Ontario|ontario;
+2 St. Lawrence River|saint lawrence|st lawrence; 2 Missouri River|missouri; 2 Ohio River|ohio; 2 Hudson River|hudson; 2 Rio Grande; 2 Colorado River|colorado; 2 Great Salt Lake;
+3 Columbia River|columbia; 3 Delaware River|delaware; 3 Potomac; 3 Arkansas River|arkansas; 3 Tennessee River|tennessee; 3 Susquehanna; 3 Connecticut River|connecticut; 3 James River|james; 3 Ottawa River|ottawa; 3 Yukon River|yukon; 3 Mackenzie River|mackenzie; 3 Lake Champlain|champlain; 3 Lake Winnipeg|winnipeg; 3 Great Bear Lake; 3 Great Slave Lake; 3 Niagara River|niagara; 3 Red River; 3 Snake River|snake;
+4 Saguenay; 4 Richelieu; 4 Illinois River|illinois; 4 Wabash; 4 Platte; 4 Savannah River|savannah; 4 Sacramento River|sacramento; 4 Lake Okeechobee|okeechobee; 4 Lake Tahoe|tahoe; 4 Lake Nicaragua|nicaragua; 4 Fraser River|fraser; 4 Nelson River|nelson; 4 Lake of the Woods; 4 Mohawk River|mohawk; 4 Brazos; 4 Gila; 4 Pecos; 4 Lake Chapala|chapala; 4 Lake Texcoco|texcoco
+? Power | Name a war, battle, or treaty involving European powers between 1450 and 1750.
+1 Treaty of Tordesillas|tordesillas; 1 Thirty Years' War|thirty years war; 1 Spanish Armada|armada;
+2 Peace of Westphalia|treaty of westphalia|westphalia; 2 War of the Spanish Succession|spanish succession; 2 English Civil War; 2 Eighty Years' War|dutch revolt; 2 Battle of Lepanto|lepanto; 2 Siege of Vienna|battle of vienna; 2 Anglo-Dutch Wars|anglo dutch war;
+3 Treaty of Utrecht|utrecht; 3 Italian Wars; 3 French Wars of Religion|wars of religion; 3 Nine Years' War|war of the grand alliance|king williams war; 3 Queen Anne's War|queen annes war; 3 King George's War; 3 War of the Austrian Succession|austrian succession; 3 Great Northern War; 3 War of Jenkins' Ear|jenkins ear; 3 Treaty of Nerchinsk|nerchinsk; 3 Treaty of Zaragoza|saragossa; 3 Peace of Augsburg|augsburg; 3 Battle of Diu|diu; 3 King Philip's War|metacom's war; 3 Pequot War; 3 Battle of Mohacs|mohacs; 3 Battle of Poltava|poltava;
+4 Treaty of Aix-la-Chapelle|aix la chapelle; 4 Treaty of Breda|breda; 4 Treaty of Ryswick|ryswick; 4 Treaty of Nijmegen|nijmegen; 4 Treaty of Karlowitz|karlowitz; 4 Schmalkaldic War; 4 War of the Roses|wars of the roses; 4 Battle of Bosworth|bosworth; 4 Battle of White Mountain|white mountain; 4 Battle of Rocroi|rocroi; 4 Battle of Blenheim|blenheim; 4 Battle of Breitenfeld|breitenfeld; 4 Livonian War; 4 Siege of Malta|great siege of malta; 4 Treaty of Lisbon; 4 Battle of Alcacer Quibir|ksar el kebir|alcacer quibir; 4 Anglo-Spanish War
+? Wild card | Name a fish or other sea creature.
+1 Shark; 1 Whale; 1 Dolphin; 1 Octopus; 1 Tuna; 1 Salmon;
+2 Cod; 2 Jellyfish; 2 Squid; 2 Crab; 2 Lobster; 2 Shrimp|prawn; 2 Seal; 2 Sea turtle|turtle; 2 Starfish|sea star; 2 Clownfish; 2 Stingray|ray;
+3 Herring; 3 Sardine; 3 Mackerel; 3 Anchovy; 3 Swordfish; 3 Oyster; 3 Clam; 3 Mussel; 3 Eel|moray eel; 3 Sea urchin; 3 Seahorse; 3 Walrus; 3 Manta ray|manta; 3 Barracuda; 3 Sea lion; 3 Orca|killer whale;
+4 Haddock; 4 Halibut; 4 Sturgeon; 4 Narwhal; 4 Pufferfish|blowfish|fugu; 4 Anglerfish; 4 Marlin; 4 Flounder; 4 Sea cucumber; 4 Coral; 4 Krill; 4 Plankton; 4 Grouper; 4 Snapper; 4 Sailfish; 4 Nautilus; 4 Cuttlefish; 4 Hammerhead; 4 Sole; 4 Pollock; 4 Hake; 4 Scallop; 4 Barnacle; 4 Manatee|dugong
+
+@voyage hasekura | The Samurai Embassy | Hasekura Tsunenaga · Japan to Rome · 1613–1615
+? People | Name a Japanese person from between 1450 and 1750 (a ruler, warlord, artist, or traveler).
+1 Tokugawa Ieyasu|ieyasu; 1 Oda Nobunaga|nobunaga; 1 Toyotomi Hideyoshi|hideyoshi;
+2 Hasekura Tsunenaga|hasekura; 2 Date Masamune|masamune; 2 Tokugawa Iemitsu|iemitsu; 2 Tokugawa Hidetada|hidetada; 2 Matsuo Basho|basho; 2 Miyamoto Musashi|musashi; 2 Takeda Shingen|shingen; 2 Uesugi Kenshin|kenshin;
+3 Tokugawa Tsunayoshi|tsunayoshi; 3 Tokugawa Yoshimune|yoshimune; 3 Tokugawa Ietsuna|ietsuna; 3 Ashikaga Yoshimasa|yoshimasa; 3 Sen no Rikyu|rikyu; 3 Akechi Mitsuhide|mitsuhide; 3 Ishida Mitsunari|mitsunari; 3 Imagawa Yoshimoto|yoshimoto; 3 Chikamatsu Monzaemon|chikamatsu; 3 Ihara Saikaku|saikaku; 3 Yasuke; 3 Amakusa Shiro|shiro; 3 Hattori Hanzo|hanzo; 3 Mori Motonari|motonari; 3 Kano Eitoku|eitoku; 3 Sesshu|sesshu toyo;
+4 Ashikaga Yoshiaki|yoshiaki; 4 Honda Tadakatsu|tadakatsu; 4 Ii Naomasa|naomasa; 4 Yamada Nagamasa|nagamasa; 4 Hishikawa Moronobu|moronobu; 4 Ogata Korin|korin; 4 Hojo Ujiyasu|ujiyasu; 4 Shimazu Yoshihisa|yoshihisa; 4 Kato Kiyomasa|kiyomasa; 4 Sanada Yukimura|yukimura; 4 Toyotomi Hideyori|hideyori; 4 Hon'ami Koetsu|koetsu; 4 Tawaraya Sotatsu|sotatsu; 4 Arai Hakuseki|hakuseki; 4 Ikeda Terumasa|terumasa; 4 Takayama Ukon|ukon; 4 Konishi Yukinaga|yukinaga; 4 Kuroda Kanbei|kanbei
+? Belief | Name a Christian saint, missionary, or religious leader from between 1450 and 1750.
+1 Martin Luther|luther; 1 John Calvin|calvin; 1 Francis Xavier|xavier;
+2 Ignatius of Loyola|loyola|ignatius; 2 Matteo Ricci|ricci; 2 Bartolome de las Casas|las casas; 2 Henry VIII; 2 Huldrych Zwingli|zwingli; 2 Teresa of Avila; 2 John Knox|knox; 2 Pope Leo X|leo x; 2 Alexandre de Rhodes|de rhodes;
+3 Thomas More; 3 Juan Diego; 3 Rose of Lima; 3 Martin de Porres; 3 Kateri Tekakwitha|tekakwitha; 3 Alessandro Valignano|valignano; 3 John Wesley|wesley; 3 Jonathan Edwards; 3 William Penn; 3 Roger Williams; 3 Anne Hutchinson; 3 George Fox; 3 Philipp Melanchthon|melanchthon; 3 Menno Simons; 3 Thomas Cranmer|cranmer; 3 William Tyndale|tyndale; 3 Erasmus; 3 Pope Paul V|paul v; 3 Pope Julius II|julius ii; 3 Pope Alexander VI|alexander vi; 3 Pope Gregory XIII|gregory xiii; 3 Savonarola;
+4 John of the Cross; 4 Vincent de Paul; 4 Francis de Sales; 4 Philip Neri; 4 Charles Borromeo; 4 Peter Claver; 4 Jean de Brebeuf|brebeuf; 4 Jacques Marquette|marquette; 4 Eusebio Kino|kino; 4 Antonio Vieira|vieira; 4 Jose de Anchieta|anchieta; 4 Manuel da Nobrega|nobrega; 4 Adam Schall|johann adam schall von bell|schall; 4 Ferdinand Verbiest|verbiest; 4 Roberto de Nobili|de nobili; 4 Luis Sotelo|sotelo; 4 Cotton Mather; 4 Pope Pius V|pius v; 4 Pope Sixtus V|sixtus v; 4 Jacob Arminius|arminius; 4 Thomas Muntzer|muntzer; 4 Count Zinzendorf|zinzendorf; 4 George Whitefield|whitefield
+? Tech | Name something Europeans brought to East Asia between 1450 and 1750 (an object, food, idea, or technology).
+1 Guns|firearms|muskets|arquebus|harquebus; 1 Christianity|catholicism; 1 Clocks|clock|mechanical clocks;
+2 Cannons|cannon; 2 Tobacco; 2 Silver; 2 Chili peppers|chilies|chili; 2 Sweet potatoes|sweet potato; 2 Corn|maize; 2 Maps|world map|world maps; 2 Telescope|telescopes; 2 Printing press|movable type printing press;
+3 Eyeglasses|glasses|spectacles; 3 Astronomy; 3 Mathematics|geometry; 3 Western medicine|medicine|anatomy; 3 Peanuts|peanut; 3 Potatoes|potato; 3 Tempura; 3 Bread|pan; 3 Castella|castella cake; 3 Glassware|glass; 3 Playing cards|karuta|cards; 3 Rangaku|dutch learning; 3 Tomatoes|tomato; 3 Pineapple; 3 Calendar reform|calendar|gregorian calendar;
+4 Harpsichord|clavichord|organ; 4 Prisms|prism; 4 Oil painting; 4 Wine; 4 Soap; 4 Buttons; 4 Velvet; 4 Cacao|chocolate; 4 Papaya; 4 Guava; 4 Pumpkin|squash; 4 Ships|galleons|carracks; 4 Euclid's Elements|euclid
+? Wild card | Name a famous landmark or place to visit in Rome.
+1 Colosseum|coliseum; 1 Vatican|vatican city; 1 St. Peter's Basilica|st peters|saint peters basilica; 1 Sistine Chapel;
+2 Pantheon; 2 Trevi Fountain; 2 Roman Forum|forum; 2 Spanish Steps; 2 St. Peter's Square|saint peters square; 2 Vatican Museums;
+3 Palatine Hill|palatine; 3 Circus Maximus; 3 Castel Sant'Angelo|castel santangelo; 3 Tiber River|tiber; 3 Piazza Navona; 3 Trajan's Column|trajans column; 3 Arch of Constantine; 3 Capitoline Hill|capitoline|campidoglio; 3 Baths of Caracalla; 3 Catacombs; 3 Appian Way|via appia; 3 Altare della Patria|vittoriano|victor emmanuel monument;
+4 Villa Borghese|borghese gallery; 4 Mouth of Truth|bocca della verita; 4 Trastevere; 4 Aurelian Walls; 4 Piazza del Popolo; 4 Campo de' Fiori|campo dei fiori; 4 Ara Pacis; 4 Santa Maria Maggiore; 4 St. John Lateran|lateran basilica|san giovanni in laterano; 4 Mausoleum of Augustus; 4 Trajan's Market; 4 Quirinal Palace|quirinale; 4 Seven hills of Rome|seven hills; 4 Capitoline Museums; 4 Gianicolo|janiculum; 4 Pyramid of Cestius
+? Society | Name a job or role on a ship during the Age of Exploration.
+1 Captain; 1 Sailor|sailors|seaman; 1 Navigator; 1 Cook;
+2 Pilot; 2 Cabin boy; 2 Carpenter; 2 Surgeon|doctor|barber surgeon; 2 First mate|mate; 2 Lookout; 2 Priest|chaplain|friar; 2 Soldier|soldiers|marines; 2 Admiral; 2 Helmsman|steersman;
+3 Boatswain|bosun; 3 Quartermaster; 3 Gunner; 3 Cooper; 3 Purser; 3 Master|sailing master; 3 Cartographer|mapmaker; 3 Interpreter|translator; 3 Merchant|factor; 3 Clerk|scribe|notary; 3 Caulker; 3 Sailmaker; 3 Steward; 3 Rigger;
+4 Powder monkey; 4 Ship's boy|apprentice seaman|gromet; 4 Swabbie|deckhand; 4 Topman; 4 Armorer; 4 Constable; 4 Trumpeter; 4 Drummer; 4 Pilot major; 4 Supercargo; 4 Coxswain; 4 Lieutenant; 4 Midshipman
