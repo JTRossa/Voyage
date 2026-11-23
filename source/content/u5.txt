@@ -1,0 +1,55 @@
+#unit 5 | Revolutions | c. 1750–1900
+
+@voyage napoleon | The March on Moscow | Napoleon's Grande Armée · Paris to Moscow · 1812
+? Ideas | Name an Enlightenment thinker.
+1 John Locke|locke; 1 Voltaire; 1 Jean-Jacques Rousseau|rousseau; 1 Montesquieu;
+2 Thomas Hobbes|hobbes; 2 Adam Smith|smith; 2 Mary Wollstonecraft|wollstonecraft; 2 Thomas Paine|paine; 2 Immanuel Kant|kant; 2 Denis Diderot|diderot;
+3 David Hume|hume; 3 Cesare Beccaria|beccaria; 3 Olympe de Gouges|de gouges; 3 Thomas Jefferson|jefferson; 3 Benjamin Franklin|franklin; 3 Isaac Newton|newton; 3 John Stuart Mill|mill; 3 Jeremy Bentham|bentham; 3 Edmund Burke|burke; 3 Condorcet;
+4 D'Alembert|dalembert; 4 Baruch Spinoza|spinoza; 4 Pierre Bayle|bayle; 4 Francis Bacon|bacon; 4 René Descartes|descartes; 4 Catherine the Great|catherine; 4 Frederick the Great; 4 Émilie du Châtelet|du chatelet; 4 Quesnay; 4 Turgot; 4 Moses Mendelssohn|mendelssohn; 4 Abbé Sieyès|sieyes
+? Revolutions | Name a revolution or independence movement between 1750 and 1900.
+1 American Revolution|american; 1 French Revolution|french; 1 Haitian Revolution|haitian|haiti;
+2 Mexican War of Independence|mexican independence|mexico; 2 Latin American independence|latin american revolutions|latin american wars of independence; 2 Industrial Revolution; 2 Revolutions of 1848|1848;
+3 Italian unification|risorgimento|italy; 3 German unification|germany; 3 Greek War of Independence|greek independence|greece; 3 Taiping Rebellion|taiping; 3 Indian Rebellion of 1857|sepoy mutiny|sepoy rebellion|1857; 3 Meiji Restoration|meiji; 3 Brazilian independence|brazil; 3 Venezuelan independence|venezuela; 3 Boxer Rebellion|boxers;
+4 Túpac Amaru II rebellion|tupac amaru; 4 Pugachev's Rebellion|pugachev; 4 Serbian Revolution|serbia; 4 Belgian Revolution|belgium; 4 Decembrist revolt|decembrists; 4 Irish Rebellion of 1798|1798; 4 Paris Commune; 4 Philippine Revolution|philippines; 4 Cuban War of Independence|cuba; 4 Mahdist War|mahdist; 4 Donghak Rebellion|tonghak|donghak; 4 Peruvian independence|peru; 4 Chilean independence|chile; 4 Argentine independence|argentina; 4 Colombian independence|colombia; 4 Bolivian independence|bolivia
+? People | Name a revolutionary leader from 1750 to 1900.
+1 Napoleon Bonaparte|napoleon; 1 George Washington|washington; 1 Toussaint Louverture|toussaint l'ouverture|toussaint; 1 Simón Bolívar|bolivar|simon bolivar;
+2 Maximilien Robespierre|robespierre; 2 Miguel Hidalgo|hidalgo|father hidalgo; 2 José de San Martín|san martin; 2 Jean-Jacques Dessalines|dessalines; 2 Giuseppe Garibaldi|garibaldi; 2 Otto von Bismarck|bismarck; 2 Thomas Jefferson|jefferson;
+3 Georges Danton|danton; 3 Jean-Paul Marat|marat; 3 Lafayette|marquis de lafayette; 3 Bernardo O'Higgins|ohiggins|o higgins; 3 José María Morelos|morelos; 3 Giuseppe Mazzini|mazzini; 3 Camillo di Cavour|cavour; 3 Hong Xiuquan; 3 Túpac Amaru II|tupac amaru; 3 Olympe de Gouges; 3 Karl Marx|marx; 3 José Martí|jose marti|marti; 3 Emilio Aguinaldo|aguinaldo; 3 Rani Lakshmibai|rani of jhansi|lakshmibai;
+4 Pedro I|dom pedro i; 4 Agustín de Iturbide|iturbide; 4 Henri Christophe|christophe; 4 Antonio José de Sucre|sucre; 4 Francisco de Miranda|miranda; 4 Manuela Sáenz|manuela saenz; 4 Wolfe Tone|theobald wolfe tone; 4 Lajos Kossuth|kossuth; 4 Samuel Adams|sam adams; 4 John Adams; 4 Paul Revere; 4 Victor Emmanuel II; 4 José Rizal|rizal; 4 Antonio Maceo|maceo; 4 Dutty Boukman|boukman; 4 Saigō Takamori|saigo takamori|saigo; 4 Sakamoto Ryōma|sakamoto ryoma
+? Documents | Name a document from the age of revolutions (1750–1900).
+1 Declaration of Independence; 1 Declaration of the Rights of Man|declaration of the rights of man and of the citizen|rights of man;
+2 Jamaica Letter; 2 U.S. Constitution|us constitution|constitution|united states constitution; 2 Bill of Rights; 2 Communist Manifesto|the communist manifesto; 2 Common Sense; 2 Declaration of the Rights of Woman|rights of woman|declaration of the rights of woman and the female citizen;
+3 Napoleonic Code|code napoleon|civil code; 3 The Social Contract|social contract; 3 Two Treatises of Government|two treatises; 3 A Vindication of the Rights of Woman|vindication of the rights of woman; 3 The Wealth of Nations|wealth of nations; 3 What Is the Third Estate|third estate; 3 Haitian Declaration of Independence|haitian constitution; 3 Declaration of Sentiments|seneca falls declaration; 3 Cry of Dolores|grito de dolores|grito; 3 Emancipation Proclamation; 3 Charter Oath|five charter oath; 3 Tennis Court Oath;
+4 Federalist Papers|federalist; 4 Constitution of 1791; 4 The Spirit of the Laws|spirit of the laws; 4 Candide; 4 Encyclopédie|encyclopedie|encyclopedia; 4 Gettysburg Address; 4 Cahiers de doléances|cahiers; 4 Treaty of Paris; 4 Emancipation Manifesto|emancipation of the serfs|emancipation reform of 1861; 4 Monroe Doctrine; 4 On the Origin of Species|origin of species; 4 On Liberty; 4 Reflections on the Revolution in France|reflections; 4 Sentiments of the Nation; 4 Constitution of Cádiz|constitution of cadiz
+? Wild card | Name an invention or innovation of the Industrial Revolution.
+1 Steam engine; 1 Railroads|railroad|railway|trains|locomotive; 1 Telegraph;
+2 Spinning jenny; 2 Cotton gin; 2 Steamships|steamship|steamboat; 2 Factory system|factories|factory; 2 Telephone; 2 Light bulb;
+3 Water frame; 3 Power loom; 3 Bessemer process|steel; 3 Interchangeable parts; 3 Flying shuttle; 3 Spinning mule|mule; 3 Electric generator|electricity|dynamo|generator; 3 Internal combustion engine; 3 Sewing machine; 3 Smallpox vaccine|vaccines|vaccination; 3 Photography|camera; 3 Dynamite; 3 Typewriter; 3 Canals; 3 Coke smelting|coke;
+4 Macadam roads|macadam; 4 Mechanical reaper|reaper; 4 Steel plow; 4 Transatlantic cable|telegraph cable; 4 Refrigeration|refrigerated ships; 4 Phonograph; 4 Automobile|car; 4 Bicycle; 4 Puddling; 4 Gas lighting; 4 Vulcanized rubber|vulcanization; 4 Morse code; 4 Anesthesia; 4 Pasteurization; 4 Germ theory; 4 Portland cement|cement; 4 Machine tools|lathe; 4 Jacquard loom; 4 Synthetic dyes|chemical dyes; 4 Fertilizer; 4 Radio; 4 Elevator
+
+@voyage bolivar | The Liberator's Campaign | Simón Bolívar · Caracas to Lima · 1813–1824
+? Revolutions | Name a Latin American country that won independence between 1800 and 1830.
+1 Mexico; 1 Brazil; 1 Haiti; 1 Venezuela;
+2 Colombia|gran colombia; 2 Argentina; 2 Peru; 2 Chile; 2 Bolivia;
+3 Ecuador; 3 Paraguay; 3 Uruguay; 3 Guatemala|central america|united provinces of central america;
+4 Panama; 4 Costa Rica; 4 Honduras; 4 Nicaragua; 4 El Salvador
+? Society | Name a group that led or fought in the Latin American independence movements.
+1 Creoles|criollos|creole|criollo; 1 Enslaved people|slaves|enslaved africans;
+2 Mestizos|mestizo; 2 Indigenous people|indigenous|indians|natives; 2 Priests|clergy; 2 Llaneros|llanero;
+3 Free people of color|pardos|mulattoes; 3 Women|patriot women; 3 British Legion|british volunteers|foreign volunteers; 3 Freemasons|masonic lodges; 3 Army of the Andes; 3 Merchants; 3 Landowners|hacendados; 3 Gauchos|gaucho;
+4 Patriots|patriotas; 4 Students|intellectuals
+? Causes | Name a cause of revolutions between 1750 and 1900.
+1 Enlightenment ideas|enlightenment; 1 Taxes|taxation|high taxes; 1 Inequality|social inequality;
+2 Government debt|debt|national debt; 2 Food shortages|bread prices|famine; 2 Nationalism; 2 Napoleon's invasion of Spain|napoleon invaded spain|peninsular war; 2 The American Revolution's example|example of american revolution; 2 Slavery;
+3 Absolutism|absolute monarchy; 3 Seven Years' War|seven years war; 3 The estates system|three estates|estates; 3 Creole resentment|resentment of peninsulares; 3 Mercantilism|trade restrictions; 3 No taxation without representation|lack of representation; 3 Liberalism; 3 Newspapers|pamphlets|printing press; 3 The French Revolution's example; 3 Racial hierarchy|casta system|racism;
+4 Bourbon Reforms|bourbon; 4 Stamp Act; 4 Boston Tea Party|tea act; 4 Salons; 4 Coffeehouses; 4 Haiti's example|haiti; 4 Bad harvests|climate|laki eruption; 4 Romanticism; 4 Socialism; 4 Industrialization; 4 Unequal treaties; 4 Foreign interference|imperialism
+? Places | Name a capital city in South America today.
+1 Buenos Aires; 1 Lima; 1 Bogotá|bogota;
+2 Santiago; 2 Caracas; 2 Quito; 2 Brasília|brasilia;
+3 Montevideo; 3 La Paz; 3 Asunción|asuncion; 3 Sucre;
+4 Georgetown; 4 Paramaribo; 4 Cayenne; 4 Stanley
+? Wild card | Name a natural resource or product that powered industrialization (1750–1900).
+1 Coal; 1 Iron; 1 Steel; 1 Cotton;
+2 Oil|petroleum; 2 Rubber; 2 Water power|water|steam; 2 Timber|wood; 2 Copper;
+3 Guano; 3 Palm oil; 3 Gold; 3 Silver; 3 Wool; 3 Sugar; 3 Tin; 3 Nitrates|saltpeter|nitrate; 3 Diamonds; 3 Jute; 3 Silk; 3 Tea; 3 Coffee;
+4 Kerosene; 4 Indigo; 4 Ivory; 4 Hemp; 4 Bauxite|aluminum; 4 Lead; 4 Zinc; 4 Gutta-percha; 4 Phosphate; 4 Natural gas|gas; 4 Limestone; 4 Manganese; 4 Cocoa; 4 Wheat; 4 Beef; 4 Bananas; 4 Whale oil

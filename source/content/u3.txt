@@ -1,0 +1,55 @@
+#unit 3 | Land-Based Empires | c. 1450–1750
+
+@voyage vienna | The Road to Vienna | The Ottoman advance · Bursa to Vienna · 1453–1529
+? Power | Name a way land-based empires legitimized or consolidated power between 1450 and 1750.
+1 Religion|religious justification; 1 Military force|military|army|armies; 1 Taxes|taxation|tax collection;
+2 Bureaucracy|bureaucrats; 2 Monumental architecture|architecture|buildings|palaces; 2 Divine right|divine right of kings; 2 Devshirme; 2 Janissaries|janissary; 2 Gunpowder weapons|gunpowder|cannons;
+3 Tax farming; 3 Zamindar system|zamindars|zamindar; 3 Civil service exams|civil service examinations|exams; 3 Versailles|palace of versailles; 3 Mandate of Heaven; 3 Art|portraits|paintings; 3 Ceremonies|rituals; 3 Religious tolerance|tolerance|din-i ilahi|divine faith; 3 Millet system|millets; 3 Jizya|abolishing jizya; 3 Alliances with Rajputs|rajputs; 3 Marriage alliances|marriages;
+4 Qizilbash; 4 Ghulams|ghulam; 4 Timar system|timar; 4 Mansabdars|mansabdar; 4 Absolutism|absolute monarchy; 4 Censorship; 4 Spies; 4 Roads; 4 Queue hairstyle|queue; 4 Literary inquisition; 4 Coinage|coins; 4 Law codes|kanun|codification of law; 4 Patronage
+? People | Name a ruler of the Ottoman, Safavid, or Mughal Empire.
+1 Suleiman the Magnificent|suleiman; 1 Akbar; 1 Mehmed II|mehmed the conqueror|mehmed|mehmet;
+2 Shah Abbas|abbas i|abbas; 2 Babur; 2 Aurangzeb; 2 Shah Jahan; 2 Ismail I|shah ismail|ismail; 2 Selim I|selim;
+3 Jahangir; 3 Humayun; 3 Osman I|osman; 3 Murad II|murad; 3 Bayezid II|bayezid; 3 Tahmasp|shah tahmasp; 3 Hürrem Sultan|roxelana|hurrem; 3 Nur Jahan; 3 Mumtaz Mahal;
+4 Selim II; 4 Murad III; 4 Murad IV; 4 Mehmed IV; 4 Ahmed I; 4 Osman II; 4 Abbas II; 4 Shah Safi|safi; 4 Sultan Husayn; 4 Bahadur Shah; 4 Farrukhsiyar; 4 Muhammad Shah; 4 Kösem Sultan|kosem; 4 Dara Shikoh; 4 Orhan; 4 Nader Shah|nadir shah
+? Places | Name a capital or great city of a land-based empire between 1450 and 1750.
+1 Istanbul|constantinople; 1 Beijing; 1 Isfahan;
+2 Delhi; 2 Agra; 2 Moscow; 2 Edo|tokyo; 2 Paris; 2 Vienna; 2 Madrid;
+3 Fatehpur Sikri; 3 Tabriz; 3 Lahore; 3 St. Petersburg|saint petersburg|st petersburg; 3 Kyoto; 3 Nanjing; 3 Edirne; 3 Bursa; 3 Cairo; 3 Gao; 3 Cusco|cuzco; 3 Tenochtitlan; 3 London; 3 Versailles; 3 Qazvin;
+4 Mashhad; 4 Kabul; 4 Shahjahanabad; 4 Hampi|vijayanagara; 4 Ayutthaya; 4 Seoul|hanseong; 4 Mbanza Kongo|sao salvador; 4 Benin City; 4 Baghdad; 4 Damascus; 4 Belgrade; 4 Buda|budapest; 4 Kraków|krakow; 4 Prague; 4 Mukden|shenyang; 4 Ardabil; 4 Herat; 4 Thăng Long|thang long|hanoi; 4 Huế|hue|phu xuan
+? Belief | Name a religious group or movement active between 1450 and 1750.
+1 Protestants|protestant|protestantism; 1 Catholics|catholic|catholicism; 1 Sunni Islam|sunni; 1 Shia Islam|shia|shiite|shi'a;
+2 Lutherans|lutheran; 2 Calvinists|calvinist; 2 Sikhism|sikhs|sikh; 2 Anglicans|anglican|church of england; 2 Jesuits|jesuit; 2 Sufis|sufism|sufi;
+3 Huguenots; 3 Puritans; 3 Anabaptists; 3 Bhakti; 3 Twelver Shia|twelvers; 3 Counter-Reformation|catholic reformation; 3 Neo-Confucianism; 3 Eastern Orthodox|orthodox|russian orthodox; 3 Din-i Ilahi|divine faith; 3 Hindus|hinduism; 3 Jews|judaism;
+4 Old Believers; 4 Quakers; 4 Presbyterians; 4 Mennonites; 4 Wahhabism|wahhabi; 4 Kirishitan|japanese christians; 4 Sabbateans|sabbatai zevi; 4 Moriscos; 4 Conversos; 4 Hussites; 4 Bektashi; 4 Mevlevi|whirling dervishes; 4 Safaviyya; 4 Pietists|pietism; 4 Methodists
+? Wild card | Name a famous building constructed between 1450 and 1750.
+1 Taj Mahal; 1 Forbidden City; 1 St. Peter's Basilica|st peters basilica|saint peters; 1 Palace of Versailles|versailles;
+2 Blue Mosque|sultan ahmed mosque; 2 Süleymaniye Mosque|suleymaniye; 2 Topkapı Palace|topkapi; 2 Red Fort; 2 St. Basil's Cathedral|saint basils|st basils; 2 Sistine Chapel; 2 Himeji Castle|himeji;
+3 Shah Mosque|imam mosque; 3 Fatehpur Sikri; 3 Ali Qapu; 3 Selimiye Mosque|selimiye; 3 Agra Fort; 3 Potala Palace|potala; 3 El Escorial|escorial; 3 Brunelleschi's dome|florence cathedral dome; 3 Peterhof; 3 Winter Palace; 3 Badshahi Mosque; 3 Jantar Mantar; 3 St Paul's Cathedral|st pauls; 3 Humayun's Tomb|humayuns tomb; 3 Machu Picchu;
+4 Naqsh-e Jahan Square|naqsh-e jahan|imam square; 4 Chehel Sotoun; 4 Golden Temple|harmandir sahib; 4 Nijō Castle|nijo castle|nijo; 4 Osaka Castle; 4 Jama Masjid; 4 Buland Darwaza; 4 Moscow Kremlin; 4 Hampton Court; 4 Louvre; 4 Château de Chambord|chambord; 4 Amber Fort; 4 Shalimar Gardens; 4 Bibi Ka Maqbara; 4 Ming Tombs
+
+@voyage babur | The Tiger's Road to India | Babur founds the Mughal Empire · Andijan to Agra · 1526
+? Power | Name an empire that expanded over land between 1450 and 1750.
+1 Ottoman Empire|ottoman|ottomans; 1 Mughal Empire|mughal|mughals|mogul; 1 Ming Dynasty|ming; 1 Qing Dynasty|qing|manchu; 1 Safavid Empire|safavid|safavids; 1 Aztec Empire|aztec|aztecs|mexica; 1 Inca Empire|inca|incas|inka;
+2 Russian Empire|russia|russian|muscovy|tsardom of russia; 2 Songhai Empire|songhai|songhay; 2 Tokugawa Japan|tokugawa|tokugawa shogunate;
+3 Holy Roman Empire|hre; 3 Kingdom of Kongo|kongo; 3 Ethiopian Empire|ethiopia|abyssinia; 3 Kingdom of Benin|benin; 3 Joseon Korea|joseon|choson; 3 Habsburg Empire|habsburg|habsburgs|austria; 3 Spanish Empire|spain;
+4 Vijayanagara Empire|vijayanagara|vijayanagar; 4 Oyo Empire|oyo; 4 Asante Empire|asante|ashanti; 4 Mutapa|monomotapa; 4 Kanem-Bornu|bornu; 4 Polish-Lithuanian Commonwealth|poland; 4 Ayutthaya|siam; 4 Dahomey; 4 Maratha Empire|maratha|marathas; 4 Khanate of Bukhara|bukhara; 4 Crimean Khanate|crimea; 4 Đại Việt|dai viet|le dynasty
+? Tech | Name a weapon or military technology used between 1450 and 1750.
+1 Cannons|cannon; 1 Muskets|musket|guns; 1 Gunpowder;
+2 Composite bows|bows|bow|archers; 2 Swords|sword|scimitar|katana; 2 Cavalry|horses; 2 Pikes|pike; 2 Warships|galleon;
+3 Arquebus|harquebus; 3 Matchlock; 3 Flintlock; 3 Bayonet; 3 Artillery; 3 Siege guns|bombards|great bombard|dardanelles gun; 3 Wagon fort|tabor|wagenburg; 3 War elephants|elephants; 3 Plate armor|armor|armour; 3 Star forts|star fort|trace italienne; 3 Grenades; 3 Mines|sapping;
+4 Swivel guns|zamburak|camel guns; 4 Turtle ship|geobukseon; 4 Lances|lance; 4 Crossbows|crossbow; 4 Halberd; 4 Mortar; 4 Rockets; 4 Volley fire|countermarch; 4 Pistols|pistol; 4 Wheellock; 4 Rapier
+? Places | Name a battle fought between 1450 and 1750.
+1 Fall of Constantinople|siege of constantinople|constantinople; 1 Battle of Panipat|panipat;
+2 Battle of Chaldiran|chaldiran; 2 Siege of Vienna|vienna; 2 Battle of Mohács|mohacs; 2 Spanish Armada|armada; 2 Battle of Lepanto|lepanto; 2 Battle of Sekigahara|sekigahara;
+3 Cajamarca|battle of cajamarca; 3 Fall of Tenochtitlan|siege of tenochtitlan|tenochtitlan; 3 Battle of Talikota|talikota; 3 Battle of Diu|diu; 3 Battle of Nagashino|nagashino; 3 Battle of Haldighati|haldighati; 3 Battle of Poltava|poltava; 3 Battle of Blenheim|blenheim; 3 White Mountain|battle of white mountain; 3 Breitenfeld; 3 Naseby; 3 Battle of the Boyne|boyne; 3 Bosworth; 3 Battle of Tondibi|tondibi; 3 Battle of Mbwila|mbwila|ambuila; 3 Siege of Malta|malta; 3 Battle of Myeongnyang|myeongnyang|hansan; 3 Battle of Karnal|karnal;
+4 Battle of Khanwa|khanwa; 4 Otumba; 4 Pavia; 4 Rocroi; 4 Varna; 4 Preveza; 4 Marj Dabiq; 4 Ridaniya; 4 Shanhai Pass; 4 Siege of Candia|candia; 4 Zenta; 4 Kahlenberg; 4 Castillon; 4 Flodden; 4 Battle of Alcácer Quibir|ksar el kebir|battle of three kings
+? Society | Name a social group or class in a land-based empire between 1450 and 1750.
+1 Peasants|farmers; 1 Nobles|nobility|aristocrats; 1 Samurai;
+2 Merchants; 2 Janissaries; 2 Serfs|serfdom; 2 Daimyo; 2 Scholar-gentry|scholar officials|gentry|literati; 2 Clergy|priests; 2 Boyars|boyar;
+3 Zamindars|zamindar; 3 Rajputs; 3 Artisans|craftsmen; 3 Brahmins|brahman; 3 Shogun; 3 Eunuchs; 3 Bannermen|eight banners; 3 Cossacks; 3 Junkers; 3 Ulama|ulema; 3 Qizilbash; 3 Enslaved people|slaves;
+4 Ronin; 4 Burakumin; 4 Chōnin|chonin|townspeople; 4 Mansabdars; 4 Ghulams; 4 Dhimmis|dhimmi; 4 Yangban; 4 Bourgeoisie; 4 Dalits|untouchables; 4 Kshatriya; 4 Vaishya; 4 Shudra|sudra; 4 Concubines|harem; 4 Grand vizier|viziers; 4 Pashas; 4 Beys
+? Wild card | Name a food, drink, or crop that became popular somewhere new between 1450 and 1750.
+1 Potatoes|potato; 1 Corn|maize; 1 Coffee; 1 Tea; 1 Sugar;
+2 Chocolate|cacao|cocoa; 2 Tomatoes|tomato; 2 Chili peppers|chili|chilies; 2 Tobacco; 2 Sweet potatoes|sweet potato; 2 Rice;
+3 Peanuts; 3 Cassava|manioc; 3 Pineapple; 3 Wheat; 3 Bananas; 3 Rum; 3 Wine; 3 Beef|cattle; 3 Pork|pigs; 3 Vanilla; 3 Squash; 3 Beans;
+4 Avocado; 4 Papaya; 4 Turkey; 4 Okra; 4 Black-eyed peas|cowpeas; 4 Yams; 4 Coconut; 4 Gin; 4 Brandy; 4 Opium; 4 Paprika; 4 Vodka; 4 Oranges|citrus

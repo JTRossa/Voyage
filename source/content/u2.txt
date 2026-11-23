@@ -1,0 +1,55 @@
+#unit 2 | Networks of Exchange | c. 1200–1450
+
+@voyage polo | To the Court of Kublai Khan | Marco Polo · Venice to Khanbaliq · 1271–1275
+? Trade | Name a good traded along the Silk Roads between 1200 and 1450.
+1 Silk; 1 Spices|spice; 1 Porcelain|china|ceramics;
+2 Horses|horse; 2 Paper; 2 Tea; 2 Jade; 2 Gold; 2 Silver; 2 Cotton|cotton textiles|textiles|cloth;
+3 Glass|glassware; 3 Furs|fur; 3 Carpets|rugs; 3 Gems|precious stones|jewels|rubies|lapis lazuli; 3 Ivory; 3 Pepper; 3 Cinnamon; 3 Wool; 3 Enslaved people|slaves; 3 Rhubarb|medicines; 3 Lacquerware|lacquer; 3 Iron|steel;
+4 Musk; 4 Camphor; 4 Saffron; 4 Indigo; 4 Frankincense|incense; 4 Coral; 4 Amber; 4 Pearls; 4 Wine; 4 Dates; 4 Sugar; 4 Felt; 4 Bronze mirrors|mirrors; 4 Damascus steel; 4 Cashmere; 4 Brocade; 4 Ginseng; 4 Salt
+? Tech | Name an innovation that helped trade grow between 1200 and 1450.
+1 Caravanserais|caravanserai|caravansaries|inns; 1 Paper money|paper currency|flying cash; 1 Compass|magnetic compass;
+2 Bills of exchange|letters of credit|credit; 2 Banking|banks; 2 Camel saddles|saddles|saddle; 2 Astrolabe; 2 Junks|junk; 2 Dhows|dhow;
+3 Lateen sail|lateen; 3 Checks|cheques; 3 Paiza|passports|safe-conduct passes; 3 Yam system|yam|postal relay|relay stations; 3 Sternpost rudder|rudder; 3 Knowledge of monsoons|monsoon winds|monsoons; 3 Merchant guilds|guilds; 3 Hanseatic League|hansa;
+4 Double-entry bookkeeping|double entry bookkeeping; 4 Commenda|partnerships; 4 Insurance; 4 Watertight compartments|bulkheads; 4 Hawala; 4 Coinage|coins|minting; 4 Cog ships|cog; 4 Canals|grand canal
+? Power | Name a Mongol khanate or a Mongol ruler.
+1 Genghis Khan|chinggis khan|temujin; 1 Kublai Khan|khubilai khan|kublai;
+2 Golden Horde; 2 Ilkhanate|il-khanate; 2 Yuan Dynasty|yuan; 2 Chagatai Khanate|chagatai|chaghatai;
+3 Batu Khan|batu; 3 Hulagu|hulegu|hulagu khan; 3 Ögedei|ogedei|ogodei; 3 Möngke|mongke; 3 Timur|tamerlane|timur the lame; 3 Güyük|guyuk;
+4 Berke; 4 Ghazan|ghazan khan; 4 Öz Beg|uzbek khan|ozbeg; 4 Toghon Temür|toghon temur; 4 Tolui; 4 Jochi; 4 Sorghaghtani Beki|sorghaghtani; 4 Khutulun; 4 Börte|borte; 4 Arghun; 4 Abaqa; 4 Tokhtamysh
+? Places | Name a city on the Silk Roads.
+1 Samarkand; 1 Baghdad; 1 Constantinople|istanbul; 1 Beijing|khanbaliq|dadu;
+2 Kashgar; 2 Bukhara; 2 Xi'an|xian|chang'an|changan; 2 Merv; 2 Damascus; 2 Venice;
+3 Tabriz; 3 Dunhuang; 3 Herat; 3 Balkh; 3 Karakorum; 3 Aleppo; 3 Antioch; 3 Trebizond; 3 Kaffa|caffa|feodosia; 3 Hormuz; 3 Nishapur; 3 Turfan; 3 Khotan; 3 Lanzhou; 3 Tashkent; 3 Sarai; 3 Genoa;
+4 Kabul; 4 Isfahan; 4 Urgench; 4 Otrar; 4 Almaliq; 4 Hami|kumul; 4 Yarkand; 4 Rayy|ray; 4 Tana; 4 Astrakhan; 4 Konya; 4 Sultaniyya; 4 Hangzhou; 4 Quanzhou
+? Exchange | Name something besides goods that spread along trade networks (an idea, disease, crop, or technology).
+1 Black Death|bubonic plague|plague; 1 Buddhism; 1 Islam;
+2 Gunpowder; 2 Papermaking|paper; 2 Christianity; 2 Champa rice; 2 Printing;
+3 Sugarcane|sugar; 3 Citrus|oranges|lemons; 3 Cotton; 3 Arabic numerals|hindu-arabic numerals|zero; 3 Compass; 3 Astronomy|astrolabe; 3 Medical knowledge|medicine; 3 Greek philosophy|aristotle|translations; 3 Sufism; 3 Languages|swahili|persian; 3 Art styles|blue and white porcelain;
+4 Spinach; 4 Bananas; 4 Rice; 4 Sorghum; 4 Coffee; 4 Algebra; 4 Neo-Confucianism; 4 Nestorian Christianity|nestorianism; 4 Manichaeism; 4 Hinduism; 4 Musical instruments|lute|oud; 4 Cartography|maps; 4 Fleas|rats; 4 Blast furnace
+
+@voyage musa | The Golden Pilgrimage | Mansa Musa's hajj · Niani to Mecca · 1324
+? Trade | Name a good traded across the Sahara between 1200 and 1450.
+1 Gold; 1 Salt;
+2 Enslaved people|slaves; 2 Ivory; 2 Copper; 2 Horses; 2 Textiles|cloth|cotton|cotton cloth;
+3 Kola nuts|kola|cola nuts; 3 Books|manuscripts; 3 Dates; 3 Ostrich feathers|feathers; 3 Leather|hides; 3 Glass beads|beads|glass; 3 Weapons|swords|metal goods; 3 Silver; 3 Spices;
+4 Gum arabic; 4 Cowrie shells|cowries; 4 Shea butter; 4 Grain|millet|sorghum; 4 Paper; 4 Iron; 4 Indigo; 4 Silk; 4 Perfume|incense; 4 Wheat; 4 Figs; 4 Camels
+? Places | Name a city or kingdom in West Africa between 1200 and 1450.
+1 Mali|mali empire; 1 Timbuktu;
+2 Ghana|ghana empire; 2 Gao; 2 Djenné|jenne|djenne; 2 Songhai; 2 Niani;
+3 Walata|oualata; 3 Kano; 3 Kingdom of Benin|benin; 3 Ife|ile-ife; 3 Hausa states|hausa|hausa kingdoms; 3 Kanem-Bornu|kanem|bornu; 3 Oyo; 3 Kumbi Saleh|koumbi saleh; 3 Taghaza|teghaza; 3 Katsina; 3 Zaria;
+4 Awdaghust|audaghost; 4 Tadmekka; 4 Mossi kingdoms|mossi; 4 Takrur|tekrur; 4 Jolof|wolof; 4 Bono; 4 Agadez
+? People | Name a ruler, scholar, or important figure from Africa between 1200 and 1450.
+1 Mansa Musa|musa; 1 Sundiata Keita|sundiata|sunjata;
+2 Ibn Battuta|battuta; 2 Ibn Khaldun|khaldun; 2 Lalibela|gebre meskel lalibela;
+3 Zara Yaqob|zara yacob; 3 Amda Seyon|amda tseyon; 3 Mansa Sulayman|sulayman; 3 Abubakari II|abu bakr ii|abubakari; 3 Oba Ewuare|ewuare|ewuare the great; 3 Al-Sahili|es-saheli|abu ishaq al-sahili; 3 Sumanguru|soumaoro kante|sumanguru kante; 3 Griots|griot|balla fasseke;
+4 Mansa Uli|uli; 4 Yekuno Amlak; 4 Al-Hasan ibn Sulaiman|al-hasan ibn sulaiman; 4 Nyatsimba Mutota|mutota; 4 Dunama Dibbalemi|dunama; 4 Oranmiyan; 4 Oduduwa
+? Belief | Name a mosque, holy city, or religious site connected to Islam.
+1 Mecca|makkah; 1 Medina|madinah; 1 Kaaba|ka'ba;
+2 Jerusalem|dome of the rock|al-aqsa|al aqsa; 2 Djinguereber Mosque|djinguereber; 2 Great Mosque of Djenné|djenne mosque; 2 Sankore Mosque|sankore; 2 Al-Azhar|al azhar;
+3 Great Mosque of Córdoba|mezquita|cordoba mosque; 3 Hagia Sophia; 3 Blue Mosque; 3 Umayyad Mosque|great mosque of damascus; 3 Great Mosque of Kilwa; 3 Karbala; 3 Najaf; 3 Al-Qarawiyyin|qarawiyyin; 3 Samarra|great mosque of samarra; 3 Qutb Minar; 3 House of Wisdom;
+4 Great Mosque of Kairouan|kairouan; 4 Mashhad; 4 Shah Mosque|imam mosque; 4 Badshahi Mosque|badshahi; 4 Taj Mahal; 4 Selimiye Mosque|selimiye; 4 Süleymaniye Mosque|suleymaniye; 4 Mosque of Ibn Tulun|ibn tulun; 4 Mount Arafat|arafat; 4 Mina; 4 Bibi-Khanym Mosque|bibi khanym; 4 Registan
+? Wild card | Name an animal used for transport or trade before 1450.
+1 Camels|camel; 1 Horses|horse; 1 Donkeys|donkey;
+2 Mules|mule; 2 Oxen|ox; 2 Llamas|llama; 2 Elephants|elephant; 2 Yaks|yak;
+3 Water buffalo|buffalo; 3 Bactrian camel; 3 Dromedary; 3 Sled dogs|dogs; 3 Reindeer; 3 Carrier pigeons|pigeons;
+4 Alpacas|alpaca; 4 Zebu; 4 Hinny; 4 Falcons
