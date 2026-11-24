@@ -80,6 +80,10 @@ pre.share{white-space:pre-wrap;background:#f6efe1;border-radius:10px;padding:10p
 .recap div{display:flex;gap:8px;align-items:flex-start;font-size:13px;padding:5px 0;border-bottom:1px solid #f1eadb}
 .recap div span:first-child{font-size:17px;width:24px;flex:0 0 24px;text-align:center}
 .recap em{color:var(--muted);font-style:normal}
+.allans{margin-top:4px}
+.allans summary{cursor:pointer;color:var(--navy);font-weight:600;font-size:12px}
+.allans p{margin:6px 0 0;font-size:12px;line-height:1.45;color:#374151}
+.allans p.mine b{color:var(--rust)}
 footer{margin-top:22px;text-align:center;font-size:12px;color:var(--muted)}
 footer a{color:var(--muted);cursor:pointer;text-decoration:underline}
 .preview{display:none;flex-wrap:wrap;gap:6px;justify-content:center;margin-top:8px}
@@ -443,6 +447,17 @@ function showFinal(){
     const s1=document.createElement("span"); s1.textContent=r.tier?TIERS[r.tier].e:"🌊";
     const s2=document.createElement("span"); s2.append(q.q, document.createElement("br"));
     const em=document.createElement("em"); em.textContent=r.ans?"You: "+r.ans:"No answer"; s2.append(em);
+    const det=document.createElement("details"); det.className="allans";
+    const sum=document.createElement("summary"); sum.textContent="See all "+q.a.length+" answers"; det.append(sum);
+    [4,3,2,1].forEach(tier=>{
+      const names=q.a.filter(a=>a[0]===tier).map(a=>a[1]); if(!names.length) return;
+      const pp=document.createElement("p"); const b=document.createElement("b");
+      b.textContent=TIERS[tier].e+" "+TIERS[tier].n+" ("+TIERS[tier].km+" km): ";
+      pp.append(b, names.join(", "));
+      if(r.ans && names.includes(r.ans)) pp.classList.add("mine");
+      det.append(pp);
+    });
+    s2.append(det);
     d.append(s1,s2); rc.append(d);
   });
 }
