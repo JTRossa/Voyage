@@ -160,7 +160,7 @@ footer a{color:var(--muted);cursor:pointer;text-decoration:underline}
   </section>
 
   <footer>
-    <a id="teacherLink">Teacher preview</a>
+    <a id="teacherLink" class="hidden">Teacher preview</a>
     <div class="preview" id="preview"><div class="pv"><button id="pvPrev">◀ Prev</button><span id="pvLbl"></span><button id="pvNext">Next ▶</button></div><button id="pvToday">Back to today</button></div>
   </footer>
 </div>
@@ -449,6 +449,9 @@ function showFinal(){
 
 /* ===== Teacher preview ===== */
 $("teacherLink").onclick=()=>$("preview").classList.toggle("open");
+/* Teacher preview only appears when the page is opened with #captain at the end of the address */
+function teacherMode(){ const on=location.hash==="#captain"; $("teacherLink").classList.toggle("hidden",!on); if(!on) $("preview").classList.remove("open"); }
+window.addEventListener("hashchange",teacherMode); teacherMode();
 function renderPreview(){
   const d=dateFor(curN);
   $("pvLbl").textContent="#"+curN+" · "+d.toLocaleDateString("en-US",{weekday:"short",month:"short",day:"numeric"})+" · Unit "+(((curN-1)%9)+1);
