@@ -107,3 +107,57 @@
 2 Risotto; 2 Tiramisu; 2 Ravioli; 2 Pesto; 2 Mozzarella; 2 Parmesan|parmigiano; 2 Espresso; 2 Cappuccino; 2 Macaroni; 2 Carbonara; 2 Penne; 2 Fettuccine|fettuccine alfredo; 2 Calzone;
 3 Gnocchi; 3 Prosciutto; 3 Salami; 3 Focaccia; 3 Bruschetta; 3 Cannoli; 3 Panettone; 3 Minestrone; 3 Polenta; 3 Tortellini; 3 Arancini; 3 Panna cotta; 3 Biscotti; 3 Olive oil; 3 Balsamic vinegar|balsamic; 3 Pizza Margherita|margherita; 3 Ricotta; 3 Gorgonzola; 3 Latte;
 4 Ossobuco|osso buco; 4 Saltimbocca; 4 Cacio e pepe; 4 Linguine; 4 Rigatoni; 4 Ciabatta; 4 Mascarpone; 4 Pecorino; 4 Burrata; 4 Affogato; 4 Zabaglione; 4 Amaretti; 4 Caprese salad|caprese; 4 Bolognese|ragu; 4 Grissini|breadsticks; 4 Piadina; 4 Orecchiette; 4 Ciambella; 4 Granita; 4 Sfogliatella
+
+@voyage cotton | King Cotton | The cotton trade · Natchez to Manchester · 1840s
+? Trade | Name a product made in factories during the 1800s.
+1 Cloth|textiles|fabric; 1 Iron; 1 Steel; 1 Guns|rifles|firearms;
+2 Thread|yarn; 2 Rails|railroad tracks; 2 Locomotives|trains; 2 Steam engines; 2 Nails; 2 Shoes|boots; 2 Glass; 2 Pottery|china|porcelain; 2 Soap; 2 Paper; 2 Matches; 2 Bricks; 2 Clothing|clothes; 2 Tools; 2 Furniture;
+3 Pins|needles; 3 Buttons; 3 Chemicals; 3 Dyes|synthetic dyes; 3 Bicycles; 3 Sewing machines; 3 Typewriters; 3 Canned food|tin cans|cans; 3 Clocks; 3 Watches; 3 Hats; 3 Machine tools; 3 Cigarettes; 3 Biscuits|crackers; 3 Chocolate; 3 Beer; 3 Sugar|refined sugar; 3 Rubber goods|tires|tyres; 3 Fertilizer; 3 Cement; 3 Wire; 3 Telegraph cable|cable;
+4 Screws; 4 Gunpowder|dynamite; 4 Ships|steamships; 4 Pianos; 4 Light bulbs; 4 Plows|ploughs; 4 Reapers|mechanical reapers; 4 Pens|steel pens; 4 Pencils; 4 Locks; 4 Cutlery|knives; 4 Umbrellas; 4 Paint; 4 Margarine; 4 Cars|automobiles; 4 Telephones; 4 Photographs|cameras
+? Places | Name a city that grew because of industrialization between 1750 and 1900.
+1 Manchester; 1 London; 1 Birmingham; 1 Liverpool; 1 New York;
+2 Leeds; 2 Sheffield; 2 Glasgow; 2 Pittsburgh; 2 Chicago; 2 Lowell; 2 Essen; 2 Osaka; 2 Detroit; 2 Newcastle;
+3 Bradford; 3 Belfast; 3 Cardiff; 3 Lille; 3 Lyon; 3 Liege|liège; 3 Ghent; 3 Lodz|łódź; 3 Moscow; 3 St Petersburg|saint petersburg; 3 Mumbai|bombay; 3 Barcelona; 3 Milan; 3 Turin; 3 Cleveland; 3 Philadelphia; 3 Dortmund; 3 Dusseldorf|düsseldorf; 3 Ruhr|ruhr valley; 3 Shanghai;
+4 Merthyr Tydfil; 4 Oldham; 4 Preston; 4 Bolton; 4 Stoke-on-Trent|stoke; 4 Nottingham; 4 Leicester; 4 Charleroi; 4 Mulhouse; 4 Wuppertal|elberfeld; 4 Chemnitz; 4 Ahmedabad; 4 Paterson; 4 Fall River; 4 Lawrence; 4 Birmingham Alabama; 4 Middlesbrough; 4 Sunderland; 4 Dundee; 4 Krefeld; 4 Ivanovo; 4 Yawata|kitakyushu
+? Society | Name a problem caused by early industrialization.
+1 Child labor|child labour|children working; 1 Pollution; 1 Long hours|long working hours; 1 Low wages|low pay;
+2 Air pollution|smog|smoke; 2 Water pollution|dirty water; 2 Overcrowding; 2 Slums|tenements; 2 Disease; 2 Dangerous working conditions|unsafe conditions|unsafe factories; 2 Accidents|injuries|workplace accidents; 2 Poverty;
+3 Cholera; 3 Tuberculosis|consumption|tb; 3 Typhus; 3 Poor sanitation|no sewers|sewage; 3 Unemployment; 3 Crime; 3 Alcoholism|drunkenness; 3 Inequality|wealth gap; 3 Exploitation; 3 Black lung|lung disease; 3 Boom and bust|economic depression|recessions; 3 Loss of skilled jobs|deskilling;
+4 Deforestation; 4 Company towns|truck system; 4 Loss of family farms|enclosure; 4 Monotonous work|alienation; 4 Rickets; 4 Factory discipline|strict rules; 4 Fires|factory fires; 4 Mine explosions; 4 Housing shortage; 4 Orphans|street children; 4 Noise; 4 Short life expectancy|low life expectancy
+? People | Name an inventor, engineer, or business leader of the Industrial Revolution (1750–1900).
+1 James Watt|watt; 1 Thomas Edison|edison; 1 Eli Whitney|whitney;
+2 Richard Arkwright|arkwright; 2 James Hargreaves|hargreaves; 2 George Stephenson|stephenson; 2 Henry Bessemer|bessemer; 2 Alexander Graham Bell|graham bell; 2 Samuel Morse|morse; 2 Andrew Carnegie|carnegie; 2 John D. Rockefeller|rockefeller; 2 Robert Fulton|fulton; 2 Nikola Tesla|tesla; 2 Isambard Kingdom Brunel|brunel;
+3 Samuel Crompton|crompton; 3 Edmund Cartwright|cartwright; 3 John Kay; 3 Abraham Darby|darby; 3 Thomas Newcomen|newcomen; 3 Matthew Boulton|boulton; 3 Josiah Wedgwood|wedgwood; 3 Robert Stephenson; 3 Cyrus McCormick|mccormick; 3 Cornelius Vanderbilt|vanderbilt; 3 J.P. Morgan|jp morgan; 3 Alfred Nobel|nobel; 3 Karl Benz|benz; 3 Gottlieb Daimler|daimler; 3 Rudolf Diesel|diesel; 3 Samuel Slater|slater; 3 Francis Cabot Lowell|lowell; 3 Robert Owen|owen; 3 Richard Trevithick|trevithick; 3 Henry Ford|ford; 3 Michael Faraday|faraday;
+4 Werner von Siemens|siemens; 4 Alfred Krupp|krupp; 4 Elias Howe|howe; 4 Isaac Singer|singer; 4 Charles Goodyear|goodyear; 4 Henry Maudslay|maudslay; 4 John Smeaton|smeaton; 4 Guglielmo Marconi|marconi; 4 Iwasaki Yataro|iwasaki; 4 Shibusawa Eiichi|shibusawa; 4 Jamsetji Tata|tata; 4 George Westinghouse|westinghouse; 4 Charles Babbage|babbage; 4 Joseph Marie Jacquard|jacquard; 4 Henry Cort|cort; 4 John Wilkinson|wilkinson; 4 Titus Salt; 4 Andrew Meikle; 4 William Armstrong|armstrong
+? Wild card | Name something made of cotton.
+1 T-shirt|tshirt|t shirt; 1 Jeans|denim; 1 Socks; 1 Towel|towels;
+2 Bedsheets|sheets|bed sheets; 2 Underwear; 2 Shirt|shirts; 2 Dress|dresses; 2 Cotton balls|cotton wool; 2 Cotton swab|q-tip|cotton bud; 2 Pillowcase|pillow; 2 Hoodie|sweatshirt; 2 Bandage|bandages|gauze; 2 Money|banknotes|dollar bills; 2 Thread|cotton thread;
+3 Tote bag|bag; 3 Napkins; 3 Tablecloth; 3 Curtains; 3 Sweatpants|joggers; 3 Handkerchief; 3 Canvas; 3 Shorts; 3 Pajamas|pyjamas; 3 Baby clothes|onesie|diapers|nappies; 3 Face mask|mask; 3 Cap|baseball cap; 3 Sneakers|canvas shoes; 3 Uniform|school uniform; 3 Rope; 3 Blanket; 3 Quilt; 3 Apron; 3 Polo shirt; 3 Muslin; 3 Calico; 3 Flannel; 3 Corduroy;
+4 Tampons; 4 Coffee filter; 4 Mop|mop head; 4 Tea towel|dish towel; 4 Sari|saree; 4 Sarong; 4 Lungi; 4 Khadi; 4 Guncotton; 4 Cottonseed oil; 4 Paper|rag paper; 4 Lace; 4 Velvet|cotton velvet; 4 Book cover|bookcloth
+
+@voyage hidalgo | The Cry of Dolores | Father Miguel Hidalgo · Dolores to Monte de las Cruces · 1810
+? Places | Name a Mexican state or city.
+1 Mexico City|cdmx|ciudad de mexico; 1 Cancun; 1 Guadalajara; 1 Tijuana;
+2 Monterrey; 2 Acapulco; 2 Oaxaca; 2 Jalisco; 2 Yucatan; 2 Chihuahua; 2 Puebla; 2 Veracruz; 2 Baja California; 2 Sonora; 2 Chiapas; 2 Guanajuato; 2 Tulum; 2 Cabo San Lucas|los cabos;
+3 Merida; 3 Leon; 3 Morelia; 3 Toluca; 3 Queretaro; 3 Michoacan; 3 Nuevo Leon; 3 Tamaulipas; 3 Sinaloa; 3 Durango; 3 Zacatecas; 3 San Luis Potosi; 3 Guerrero; 3 Hidalgo; 3 Quintana Roo; 3 Coahuila; 3 Tabasco; 3 Campeche; 3 Baja California Sur; 3 Ciudad Juarez|juarez; 3 Puerto Vallarta; 3 Mazatlan; 3 San Miguel de Allende; 3 Dolores Hidalgo|dolores;
+4 Aguascalientes; 4 Colima; 4 Morelos; 4 Nayarit; 4 Tlaxcala; 4 State of Mexico|estado de mexico; 4 Cuernavaca; 4 Taxco; 4 Hermosillo; 4 Culiacan; 4 Saltillo; 4 Torreon; 4 Villahermosa; 4 Xalapa|jalapa; 4 Pachuca; 4 La Paz; 4 Ensenada; 4 Mexicali; 4 Nuevo Laredo; 4 Tampico; 4 San Cristobal de las Casas; 4 Playa del Carmen; 4 Valladolid
+? People | Name a person from Mexican history.
+1 Miguel Hidalgo|hidalgo|father hidalgo; 1 Frida Kahlo|frida; 1 Pancho Villa|villa; 1 Emiliano Zapata|zapata; 1 Benito Juarez|juarez;
+2 Hernan Cortes|cortes|cortez; 2 Moctezuma II|moctezuma|montezuma; 2 Diego Rivera|rivera; 2 Jose Maria Morelos|morelos; 2 Santa Anna|antonio lopez de santa anna; 2 Porfirio Diaz|diaz; 2 La Malinche|malinche|dona marina|malintzin; 2 Cuauhtemoc; 2 Agustin de Iturbide|iturbide;
+3 Francisco Madero|madero; 3 Venustiano Carranza|carranza; 3 Alvaro Obregon|obregon; 3 Lazaro Cardenas|cardenas; 3 Sor Juana Ines de la Cruz|sor juana; 3 Josefa Ortiz de Dominguez|la corregidora; 3 Vicente Guerrero; 3 Ignacio Allende|allende; 3 Guadalupe Victoria; 3 Maximilian|maximilian i; 3 Juan Diego; 3 Octavio Paz; 3 Ignacio Zaragoza|zaragoza;
+4 Leona Vicario; 4 Carlota|empress carlota; 4 Plutarco Elias Calles|calles; 4 Jose Clemente Orozco|orozco; 4 David Alfaro Siqueiros|siqueiros; 4 Carlos Fuentes; 4 Juan Rulfo|rulfo; 4 Nezahualcoyotl; 4 Mariano Matamoros|matamoros; 4 Juan Aldama|aldama
+? Trade | Name a crop or product from Mexico (past or present).
+1 Corn|maize; 1 Avocado|avocados; 1 Chocolate|cacao|cocoa; 1 Tomato|tomatoes; 1 Chili peppers|chili|chilies|chiles;
+2 Silver; 2 Vanilla; 2 Tequila; 2 Beans; 2 Squash|pumpkin; 2 Agave|maguey; 2 Coffee; 2 Sugar|sugarcane; 2 Cotton; 2 Oil|petroleum; 2 Cars|automobiles;
+3 Cochineal|cochineal dye; 3 Mezcal; 3 Pulque; 3 Henequen|sisal; 3 Chicle|chewing gum; 3 Tobacco; 3 Chia; 3 Amaranth; 3 Nopal|prickly pear|cactus; 3 Turkey|turkeys; 3 Gold; 3 Copper; 3 Limes|lime; 3 Papaya; 3 Indigo; 3 Beer|corona; 3 Hides|leather;
+4 Logwood; 4 Mahogany; 4 Jalapeno; 4 Jicama; 4 Tomatillo; 4 Epazote; 4 Mamey; 4 Huitlacoche|corn smut; 4 Zinc; 4 Fluorite; 4 Strawberries; 4 Berries|blueberries|raspberries; 4 Mangoes|mango; 4 Televisions|tvs; 4 Talavera pottery|talavera
+? Culture | Name a Mexican holiday or tradition.
+1 Day of the Dead|dia de los muertos|dia de muertos; 1 Cinco de Mayo; 1 Pinata|piñata; 1 Mariachi;
+2 Independence Day|mexican independence day|september 16; 2 Grito de Dolores|el grito|cry of dolores; 2 Las Posadas|posadas; 2 Quinceanera|quinceañera; 2 Christmas|navidad; 2 Lucha libre; 2 Sugar skulls|calaveras; 2 Ofrenda|altar|altars; 2 Virgin of Guadalupe|day of the virgin of guadalupe|guadalupe;
+3 Holy Week|semana santa; 3 Three Kings Day|dia de reyes|epiphany; 3 Rosca de Reyes; 3 Revolution Day|dia de la revolucion|november 20; 3 Guelaguetza; 3 Carnival|carnaval; 3 Papel picado; 3 Pan de muerto; 3 Marigolds|cempasuchil; 3 Danza de los Voladores|voladores; 3 Ballet Folklorico|folk dance; 3 Jarabe tapatio|mexican hat dance; 3 Charreria|charros|rodeo; 3 Serenata|serenade;
+4 Dia de la Candelaria|candlemas; 4 Alebrijes; 4 La Catrina|catrina; 4 Night of the Radishes|noche de rabanos; 4 Dia del Nino|children's day; 4 Dia de las Madres|mother's day; 4 Danza de los Viejitos; 4 Dia de la Bandera|flag day; 4 Las Mananitas|mañanitas; 4 Tamalada
+? Wild card | Name a Mexican dish or drink.
+1 Tacos|taco; 1 Burrito|burritos; 1 Nachos; 1 Quesadilla|quesadillas; 1 Guacamole;
+2 Enchiladas; 2 Tamales|tamal; 2 Tortilla|tortillas; 2 Churros; 2 Mole; 2 Salsa; 2 Pozole; 2 Horchata; 2 Tequila; 2 Tostadas; 2 Elote|corn on the cob;
+3 Chilaquiles; 3 Sopes; 3 Gorditas; 3 Tlayudas|tlayuda; 3 Carnitas; 3 Tacos al pastor|al pastor; 3 Barbacoa; 3 Birria; 3 Chiles en nogada; 3 Chile relleno|chiles rellenos; 3 Agua fresca|aguas frescas; 3 Atole; 3 Champurrado; 3 Mezcal; 3 Pulque; 3 Michelada; 3 Pico de gallo; 3 Refried beans|frijoles refritos; 3 Menudo; 3 Flan; 3 Tres leches|tres leches cake; 3 Cochinita pibil; 3 Huevos rancheros;
+4 Pan dulce|conchas; 4 Esquites; 4 Tamarindo|agua de tamarindo; 4 Jamaica|agua de jamaica; 4 Mole poblano; 4 Molletes; 4 Tortas|torta; 4 Cemitas; 4 Huaraches; 4 Tlacoyos; 4 Pambazo; 4 Sopa de lima; 4 Ponche; 4 Cajeta; 4 Paletas

@@ -106,3 +106,56 @@
 2 Ca phe sua da|vietnamese iced coffee|iced milk coffee; 2 Egg coffee|ca phe trung; 2 Americano; 2 Mocha|mocha latte; 2 Macchiato; 2 Flat white; 2 Cold brew; 2 Black coffee|ca phe den; 2 Matcha|matcha latte; 2 Chai|masala chai; 2 Black tea; 2 Iced tea|tra da; 2 Jasmine tea|tra lai;
 3 Bac xiu|bac siu; 3 Salt coffee|ca phe muoi; 3 Coconut coffee|ca phe cot dua; 3 Turkish coffee; 3 Frappuccino|frappe; 3 Affogato; 3 Cortado; 3 Oolong; 3 Earl Grey; 3 Thai tea|thai iced tea; 3 Peach tea|tra dao|peach orange lemongrass tea; 3 Lotus tea|tra sen; 3 Kombucha; 3 Instant coffee; 3 Drip coffee|phin coffee|phin; 3 Decaf; 3 Hong Kong milk tea|hong kong-style milk tea; 3 Yerba mate|mate;
 4 Ristretto; 4 Lungo; 4 Doppio; 4 Red eye; 4 Vienna coffee|einspanner; 4 Greek frappe; 4 Dalgona coffee|dalgona; 4 Kopi luwak|weasel coffee|ca phe chon; 4 Kopi; 4 Teh tarik; 4 Pu-erh|pu er; 4 Genmaicha; 4 Sencha; 4 Darjeeling; 4 Assam tea|assam; 4 Rooibos; 4 Chamomile tea|chamomile; 4 Mint tea|moroccan mint tea; 4 Butter tea|po cha; 4 Yuanyang|yin yong; 4 Artichoke tea|tra atiso
+
+@voyage cobalt | Inside Your Phone | A smartphone's supply chain · Kolwezi to Bac Ninh · today
+? Tech | Name a part or feature of a smartphone.
+1 Screen|touchscreen|display; 1 Battery; 1 Camera; 1 Charger|charging port;
+2 Microphone|mic; 2 Speaker; 2 Processor|chip|cpu; 2 SIM card|sim; 2 GPS; 2 Bluetooth; 2 Wi-Fi|wifi; 2 Flashlight|torch; 2 Fingerprint sensor|fingerprint scanner; 2 Face ID|face recognition|face unlock; 2 Apps|app store; 2 Keyboard; 2 Volume buttons|volume button; 2 Power button; 2 Case|phone case;
+3 Memory|ram; 3 Storage; 3 USB-C|usb c|lightning port; 3 Headphone jack; 3 Antenna; 3 Accelerometer; 3 Gyroscope; 3 Vibration motor|vibrate; 3 Operating system|ios|android; 3 Home button; 3 NFC; 3 5G|5g modem|modem; 3 Circuit board|motherboard|logic board; 3 Lens; 3 Flash; 3 Front camera|selfie camera; 3 Glass|gorilla glass; 3 Earpiece; 3 Wireless charging;
+4 Magnetometer|compass; 4 Proximity sensor; 4 Ambient light sensor|light sensor; 4 Barometer; 4 OLED|amoled; 4 GPU|graphics chip; 4 Haptic engine|haptics; 4 eSIM; 4 SIM tray; 4 Notch|dynamic island; 4 LiDAR|lidar scanner; 4 Stylus|s pen; 4 Frame|aluminum frame; 4 Voice assistant|siri|google assistant
+? Trade | Name a mineral or metal used to make electronics.
+1 Gold; 1 Copper; 1 Lithium; 1 Silver;
+2 Cobalt; 2 Silicon; 2 Aluminum|aluminium; 2 Tin; 2 Nickel; 2 Rare earth elements|rare earths|rare earth metals; 2 Iron|steel; 2 Platinum; 2 Zinc; 2 Lead;
+3 Tantalum|coltan; 3 Tungsten; 3 Graphite; 3 Neodymium; 3 Indium; 3 Gallium; 3 Germanium; 3 Palladium; 3 Manganese; 3 Magnesium; 3 Quartz; 3 Titanium; 3 Chromium;
+4 Antimony; 4 Lanthanum; 4 Cerium; 4 Europium; 4 Dysprosium; 4 Terbium; 4 Yttrium; 4 Praseodymium; 4 Cadmium; 4 Bismuth; 4 Beryllium; 4 Gadolinium; 4 Ruthenium; 4 Arsenic|gallium arsenide; 4 Boron; 4 Mica; 4 Barium; 4 Hafnium
+? Places | Name a famous technology hub or tech city.
+1 Silicon Valley; 1 Shenzhen; 1 San Francisco; 1 Tokyo; 1 Seoul;
+2 Seattle; 2 Bangalore|bengaluru; 2 Singapore; 2 Taipei; 2 Beijing; 2 Shanghai; 2 London; 2 Tel Aviv; 2 Hanoi; 2 Ho Chi Minh City|saigon; 2 Cupertino; 2 Austin; 2 Boston;
+3 Hsinchu; 3 Hangzhou; 3 San Jose; 3 Palo Alto; 3 Mountain View; 3 Redmond; 3 Berlin; 3 Dublin; 3 Stockholm; 3 Helsinki; 3 Tallinn; 3 Hyderabad; 3 Toronto; 3 Bac Ninh; 3 Nairobi|silicon savannah; 3 Pune; 3 Chennai; 3 Guangzhou; 3 Dongguan; 3 Zhengzhou|iphone city; 3 Penang; 3 Lagos;
+4 Waterloo; 4 Amsterdam; 4 Paris; 4 Munich; 4 Cambridge; 4 Kuala Lumpur; 4 Jakarta; 4 Sydney; 4 Melbourne; 4 Vancouver; 4 Montreal; 4 Raleigh|research triangle; 4 Kyiv|kiev; 4 Krakow; 4 Bucharest; 4 Thai Nguyen; 4 Da Nang; 4 Suwon; 4 Pangyo
+? People | Name a founder or leader of a technology company.
+1 Steve Jobs|jobs; 1 Bill Gates|gates; 1 Elon Musk|musk; 1 Mark Zuckerberg|zuckerberg;
+2 Jeff Bezos|bezos; 2 Tim Cook; 2 Steve Wozniak|wozniak; 2 Larry Page; 2 Sergey Brin|brin; 2 Sundar Pichai|pichai; 2 Jensen Huang|huang; 2 Jack Ma; 2 Satya Nadella|nadella; 2 Sam Altman|altman;
+3 Paul Allen; 3 Pony Ma|ma huateng; 3 Ren Zhengfei; 3 Lei Jun; 3 Lee Kun-hee; 3 Lee Byung-chul; 3 Lee Jae-yong|jay y lee; 3 Morris Chang; 3 Masayoshi Son; 3 Akio Morita|morita; 3 Konosuke Matsushita|matsushita; 3 Lisa Su; 3 Reed Hastings|hastings; 3 Jack Dorsey|dorsey; 3 Evan Spiegel|spiegel; 3 Zhang Yiming; 3 Michael Dell|dell; 3 Larry Ellison|ellison; 3 Terry Gou|guo taiming; 3 Susan Wojcicki|wojcicki; 3 Sheryl Sandberg|sandberg;
+4 Gordon Moore|moore; 4 Robert Noyce|noyce; 4 Andy Grove|grove; 4 Marissa Mayer|mayer; 4 Dario Amodei|amodei; 4 Demis Hassabis|hassabis; 4 Daniela Amodei; 4 Robin Li|li yanhong; 4 Richard Liu|liu qiangdong; 4 Colin Huang|huang zheng; 4 Shigeru Miyamoto|miyamoto; 4 Hiroshi Yamauchi|yamauchi; 4 Truong Gia Binh; 4 Brian Chesky|chesky; 4 Travis Kalanick|kalanick; 4 Anthony Tan; 4 Daniel Ek; 4 Arvind Krishna; 4 Ginni Rometty|rometty; 4 Whitney Wolfe Herd
+? Wild card | Name a video game or a video game console.
+1 Minecraft; 1 Fortnite; 1 Roblox; 1 Super Mario Bros.|super mario|mario; 1 Pokemon|pokémon; 1 PlayStation|ps5|ps4|playstation 5;
+2 Tetris; 2 The Legend of Zelda|zelda; 2 Pac-Man|pacman; 2 Grand Theft Auto|gta; 2 Call of Duty; 2 League of Legends|lol; 2 Among Us; 2 Genshin Impact|genshin; 2 PUBG; 2 Free Fire|garena free fire; 2 Candy Crush|candy crush saga; 2 Angry Birds; 2 Flappy Bird; 2 FIFA|ea sports fc|ea fc; 2 Xbox; 2 Nintendo Switch|switch; 2 Mobile Legends|mobile legends bang bang; 2 Arena of Valor|lien quan; 3 Honor of Kings|wangzhe rongyao; 2 Clash of Clans; 2 Valorant;
+3 Animal Crossing; 3 Sonic the Hedgehog|sonic; 3 Space Invaders; 3 Street Fighter; 3 Halo; 3 The Sims|sims; 3 World of Warcraft|wow; 3 Counter-Strike|csgo|cs2; 3 Dota 2|dota; 3 Overwatch; 3 Elden Ring; 3 Final Fantasy; 3 Game Boy|gameboy; 3 Wii; 3 Nintendo DS|ds; 3 Clash Royale; 3 Subway Surfers; 3 Brawl Stars; 3 Apex Legends; 3 Rocket League; 3 Stardew Valley;
+4 Atari 2600|atari; 4 NES|nintendo entertainment system|famicom; 4 Sega Genesis|mega drive|sega; 4 Steam Deck; 4 Pong; 4 Donkey Kong; 4 Pokemon Go|pokémon go; 4 Hollow Knight; 4 Undertale; 4 Portal; 4 Celeste; 4 Splatoon; 4 Kirby; 4 Metroid; 4 Black Myth: Wukong|black myth wukong|wukong; 4 Honkai: Star Rail|star rail; 4 Hay Day; 4 Plants vs. Zombies|plants vs zombies; 4 Monument Valley; 4 Super Smash Bros.|smash bros; 4 Mario Kart; 4 Wii Sports; 4 PlayStation Portable|psp; 4 Nintendo 64|n64
+
+@voyage cable | The Cable Under the Sea | The SEA-ME-WE 4 internet cable · Marseille to Singapore · 2005
+? Places | Name a country with a coastline on the Mediterranean Sea.
+1 Italy; 1 Spain; 1 France; 1 Greece; 1 Egypt; 1 Turkey;
+2 Morocco; 2 Algeria; 2 Tunisia; 2 Libya; 2 Israel; 2 Lebanon; 2 Syria; 2 Cyprus; 2 Malta; 2 Croatia; 2 Monaco;
+3 Albania; 3 Montenegro; 3 Slovenia; 3 Bosnia and Herzegovina|bosnia; 3 Palestine|gaza strip|gaza
+? Tech | Name a programming or coding language.
+1 Python; 1 Java; 1 JavaScript|js; 1 Scratch;
+2 C / C++ / C#|c|cpp|c sharp|csharp; 2 HTML; 2 CSS; 2 SQL; 2 PHP; 2 Swift; 2 Ruby; 2 Kotlin;
+3 Go|golang; 3 Rust; 3 R; 3 MATLAB; 3 TypeScript; 3 BASIC|visual basic; 3 Fortran; 3 COBOL; 3 Pascal; 3 Perl; 3 Lua; 3 Assembly|assembly language; 3 Dart; 3 Objective-C|objective c; 3 Bash|shell; 3 Julia;
+4 Haskell; 4 Lisp; 4 Scala; 4 Prolog; 4 Logo; 4 Ada; 4 Elixir; 4 Erlang; 4 Clojure; 4 F#|f sharp; 4 OCaml; 4 Smalltalk; 4 Simula; 4 ALGOL; 4 APL; 4 Scheme; 4 Groovy; 4 Zig; 4 Solidity; 4 PowerShell; 4 Delphi
+? People | Name a world leader who has held office since 1990.
+1 Barack Obama|obama; 1 Donald Trump|trump; 1 Vladimir Putin|putin; 1 Xi Jinping|xi;
+2 Joe Biden|biden; 2 Bill Clinton|clinton; 2 George W. Bush|george bush|bush; 2 Angela Merkel|merkel; 2 Nelson Mandela|mandela; 2 Emmanuel Macron|macron; 2 Narendra Modi|modi; 2 Kim Jong-un|kim jong un; 2 Justin Trudeau|trudeau; 2 Boris Johnson; 2 Tony Blair|blair; 2 Volodymyr Zelenskyy|zelensky|zelenskyy; 2 Pope Francis;
+3 Boris Yeltsin|yeltsin; 3 Mikhail Gorbachev|gorbachev; 3 Hu Jintao; 3 Jiang Zemin; 3 Shinzo Abe|abe; 3 Moon Jae-in; 3 Kim Jong-il; 3 Jacinda Ardern|ardern; 3 Recep Tayyip Erdogan|erdogan; 3 Lee Kuan Yew; 3 Lee Hsien Loong; 3 Mahathir Mohamad|mahathir; 3 Benazir Bhutto|bhutto; 3 Theresa May; 3 Rishi Sunak|sunak; 3 Keir Starmer|starmer; 3 Jacques Chirac|chirac; 3 Lula da Silva|lula; 3 Joko Widodo|jokowi; 3 Rodrigo Duterte|duterte; 3 Benjamin Netanyahu|netanyahu; 3 Yitzhak Rabin|rabin; 3 Yasser Arafat|arafat; 3 Manmohan Singh; 3 Olaf Scholz|scholz; 3 Cyril Ramaphosa|ramaphosa; 3 Pope John Paul II; 3 Pope Benedict XVI; 3 Kofi Annan|annan; 3 Ban Ki-moon; 3 Antonio Guterres|guterres; 3 Margaret Thatcher|thatcher; 3 Fidel Castro|castro; 3 Hugo Chavez|chavez;
+4 Nguyen Phu Trong; 4 Vo Van Kiet; 4 To Lam; 4 Pham Minh Chinh; 4 Thabo Mbeki|mbeki; 4 Gloria Arroyo|arroyo; 4 Ali Khamenei|khamenei; 4 Shigeru Ishiba|ishiba; 4 Yoon Suk-yeol|yoon; 4 Lee Jae-myung; 4 Prabowo Subianto|prabowo; 4 Anwar Ibrahim; 4 Ferdinand Marcos Jr.|bongbong marcos; 4 Mohammed bin Salman|mbs; 4 Pope Leo XIV; 4 Javier Milei|milei; 4 Claudia Sheinbaum|sheinbaum; 4 Mark Carney|carney; 4 Gerhard Schroder|schröder|schroeder; 4 Helmut Kohl|kohl; 4 John Major; 4 Gordon Brown; 4 David Cameron|cameron; 4 Dilma Rousseff|dilma; 4 Ellen Johnson Sirleaf|sirleaf; 4 Paul Kagame|kagame; 4 Abiy Ahmed|abiy; 4 Aung San Suu Kyi|suu kyi
+? Society | Name a language spoken by more than 50 million people.
+1 English; 1 Chinese|mandarin; 1 Spanish; 1 Hindi; 1 Arabic; 1 French;
+2 Bengali|bangla; 2 Portuguese; 2 Russian; 2 Japanese; 2 German; 2 Urdu; 2 Indonesian|bahasa indonesia|malay; 2 Vietnamese; 2 Korean; 2 Turkish; 2 Italian; 2 Persian|farsi;
+3 Marathi; 3 Telugu; 3 Tamil; 3 Cantonese|yue; 3 Wu|shanghainese; 3 Tagalog|filipino; 3 Swahili; 3 Hausa; 3 Javanese; 3 Punjabi; 3 Gujarati; 3 Thai; 3 Kannada; 3 Nigerian Pidgin|naija;
+4 Amharic; 4 Bhojpuri
+? Wild card | Name an island country.
+1 Japan; 1 Philippines; 1 Indonesia; 1 United Kingdom|uk|britain|great britain; 1 Singapore;
+2 Ireland; 2 Iceland; 2 Sri Lanka; 2 Madagascar; 2 Cuba; 2 Jamaica; 2 New Zealand; 2 Taiwan; 2 Maldives; 2 Malta; 2 Cyprus; 2 Fiji; 2 Bahamas;
+3 Bahrain; 3 Mauritius; 3 Seychelles; 3 Samoa; 3 Tonga; 3 Barbados; 3 Trinidad and Tobago|trinidad; 3 Haiti; 3 Dominican Republic; 3 Papua New Guinea; 3 Timor-Leste|east timor; 3 Cape Verde|cabo verde;
+4 Sao Tome and Principe|são tomé; 4 Comoros; 4 Vanuatu; 4 Solomon Islands; 4 Kiribati; 4 Tuvalu; 4 Nauru; 4 Palau; 4 Marshall Islands; 4 Micronesia; 4 Grenada; 4 Saint Lucia|st lucia; 4 Dominica; 4 Antigua and Barbuda|antigua; 4 Saint Kitts and Nevis|st kitts; 4 Saint Vincent and the Grenadines|st vincent

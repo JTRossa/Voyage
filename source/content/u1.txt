@@ -107,3 +107,57 @@
 2 Serfs|serf; 2 Nobles|nobility|aristocrats|noble; 2 Priests|priest|clergy; 2 Scholar-gentry|scholar officials|scholars; 2 Artisans|artisan|craftsmen; 2 Lords|lord; 2 Vassals|vassal; 2 Brahmins|brahmin;
 3 Kshatriyas|kshatriya; 3 Vaishyas|vaishya; 3 Shudras|shudra; 3 Daimyo; 3 Eunuchs|eunuch; 3 Mandarins|mandarin; 3 Guild members|guilds|guild; 3 Burghers|townspeople|bourgeoisie; 3 Ulama|ulema; 3 Mamluks|mamluk; 3 Griots|griot; 3 Nomads|nomad|pastoralists; 3 Soldiers|warriors|soldier;
 4 Pochteca; 4 Calpulli; 4 Sufis|sufi; 4 Janissaries|janissary; 4 Shogun; 4 Dalits|untouchables; 4 Jati; 4 Yeomen|yeoman; 4 Concubines|concubine; 4 Sailors|sailor; 4 Mitmaq|mitima; 4 Kurakas|curacas; 4 Jews|jewish communities; 4 Dhimmis|dhimmi; 4 Bureaucrats|officials
+
+@voyage java | The Khan's Fleet to Java | Kublai Khan's expedition · Quanzhou to Majapahit · 1292–1293
+? Places | Name an island or island group in Southeast Asia.
+1 Java; 1 Sumatra; 1 Borneo|kalimantan; 1 Bali; 1 Philippines|philippine islands;
+2 Luzon; 2 Mindanao; 2 Sulawesi|celebes; 2 Moluccas|maluku|spice islands; 2 Singapore|temasek; 2 Timor; 2 New Guinea|papua; 2 Phu Quoc;
+3 Banda Islands|banda; 3 Lombok; 3 Belitung|billiton; 3 Bangka; 3 Flores; 3 Sumbawa; 3 Palawan; 3 Cebu; 3 Visayas; 3 Ternate; 3 Tidore; 3 Komodo; 3 Penang; 3 Langkawi; 3 Con Dao|con son;
+4 Halmahera; 4 Seram|ceram; 4 Ambon; 4 Madura; 4 Sumba; 4 Bintan; 4 Batam; 4 Nias; 4 Riau Islands|riau; 4 Andaman Islands|andamans; 4 Nicobar Islands|nicobars; 4 Samar; 4 Leyte; 4 Mindoro; 4 Negros; 4 Panay; 4 Bohol; 4 Spratly Islands|spratlys|truong sa; 4 Paracel Islands|paracels|hoang sa; 4 Cat Ba
+? Tech | Name a weapon or piece of armor used between 1200 and 1450.
+1 Sword; 1 Bow|bow and arrow|arrows; 1 Spear; 1 Crossbow; 1 Shield;
+2 Longbow; 2 Composite bow|horse bow; 2 Catapult; 2 Trebuchet; 2 Cannon|bombard; 2 Lance; 2 Mace; 2 Axe|battle axe; 2 Dagger|knife; 2 Chain mail|mail|chainmail; 2 Plate armor|armor|armour|plate armour; 2 Helmet;
+3 Fire lance; 3 Hand cannon|handgonne; 3 Rockets|fire arrows; 3 Gunpowder bombs|thunderclap bomb|bombs|grenade; 3 Pike; 3 Halberd; 3 Katana|samurai sword; 3 Saber|scimitar|sabre; 3 Mangonel; 3 Siege tower; 3 Battering ram; 3 War elephants|elephants; 3 Sling; 3 Javelin; 3 Lamellar armor|lamellar;
+4 Kris|keris; 4 Naginata; 4 Macuahuitl; 4 Atlatl|spear thrower; 4 Blowgun|blowpipe; 4 Morning star; 4 Flail; 4 Greek fire; 4 Counterweight trebuchet; 4 Brigandine; 4 Gambeson; 4 Glaive; 4 Falchion; 4 Warhammer|war hammer; 4 Caltrops
+? People | Name a person who ruled a kingdom or empire between 1200 and 1450.
+1 Genghis Khan|chinggis khan|temujin; 1 Kublai Khan|khubilai; 1 Mansa Musa|musa;
+2 Sundiata Keita|sundiata|sunjata; 2 Timur|tamerlane|timur lenk; 2 Ogedei Khan|ogedei|ogodei; 2 Yongle Emperor|yongle|zhu di; 2 Hongwu Emperor|hongwu|zhu yuanzhang; 2 Osman I|osman; 2 Sejong the Great|sejong; 2 Louis IX|saint louis; 2 Pachacuti|pachacutec;
+3 Mongke Khan|mongke|mongke; 3 Hulegu|hulagu; 3 Batu Khan|batu; 3 Orhan; 3 Bayezid I|bayezid; 3 Murad II; 3 Iltutmish; 3 Razia Sultana|razia|raziya; 3 Alauddin Khalji|alauddin khilji; 3 Muhammad bin Tughlaq|muhammad tughlaq; 3 Baibars|baybars; 3 Edward I; 3 Henry V; 3 King John|john of england; 3 Frederick II; 3 Philip IV|philip the fair; 3 Le Loi|le thai to; 3 Tran Nhan Tong; 3 Jayavarman VII; 3 Hayam Wuruk; 3 Raden Wijaya|kertarajasa; 3 Itzcoatl; 3 Moctezuma I|montezuma i; 3 Ashikaga Takauji; 3 Ashikaga Yoshimitsu; 3 Taejo of Joseon|yi seong-gye|yi songgye;
+4 Kertanegara|kertanagara; 4 Lalibela; 4 Zara Yaqob; 4 Mansa Sulayman|sulayman; 4 Firuz Shah Tughlaq|firuz shah; 4 Qalawun; 4 Alfonso X; 4 Ferdinand III; 4 Robert the Bruce|robert bruce; 4 Rudolf I; 4 Charles IV; 4 Alexander Nevsky; 4 Dmitry Donskoy|dmitri donskoi; 4 Ivan I|ivan kalita; 4 Ramkhamhaeng|ram khamhaeng; 4 Parameswara; 4 Michael VIII Palaiologos|michael viii; 4 Constantine XI; 4 Viracocha Inca|viracocha; 4 Ghazan Khan|ghazan; 4 Ozbeg Khan|uzbeg khan; 4 Casimir III|casimir the great; 4 Wladyslaw Jagiello|jogaila
+? Wild card | Name a tropical fruit.
+1 Mango; 1 Banana; 1 Coconut; 1 Pineapple; 1 Papaya;
+2 Durian; 2 Rambutan; 2 Mangosteen; 2 Jackfruit; 2 Lychee|litchi; 2 Longan; 2 Dragon fruit|pitaya|thanh long; 2 Guava; 2 Passion fruit; 2 Star fruit|carambola;
+3 Pomelo; 3 Lime; 3 Tamarind; 3 Breadfruit; 3 Soursop|graviola; 3 Custard apple|sugar apple; 3 Sapodilla; 3 Salak|snake fruit; 3 Avocado; 3 Plantain; 3 Calamansi|calamondin; 3 Acai;
+4 Langsat|lanzones|duku; 4 Rose apple|water apple|jambu; 4 Cempedak; 4 Noni; 4 Cherimoya; 4 Lucuma; 4 Jabuticaba; 4 Marang; 4 Santol; 4 Ackee; 4 Cashew apple; 4 Mamey|mamey sapote
+? Geography | Name a sea, gulf, bay, or ocean that touches Asia.
+1 Pacific Ocean|pacific; 1 Indian Ocean; 1 South China Sea|east sea|bien dong; 1 Arctic Ocean;
+2 Bay of Bengal; 2 Arabian Sea; 2 Red Sea; 2 Persian Gulf|arabian gulf; 2 East China Sea; 2 Yellow Sea; 2 Sea of Japan; 2 Caspian Sea; 2 Black Sea; 2 Mediterranean Sea|mediterranean; 2 Java Sea;
+3 Philippine Sea; 3 Andaman Sea; 3 Gulf of Thailand|gulf of siam; 3 Gulf of Tonkin|vinh bac bo; 3 Sea of Okhotsk; 3 Bering Sea; 3 Aral Sea; 3 Gulf of Aden; 3 Gulf of Oman; 3 Celebes Sea; 3 Sulu Sea; 3 Timor Sea; 3 Bohai Sea; 3 Dead Sea;
+4 Banda Sea; 4 Flores Sea; 4 Molucca Sea; 4 Arafura Sea; 4 Laccadive Sea; 4 Seto Inland Sea; 4 Bay of Korea|west korea bay; 4 Kara Sea; 4 Laptev Sea; 4 East Siberian Sea; 4 Chukchi Sea; 4 Sea of Marmara|marmara; 4 Gulf of Mannar; 4 Gulf of Khambhat|gulf of cambay; 4 Bali Sea; 4 Savu Sea; 4 Natuna Sea; 4 Aegean Sea|aegean
+
+@voyage khaldun | The Historian and the Conqueror | Ibn Khaldun · Tunis to Damascus · 1332–1406
+? Belief | Name a branch, legal school, or Sufi order of Islam.
+1 Sunni|sunni islam|sunnis; 1 Shia|shia islam|shiite|shiites|shiism; 1 Sufism|sufi|sufis;
+2 Twelvers|twelver shia|ithna ashari; 2 Ismailis|ismaili|ismailism; 2 Hanafi; 2 Maliki; 2 Shafii|shafi'i; 2 Hanbali; 2 Ibadi|ibadism;
+3 Zaydi|zaydis|zaidi; 3 Kharijites|khawarij; 3 Mutazila|mutazilites; 3 Ashari|asharism; 3 Nizari|assassins|hashashin; 3 Mevlevi|whirling dervishes; 3 Chishti|chishtiyya; 3 Qadiriyya|qadiri; 3 Naqshbandi|naqshbandiyya; 3 Druze;
+4 Maturidi; 4 Suhrawardiyya|suhrawardi; 4 Shadhiliyya|shadhili; 4 Bektashi; 4 Kubrawiyya|kubrawi; 4 Safaviyya|safavid order; 4 Alawites|nusayris; 4 Almohads|almohad movement; 4 Almoravids; 4 Tijaniyya|tijani; 4 Jafari
+? Places | Name a city in North Africa or the Middle East today.
+1 Cairo; 1 Istanbul; 1 Baghdad; 1 Jerusalem; 1 Dubai; 1 Mecca|makkah;
+2 Alexandria; 2 Damascus; 2 Tunis; 2 Casablanca; 2 Marrakesh|marrakech; 2 Tehran; 2 Riyadh; 2 Medina; 2 Beirut; 2 Doha; 2 Abu Dhabi; 2 Ankara; 2 Fez|fes; 2 Algiers; 2 Tripoli; 2 Aleppo; 2 Isfahan;
+3 Rabat; 3 Tangier; 3 Kairouan; 3 Basra; 3 Mosul; 3 Amman; 3 Jeddah; 3 Kuwait City|kuwait; 3 Muscat; 3 Sanaa|sana'a; 3 Aden; 3 Manama; 3 Tel Aviv; 3 Tabriz; 3 Shiraz; 3 Izmir; 3 Benghazi; 3 Luxor; 3 Aswan; 3 Oran;
+4 Sfax; 4 Constantine; 4 Homs; 4 Haifa; 4 Mashhad; 4 Qom; 4 Najaf; 4 Karbala; 4 Erbil; 4 Port Said; 4 Suez; 4 Agadir; 4 Meknes; 4 Bursa; 4 Konya; 4 Sharjah; 4 Petra; 4 Nablus; 4 Hebron; 4 Yazd; 4 Tlemcen
+? Tech | Name a field of knowledge studied by scholars in the Islamic world before 1450.
+1 Mathematics|math|maths; 1 Astronomy; 1 Medicine; 1 Philosophy;
+2 Algebra; 2 Geometry; 2 Law|islamic law|fiqh|sharia; 2 Theology|kalam; 2 History; 2 Geography; 2 Chemistry|alchemy; 2 Optics; 2 Poetry; 2 Calligraphy;
+3 Trigonometry; 3 Arithmetic; 3 Physics; 3 Logic; 3 Grammar|arabic grammar; 3 Quranic studies|tafsir|quran; 3 Hadith studies|hadith; 3 Architecture; 3 Engineering|mechanics; 3 Cartography|mapmaking; 3 Surgery; 3 Pharmacology|pharmacy; 3 Music; 3 Botany; 3 Zoology; 3 Literature;
+4 Ophthalmology|eye medicine; 4 Agronomy|agriculture; 4 Sociology; 4 Economics; 4 Rhetoric; 4 Navigation; 4 Astrology; 4 Biography; 4 Metaphysics; 4 Ethics; 4 Hydraulics; 4 Anatomy
+? Society | Name a job or trade practiced in a city between 1200 and 1450.
+1 Merchant|trader; 1 Blacksmith|smith; 1 Baker; 1 Farmer; 1 Soldier;
+2 Butcher; 2 Weaver; 2 Potter; 2 Carpenter; 2 Mason|stonemason|builder; 2 Scribe|copyist; 2 Judge|qadi; 2 Teacher; 2 Doctor|physician; 2 Tailor; 2 Goldsmith; 2 Priest; 2 Imam; 2 Sailor; 2 Fisherman; 2 Cook;
+3 Tanner; 3 Shoemaker|cobbler; 3 Dyer; 3 Silversmith; 3 Jeweler|jeweller; 3 Apothecary|pharmacist; 3 Money changer|banker|moneylender; 3 Innkeeper; 3 Miller; 3 Brewer; 3 Barber; 3 Muezzin; 3 Monk; 3 Porter; 3 Water carrier; 3 Calligrapher; 3 Bookseller; 3 Glassblower|glassmaker; 3 Tax collector; 3 Guard|watchman; 3 Shipwright|shipbuilder;
+4 Candlemaker|chandler; 4 Rope maker|ropemaker; 4 Saddler|saddle maker; 4 Perfumer; 4 Spice seller|spice merchant; 4 Draper|cloth merchant; 4 Notary; 4 Mapmaker|cartographer; 4 Armorer|armourer; 4 Fuller; 4 Cooper|barrel maker; 4 Bathhouse keeper|bath attendant; 4 Storyteller; 4 Musician; 4 Bricklayer
+? Culture | Name a language that has been written in the Arabic script.
+1 Arabic; 1 Persian|farsi;
+2 Urdu; 2 Ottoman Turkish|turkish|ottoman; 2 Pashto; 2 Dari;
+3 Malay|jawi; 3 Swahili; 3 Hausa; 3 Kurdish|sorani; 3 Uyghur|uighur; 3 Sindhi; 3 Punjabi|shahmukhi; 3 Kashmiri; 3 Balochi|baluchi;
+4 Azerbaijani|azeri; 4 Chagatai; 4 Kazakh; 4 Somali; 4 Berber|amazigh|tamazight; 4 Fula|fulani|fulfulde; 4 Wolof; 4 Aljamiado|spanish; 4 Tatar; 4 Bosnian|arebica; 4 Tajik; 4 Uzbek; 4 Turkmen; 4 Kyrgyz; 4 Mandinka; 4 Saraiki

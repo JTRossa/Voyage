@@ -107,3 +107,57 @@
 2 Ginger; 2 Garlic; 2 Pork; 2 Duck|peking duck; 2 Chicken; 2 Bok choy|pak choi|cabbage; 2 Scallions|green onions|spring onions; 2 Chili peppers|chilies|chili; 2 Sesame oil|sesame; 2 Eggs|egg; 2 Fish; 2 Tea; 2 Spring rolls; 2 Bao|baozi|steamed buns;
 3 Bamboo shoots; 3 Mushrooms|shiitake; 3 Star anise; 3 Sichuan pepper|szechuan pepper; 3 Rice vinegar|vinegar; 3 Oyster sauce; 3 Sweet potatoes|sweet potato; 3 Peanuts|peanut; 3 Corn|maize; 3 Lotus root; 3 Congee|jook; 3 Mooncakes|mooncake; 3 Hoisin sauce|hoisin; 3 Shrimp|prawns; 3 Wheat|flour; 3 Bean sprouts; 3 Fried rice; 3 Dim sum;
 4 Millet; 4 Five-spice powder|five spice; 4 Cinnamon|cassia; 4 Black bean sauce|fermented black beans|douchi; 4 Shaoxing wine|rice wine; 4 Wonton|wontons; 4 Char siu; 4 Mapo tofu; 4 Kung pao chicken; 4 Hot pot|hotpot; 4 Sticky rice|glutinous rice; 4 Water chestnuts; 4 Jujubes|red dates; 4 Goji berries|goji
+
+@voyage julfa | The Silk Merchants of New Julfa | Armenian traders · Isfahan to Smyrna · c. 1650
+? Trade | Name a good traded by merchants in the Ottoman or Safavid Empires (1450–1750).
+1 Silk|raw silk; 1 Carpets|rugs|persian carpets; 1 Coffee; 1 Spices;
+2 Cotton; 2 Textiles|cloth|cotton cloth; 2 Pepper; 2 Porcelain; 2 Tobacco; 2 Horses; 2 Wool; 2 Sugar; 2 Gold; 2 Silver; 2 Tiles|iznik tiles|ceramics;
+3 Mohair; 3 Dyes|indigo; 3 Rice; 3 Wheat|grain; 3 Dates; 3 Saffron; 3 Rosewater; 3 Pearls; 3 Gems|jewels|gemstones; 3 Copper; 3 Velvet; 3 Brocade; 3 Glass; 3 Paper; 3 Books; 3 Furs|fur; 3 Tea; 3 Olive oil;
+4 Rhubarb; 4 Soap; 4 Timber; 4 Leather|hides; 4 Mirrors; 4 Opium; 4 Cinnamon; 4 Cloves; 4 Turquoise; 4 Camels; 4 Dried fruit|raisins|apricots; 4 Pistachios; 4 Watches|clocks
+? Places | Name a city in present-day Iran, Turkey, Armenia, Georgia, or Azerbaijan.
+1 Istanbul; 1 Tehran; 1 Ankara;
+2 Isfahan; 2 Tabriz; 2 Shiraz; 2 Izmir|smyrna; 2 Bursa; 2 Yerevan; 2 Tbilisi; 2 Baku; 2 Mashhad; 2 Antalya; 2 Edirne;
+3 Qom; 3 Kerman; 3 Yazd; 3 Hamadan; 3 Ardabil; 3 Qazvin; 3 Kashan; 3 Bandar Abbas; 3 Konya; 3 Trabzon; 3 Erzurum; 3 Diyarbakir; 3 Adana; 3 Gaziantep; 3 Kayseri; 3 Iznik; 3 Batumi; 3 Ganja; 3 Rasht;
+4 Ahvaz; 4 Kermanshah; 4 Kutaisi; 4 Gyumri; 4 Nakhchivan; 4 Sheki; 4 Shamakhi; 4 Urmia; 4 Zanjan; 4 Bodrum; 4 Selcuk; 4 Van; 4 Mardin; 4 Sanliurfa|urfa; 4 Samsun; 4 Eskisehir; 4 Mersin; 4 Vagharshapat|etchmiadzin; 4 Mtskheta; 4 Shusha
+? Tech | Name a fabric, textile, or fiber.
+1 Silk; 1 Cotton; 1 Wool; 1 Polyester; 1 Denim;
+2 Linen; 2 Velvet; 2 Satin; 2 Leather; 2 Nylon; 2 Lace; 2 Felt; 2 Cashmere; 2 Fleece; 2 Spandex|lycra|elastane;
+3 Brocade; 3 Damask; 3 Muslin; 3 Calico; 3 Chintz; 3 Taffeta; 3 Mohair; 3 Flax; 3 Hemp; 3 Jute; 3 Chiffon; 3 Tweed; 3 Corduroy; 3 Flannel; 3 Rayon|viscose; 3 Batik; 3 Ikat; 3 Khadi; 3 Kente; 3 Alpaca; 3 Angora; 3 Canvas; 3 Suede; 3 Bamboo fiber|bamboo;
+4 Organza; 4 Gauze; 4 Chenille; 4 Gingham; 4 Poplin; 4 Seersucker; 4 Madras; 4 Sisal; 4 Ramie; 4 Tulle; 4 Crepe; 4 Jersey; 4 Twill; 4 Chambray; 4 Georgette; 4 Merino; 4 Vicuna; 4 Raffia; 4 Acrylic; 4 Terrycloth|terry; 4 Shantung|pongee; 4 Tapa|bark cloth
+? People | Name a famous Ottoman, Safavid, or Mughal person who was not a ruler (an artist, architect, writer, minister, or royal woman).
+1 Mumtaz Mahal; 1 Mimar Sinan|sinan;
+2 Hurrem Sultan|hürrem|roxelana; 2 Nur Jahan; 2 Barbarossa|hayreddin barbarossa|hayreddin; 2 Piri Reis; 2 Evliya Celebi|evliya çelebi; 2 Birbal; 2 Tansen;
+3 Abul Fazl|abu'l-fazl|abu al-fazl; 3 Dara Shikoh; 3 Kosem Sultan|kösem; 3 Pargali Ibrahim Pasha|ibrahim pasha; 3 Sokollu Mehmed Pasha|sokollu; 3 Jahanara|jahanara begum; 3 Reza Abbasi; 3 Behzad|kamal ud-din behzad|bihzad; 3 Bairam Khan; 3 Mihrimah Sultan|mihrimah; 3 Ustad Ahmad Lahori|ahmad lahori;
+4 Mulla Sadra; 4 Sheikh Bahai|shaykh bahai|baha al-din amili; 4 Mir Damad; 4 Muhammad Baqir Majlisi|majlisi; 4 Matrakci Nasuh|matrakçı nasuh; 4 Katip Celebi|katib çelebi; 4 Fuzuli; 4 Baki; 4 Ebussuud Efendi|ebussuud; 4 Nurbanu Sultan|nurbanu; 4 Raja Todar Mal|todar mal; 4 Raja Man Singh|man singh; 4 Gulbadan Begum|gulbadan; 4 Tulsidas; 4 Mir Sayyid Ali; 4 Abd al-Samad; 4 Sabbatai Zevi; 4 Ibrahim Muteferrika|müteferrika; 4 Nedim; 4 Levni; 4 Turgut Reis|dragut; 4 Seydi Ali Reis; 4 Mansur|ustad mansur
+? Wild card | Name a fruit or nut grown in Iran or Turkey.
+1 Apple; 1 Grape|grapes; 1 Orange; 1 Pomegranate;
+2 Pistachio; 2 Hazelnut; 2 Fig; 2 Apricot; 2 Date|dates; 2 Cherry; 2 Walnut; 2 Almond; 2 Watermelon; 2 Melon; 2 Olive; 2 Lemon; 2 Peach;
+3 Sour cherry; 3 Quince; 3 Pear; 3 Mulberry; 3 Plum; 3 Persimmon; 3 Kiwi; 3 Tangerine|mandarin; 3 Chestnut; 3 Lime; 3 Strawberry; 3 Banana;
+4 Barberry|zereshk; 4 Jujube; 4 Medlar; 4 Loquat; 4 Cornelian cherry|kizilcik; 4 Greengage|sour plum|gojeh; 4 Grapefruit; 4 Bitter orange|seville orange; 4 Raspberry; 4 Blackberry; 4 Peanut; 4 Pine nut; 4 Nectarine; 4 Rosehip
+
+@voyage kangxi | The Emperor Tours the South | The Kangxi Emperor · Beijing to Hangzhou · 1684–1707
+? Geography | Name a river, lake, or canal in China.
+1 Yangtze River|yangtze|chang jiang|changjiang; 1 Yellow River|huang he|huanghe;
+2 Grand Canal|beijing hangzhou grand canal; 2 Pearl River|zhujiang|zhu jiang; 2 West Lake|xihu; 2 Mekong|lancang; 2 Amur|heilong jiang|heilongjiang; 2 Huai River|huai; 2 Yalu River|yalu;
+3 Yarlung Tsangpo|brahmaputra; 3 Songhua River|songhua; 3 Han River|han; 3 Wei River|wei; 3 Min River|min; 3 Xiang River|xiang; 3 Li River|li jiang; 3 Huangpu River|huangpu; 3 Qiantang River|qiantang; 3 Salween|nu river|nujiang; 3 Dongting Lake|dongting; 3 Poyang Lake|poyang; 3 Taihu|lake tai|tai lake; 3 Qinghai Lake|koko nor; 3 Tarim River|tarim; 3 Jialing River|jialing; 3 West River|xi jiang|xijiang;
+4 Gan River|gan; 4 Liao River|liao; 4 Hai River|hai he; 4 Fen River|fen; 4 Luo River|luo; 4 Jinsha River|jinsha; 4 Tumen River|tumen; 4 Ussuri; 4 Ili River|ili; 4 Hongze Lake|hongze; 4 Chao Lake|chaohu; 4 Dian Lake|dianchi; 4 Erhai Lake|erhai; 4 Nam Co|namtso; 4 Lingqu Canal|lingqu; 4 Red River|yuan river; 4 Dadu River|dadu; 4 Wu River|wujiang; 4 Zhang River
+? Society | Name one of the ethnic groups officially recognized in China today.
+1 Han|han chinese; 1 Tibetans|tibetan; 1 Mongols|mongol|mongolian;
+2 Manchu|manchus; 2 Uyghur|uighur|uyghurs; 2 Hui; 2 Zhuang; 2 Miao|hmong; 2 Koreans|korean|chaoxian; 2 Kazakh|kazakhs;
+3 Yi; 3 Tujia; 3 Dong; 3 Yao; 3 Bai; 3 Dai; 3 Li; 3 Naxi; 3 Russians|russian; 3 Kyrgyz; 3 Tajik; 3 Uzbek; 3 Jing|kinh|vietnamese; 3 Tatar; 3 She;
+4 Bouyei|buyi; 4 Hani; 4 Lisu; 4 Dongxiang; 4 Gelao; 4 Lahu; 4 Wa; 4 Sui; 4 Qiang; 4 Tu|monguor; 4 Mulao; 4 Xibe|sibe; 4 Jingpo; 4 Daur; 4 Salar; 4 Blang|bulang; 4 Maonan; 4 Pumi; 4 Achang; 4 Nu; 4 Ewenki|evenki; 4 Jino; 4 De'ang|deang; 4 Bonan; 4 Yugur; 4 Monba; 4 Oroqen; 4 Derung|drung; 4 Hezhe|nanai; 4 Gaoshan; 4 Lhoba
+? Culture | Name a famous Chinese book, poem collection, or novel.
+1 Art of War; 1 Journey to the West|xiyouji; 1 Analects|analects of confucius;
+2 Tao Te Ching|dao de jing|daodejing; 2 Romance of the Three Kingdoms|three kingdoms; 2 Water Margin|outlaws of the marsh|shuihu zhuan; 2 Dream of the Red Chamber|story of the stone|hongloumeng; 2 I Ching|book of changes|yijing; 2 Little Red Book|quotations from chairman mao;
+3 Book of Songs|classic of poetry|shijing; 3 Records of the Grand Historian|shiji; 3 Mencius; 3 Zhuangzi|chuang tzu; 3 Strange Tales from a Chinese Studio|liaozhai; 3 Three Character Classic; 3 Yongle Encyclopedia; 3 Kangxi Dictionary; 3 Siku Quanshu|complete library of the four treasuries; 3 Diary of a Madman; 3 The True Story of Ah Q|ah q; 3 Spring and Autumn Annals; 3 Peony Pavilion; 3 Great Learning; 3 Doctrine of the Mean;
+4 Plum in the Golden Vase|jin ping mei; 4 The Scholars|rulin waishi; 4 Classic of Tea|chajing; 4 Compendium of Materia Medica|bencao gangmu; 4 Tiangong Kaiwu; 4 Book of Rites|liji; 4 Thousand Character Classic; 4 Romance of the Western Chamber|western chamber; 4 Peach Blossom Fan; 4 Records of the Three Kingdoms|sanguozhi; 4 Sacred Edict; 4 Classic of Filial Piety; 4 Book of Documents|shujing; 4 Han Feizi; 4 Mozi; 4 Investiture of the Gods|fengshen yanyi; 4 Three-Body Problem
+? Wild card | Name a famous site, building, or landmark in China.
+1 Great Wall|great wall of china; 1 Forbidden City; 1 Terracotta Army|terracotta warriors;
+2 Temple of Heaven; 2 Summer Palace; 2 Tiananmen Square|tiananmen; 2 Potala Palace|potala; 2 West Lake; 2 The Bund|bund; 2 Three Gorges Dam; 2 Shaolin Temple; 2 Oriental Pearl Tower; 2 Victoria Peak|the peak; 2 Bird's Nest|beijing national stadium;
+3 Old Summer Palace|yuanmingyuan; 3 Ming Tombs; 3 Mogao Caves|dunhuang caves; 3 Leshan Giant Buddha; 3 Yellow Crane Tower; 3 Humble Administrator's Garden|suzhou gardens; 3 Mount Tai|taishan; 3 Yellow Mountains|huangshan; 3 Zhangjiajie; 3 Big Wild Goose Pagoda; 3 Yu Garden|yuyuan; 3 Shanghai Tower; 3 Canton Tower; 3 Longmen Grottoes; 3 Jiuzhaigou; 3 Lama Temple|yonghe temple; 3 Jokhang Temple|jokhang;
+4 Chengde Mountain Resort; 4 Pingyao; 4 Lijiang Old Town|lijiang; 4 Yungang Grottoes; 4 Hanging Temple; 4 Lingyin Temple; 4 Mount Emei|emeishan; 4 Wudang Mountains|wudang; 4 Temple of Confucius|qufu; 4 Mount Everest|qomolangma; 4 Fenghuang; 4 Guilin; 4 Shanhaiguan; 4 Jiayuguan; 4 Zhouzhuang; 4 Tulou|fujian tulou; 4 Mausoleum of Mao Zedong|mao mausoleum; 4 Kaiping Diaolou
+? Culture | Name a Chinese festival or a tradition connected with one.
+1 Lunar New Year|chinese new year|spring festival; 1 Mid-Autumn Festival|moon festival; 1 Dragon Boat Festival|duanwu;
+2 Lantern Festival|yuanxiao; 2 Red envelopes|hongbao|lucky money; 2 Lion dance; 2 Dragon dance; 2 Mooncakes|mooncake; 2 Fireworks|firecrackers; 2 Dumplings|jiaozi; 2 Lanterns|paper lanterns; 2 Zongzi|sticky rice dumplings; 2 Dragon boat racing|dragon boats;
+3 Qingming Festival|tomb sweeping day|qingming; 3 Double Ninth Festival|chongyang; 3 Qixi Festival|qixi|double seventh; 3 Ghost Festival|hungry ghost festival|zhongyuan; 3 Spring couplets|couplets|chunlian; 3 Tangyuan|sweet rice balls; 3 Reunion dinner|new year's eve dinner; 3 Zodiac animals|chinese zodiac; 3 Lantern riddles; 3 Nian gao|rice cake;
+4 Laba Festival|laba; 4 Winter Solstice Festival|dongzhi; 4 Kitchen God|zao jun; 4 Shangsi Festival; 4 Cold Food Festival|hanshi; 4 Door gods; 4 Paper cutting|window flowers; 4 Temple fairs|miaohui; 4 Kite flying|kites; 4 Realgar wine; 4 Joss paper|burning incense

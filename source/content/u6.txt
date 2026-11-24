@@ -106,3 +106,56 @@
 2 Steam engine; 2 Power loom|loom|looms; 2 Printing press|steam press; 2 Paddle steamer|paddle wheeler|riverboat; 2 Tractor|steam tractor|traction engine; 2 Mine pumps|water pump|pump;
 3 Threshing machine|thresher; 3 Steam hammer; 3 Crane|steam crane; 3 Steam car|steam carriage|steam bus; 3 Fire engine|steam fire engine; 3 Calliope|steam organ; 3 Carousel|merry-go-round; 3 Steam turbine|turbine; 3 Ironclad|warship|battleship; 3 Steamroller|road roller; 3 Sawmill; 3 Spinning mule|spinning machines; 3 Tram|steam tram|streetcar;
 4 Steam shovel|excavator; 4 Pile driver; 4 Steam whistle|whistle; 4 Cable car; 4 Elevator|lift; 4 Steam-powered ferry|ferry; 4 Icebreaker; 4 Dredger; 4 Steam laundry|laundry; 4 Rolling mill; 4 Electric generator|dynamo|power station
+
+@voyage capecairo | From the Cape to Cairo | Cecil Rhodes's imperial dream · Cape Town to Cairo · 1890s
+? Places | Name a city in Africa (not only capitals).
+1 Cairo; 1 Cape Town; 1 Johannesburg; 1 Lagos; 1 Nairobi;
+2 Alexandria; 2 Durban; 2 Casablanca; 2 Marrakesh|marrakech; 2 Timbuktu; 2 Zanzibar|stone town; 2 Mombasa; 2 Dakar; 2 Accra; 2 Addis Ababa; 2 Kinshasa; 2 Khartoum; 2 Tunis; 2 Algiers; 2 Pretoria; 2 Luxor;
+3 Kumasi; 3 Omdurman; 3 Luanda; 3 Maputo; 3 Harare|salisbury; 3 Bulawayo; 3 Kimberley; 3 Gqeberha|port elizabeth; 3 Kampala; 3 Dar es Salaam; 3 Kigali; 3 Lusaka; 3 Abidjan; 3 Kano; 3 Ibadan; 3 Tripoli; 3 Mogadishu; 3 Djibouti; 3 Port Said; 3 Aswan; 3 Fez|fes; 3 Tangier; 3 Abuja; 3 Windhoek; 3 Antananarivo; 3 Freetown; 3 Monrovia;
+4 Benin City; 4 Lubumbashi; 4 Gaborone; 4 Kisangani; 4 Goma; 4 Suez; 4 Bamako; 4 Niamey; 4 Ouagadougou; 4 Lome; 4 Cotonou; 4 Porto-Novo; 4 Douala; 4 Yaounde; 4 Libreville; 4 Brazzaville; 4 Lilongwe; 4 Blantyre; 4 Arusha; 4 Gondar; 4 Lalibela; 4 Axum|aksum; 4 Asmara; 4 Benghazi; 4 Oran; 4 Kairouan; 4 Bloemfontein; 4 Soweto; 4 Livingstone; 4 Saint-Louis|saint louis; 4 Ouidah; 4 Elmina; 4 Kilwa
+? Tech | Name a railway, canal, bridge, or other big engineering project built between 1750 and 1900.
+1 Suez Canal; 1 Eiffel Tower; 1 Brooklyn Bridge;
+2 Transcontinental Railroad|first transcontinental railroad; 2 Trans-Siberian Railway|trans siberian railway; 2 Erie Canal; 2 London Underground|the tube|metropolitan railway; 2 Tower Bridge; 2 Statue of Liberty; 2 Liverpool and Manchester Railway; 2 Stockton and Darlington Railway;
+3 Canadian Pacific Railway; 3 Forth Bridge; 3 Thames Tunnel; 3 Great Western Railway; 3 Uganda Railway; 3 Crystal Palace; 3 Clifton Suspension Bridge; 3 Menai Suspension Bridge|menai bridge; 3 Kiel Canal; 3 Corinth Canal; 3 Manchester Ship Canal; 3 Bridgewater Canal; 3 Gotthard Tunnel|gotthard rail tunnel; 3 Washington Monument; 3 Great Indian Peninsula Railway; 3 Darjeeling Himalayan Railway;
+4 Frejus Tunnel|mont cenis tunnel; 4 Semmering Railway; 4 Caledonian Canal; 4 Iron Bridge|the iron bridge; 4 Pontcysyllte Aqueduct; 4 Rideau Canal; 4 Göta Canal|gota canal; 4 Panama Railroad|panama railway; 4 Tokyo-Yokohama railway|shimbashi yokohama railway; 4 Paris sewers; 4 London sewers|bazalgette sewers; 4 Galata Bridge; 4 Eads Bridge
+? Wild card | Name a precious stone or gem.
+1 Diamond; 1 Ruby; 1 Emerald; 1 Sapphire; 1 Pearl;
+2 Opal; 2 Amethyst; 2 Topaz; 2 Garnet; 2 Jade; 2 Turquoise; 2 Onyx; 2 Aquamarine; 2 Amber;
+3 Tanzanite; 3 Lapis lazuli; 3 Peridot; 3 Citrine; 3 Tourmaline; 3 Moonstone; 3 Agate; 3 Jasper; 3 Quartz|rose quartz; 3 Coral; 3 Alexandrite; 3 Zircon; 3 Spinel; 3 Obsidian; 3 Malachite; 3 Jet;
+4 Carnelian; 4 Beryl; 4 Tiger's eye|tigers eye; 4 Bloodstone; 4 Sunstone; 4 Morganite; 4 Kunzite; 4 Chrysoberyl; 4 Rhodochrosite; 4 Labradorite; 4 Iolite; 4 Chalcedony; 4 Sodalite; 4 Sardonyx; 4 Benitoite; 4 Painite; 4 Fluorite; 4 Jadeite; 4 Nephrite
+? Ideas | Name a scientist, economist, or philosopher active between 1750 and 1900.
+1 Charles Darwin|darwin; 1 Karl Marx|marx; 1 Adam Smith;
+2 Friedrich Engels|engels; 2 Louis Pasteur|pasteur; 2 Gregor Mendel|mendel; 2 Michael Faraday|faraday; 2 Herbert Spencer|spencer; 2 John Stuart Mill|mill; 2 Thomas Malthus|malthus; 2 Friedrich Nietzsche|nietzsche; 2 Florence Nightingale|nightingale; 2 Marie Curie|curie; 2 Sigmund Freud|freud;
+3 David Ricardo|ricardo; 3 Alfred Russel Wallace|wallace; 3 Charles Lyell|lyell; 3 Robert Koch|koch; 3 Dmitri Mendeleev|mendeleev; 3 James Clerk Maxwell|maxwell; 3 Auguste Comte|comte; 3 Alexander von Humboldt|humboldt; 3 Joseph Lister|lister; 3 Edward Jenner|jenner; 3 John Dalton|dalton; 3 Lord Kelvin|kelvin|william thomson; 3 Wilhelm Rontgen|rontgen|roentgen; 3 Ada Lovelace|lovelace; 3 Charles Babbage|babbage; 3 Mary Wollstonecraft|wollstonecraft; 3 Georg Hegel|hegel; 3 Immanuel Kant|kant; 3 Fukuzawa Yukichi|fukuzawa;
+4 Francis Galton|galton; 4 Ernst Haeckel|haeckel; 4 Rudolf Virchow|virchow; 4 Antoine Lavoisier|lavoisier; 4 Max Planck|planck; 4 Liang Qichao; 4 Kang Youwei; 4 Jose Rizal|rizal; 4 Jeremy Bentham|bentham; 4 Arthur Schopenhauer|schopenhauer; 4 Carl Friedrich Gauss|gauss; 4 Alessandro Volta|volta; 4 Andre-Marie Ampere|ampere; 4 Benjamin Franklin|franklin; 4 Henry George; 4 Pierre-Joseph Proudhon|proudhon; 4 Mikhail Bakunin|bakunin; 4 Peter Kropotkin|kropotkin; 4 Emile Durkheim|durkheim; 4 Max Weber|weber; 4 Ignaz Semmelweis|semmelweis; 4 Pierre Curie
+? Geography | Name a desert, mountain, or waterfall in Africa.
+1 Sahara|sahara desert; 1 Mount Kilimanjaro|kilimanjaro; 1 Victoria Falls|mosi-oa-tunya;
+2 Kalahari|kalahari desert; 2 Namib|namib desert; 2 Atlas Mountains|atlas; 2 Table Mountain; 2 Mount Kenya; 2 Great Rift Valley|rift valley; 2 Drakensberg;
+3 Rwenzori Mountains|rwenzori|mountains of the moon; 3 Ethiopian Highlands; 3 Simien Mountains|semien; 3 Mount Elgon; 3 Mount Cameroon; 3 Blue Nile Falls|tis abay; 3 Murchison Falls; 3 Augrabies Falls; 3 Tugela Falls; 3 Libyan Desert; 3 Nubian Desert; 3 Danakil Depression|danakil; 3 Ngorongoro Crater|ngorongoro; 3 Mount Meru; 3 Tibesti Mountains|tibesti; 3 Ahaggar Mountains|hoggar; 3 Karoo; 3 Mount Nyiragongo|nyiragongo;
+4 Ennedi; 4 Ras Dashen|ras dejen; 4 Erta Ale; 4 Ol Doinyo Lengai; 4 Mount Stanley|margherita peak; 4 Fouta Djallon|futa jallon; 4 Mount Toubkal|toubkal; 4 Western Desert; 4 Eastern Desert; 4 Ounianga
+
+@voyage opium | The Opium Clippers | British opium traders · Patna to Canton · 1830s
+? Places | Name a country in South, Southeast, or East Asia today.
+1 China; 1 Japan; 1 India; 1 Vietnam; 1 South Korea|korea;
+2 Thailand; 2 Philippines; 2 Indonesia; 2 Malaysia; 2 Singapore; 2 Pakistan; 2 Bangladesh; 2 North Korea; 2 Cambodia; 2 Laos; 2 Myanmar|burma; 2 Sri Lanka|ceylon; 2 Nepal; 2 Mongolia; 2 Taiwan;
+3 Brunei; 3 Timor-Leste|east timor|timor leste; 3 Bhutan; 3 Maldives; 3 Afghanistan
+? Geography | Name a river in South, Southeast, or East Asia.
+1 Ganges|ganga; 1 Mekong|cuu long; 1 Yangtze|chang jiang|yangtze river; 1 Yellow River|huang he;
+2 Indus; 2 Brahmaputra; 2 Red River|song hong; 2 Irrawaddy|ayeyarwady; 2 Pearl River|zhujiang; 2 Chao Phraya; 2 Yamuna|jumna; 2 Saigon River|song sai gon; 2 Perfume River|song huong; 2 Han River;
+3 Salween|thanlwin|nu river; 3 Amur|heilong jiang; 3 Godavari; 3 Krishna; 3 Kaveri|cauvery; 3 Narmada; 3 Hooghly|hugli; 3 Padma; 3 Meghna; 3 Yalu; 3 Sutlej; 3 Jhelum; 3 Chenab; 3 Ravi; 3 Beas; 3 Mahanadi; 3 Pasig River|pasig; 3 Dong Nai; 3 Tonle Sap; 3 Kapuas; 3 Black River|song da|da river;
+4 Chindwin; 4 Sittaung; 4 Mahakam; 4 Musi; 4 Shinano River|shinano; 4 Tone River|tone; 4 Xi River|xi jiang; 4 Huai River|huai; 4 Min River; 4 Bassac|hau river; 4 Ca River|song ca; 4 Ma River|song ma; 4 Thu Bon; 4 Kabul River; 4 Tapti|tapi; 4 Gandaki; 4 Kosi; 4 Teesta; 4 Rajang; 4 Kinabatangan; 4 Pahang; 4 Cagayan River; 4 Nakdong; 4 Taedong; 4 Sumida
+? Tech | Name a type of ship or boat used in the 1800s.
+1 Steamship|steamer|steamboat; 1 Clipper|clipper ship; 1 Junk; 1 Sailing ship;
+2 Paddle steamer|paddle wheeler|paddleboat; 2 Ironclad; 2 Frigate; 2 Gunboat; 2 Whaler|whaling ship; 2 Schooner; 2 Ocean liner|liner; 2 Submarine; 2 Battleship; 2 Sampan; 2 Canoe;
+3 Ship of the line; 3 Brig; 3 Barque|bark; 3 Sloop; 3 Monitor; 3 Torpedo boat; 3 Packet ship|packet; 3 Tea clipper; 3 Opium clipper; 3 Riverboat; 3 Narrowboat|canal boat; 3 Man-of-war|man o war; 3 Corvette; 3 East Indiaman|indiaman; 3 Cutter; 3 Cruiser; 3 Dhow; 3 Tugboat|tug; 3 Collier;
+4 Lorcha; 4 Tramp steamer; 4 Brigantine; 4 Ketch; 4 Yawl; 4 Lugger; 4 Windjammer; 4 Hulk|prison hulk; 4 Lightship; 4 Ferry; 4 Barge; 4 Lifeboat
+? Wild card | Name a type of tea or tea drink.
+1 Green tea; 1 Black tea; 1 Milk tea; 1 Bubble tea|boba|pearl milk tea;
+2 Oolong; 2 Jasmine tea; 2 Matcha; 2 Earl Grey; 2 Chai|masala chai; 2 Iced tea; 2 Lemon tea; 2 Herbal tea; 2 Thai tea|cha yen;
+3 White tea; 3 Pu-erh|puer; 3 Darjeeling; 3 Assam; 3 English Breakfast; 3 Sencha; 3 Longjing|dragon well; 3 Lapsang souchong; 3 Ceylon tea; 3 Tieguanyin|iron goddess; 3 Chamomile; 3 Mint tea|peppermint tea; 3 Rooibos; 3 Hibiscus tea; 3 Lotus tea|tra sen; 3 Teh tarik; 3 Kombucha; 3 Genmaicha; 3 Hojicha; 3 Butter tea|po cha; 3 Artichoke tea|tra atiso;
+4 Keemun; 4 Yellow tea; 4 Gyokuro; 4 Lu'an melon seed|liuan guapian; 4 Silver needle|baihao yinzhen; 4 Russian Caravan; 4 Turkish tea|cay; 4 Hong Kong milk tea|silk stocking tea; 4 Sweet tea; 4 Builder's tea; 4 Moroccan mint tea; 4 Yuenyeung|yuan yang; 4 Shan tuyet|snow tea; 4 Thai Nguyen tea|tra thai nguyen; 4 Barley tea|mugicha; 4 Ginger tea; 4 Lemongrass tea
+? Economy | Name a currency or form of money, past or present.
+1 Dollar|us dollar; 1 Euro; 1 Pound|pound sterling|sterling; 1 Yen; 1 Dong|vietnamese dong;
+2 Yuan|renminbi|rmb; 2 Rupee; 2 Peso; 2 Won; 2 Baht; 2 Franc; 2 Ruble|rouble; 2 Gold coins|gold; 2 Silver coins|silver; 2 Bitcoin; 2 Paper money|banknotes;
+3 Lira; 3 Mark|deutsche mark|deutschmark; 3 Real; 3 Rand; 3 Riyal|rial; 3 Dinar; 3 Dirham; 3 Shilling; 3 Krona|krone; 3 Guilder; 3 Peseta; 3 Drachma; 3 Ringgit; 3 Rupiah; 3 Taka; 3 Tael; 3 Piece of eight|spanish dollar|real de a ocho; 3 Cowrie shells|cowries; 3 Ducat; 3 Florin; 3 Denarius;
+4 Escudo; 4 Kip; 4 Riel; 4 Kyat; 4 Naira; 4 Cedi; 4 Birr; 4 Zloty; 4 Forint; 4 Koruna; 4 Shekel; 4 Sol; 4 Bolivar; 4 Guinea; 4 Crown; 4 Maria Theresa thaler|thaler; 4 Livre; 4 Sou; 4 Piastre|piaster; 4 Cash|chinese cash|copper cash; 4 Ryo; 4 Mohur

@@ -107,3 +107,57 @@
 2 In Flanders Fields; 2 War and Peace; 2 The Iliad|iliad; 2 Dunkirk; 2 1917; 2 A Farewell to Arms|farewell to arms; 2 Dulce et Decorum Est; 2 Band of Brothers; 2 Platoon; 2 Apocalypse Now; 2 Oppenheimer; 2 Hacksaw Ridge;
 3 Slaughterhouse-Five|slaughterhouse five; 3 Catch-22|catch 22; 3 For Whom the Bell Tolls; 3 The Red Badge of Courage|red badge of courage; 3 Full Metal Jacket; 3 The Thin Red Line|thin red line; 3 Letters from Iwo Jima; 3 Grave of the Fireflies; 3 The Things They Carried; 3 Paths of Glory; 3 Lawrence of Arabia; 3 Gallipoli; 3 Journey's End|journeys end; 3 The Sorrow of War|noi buon chien tranh; 3 The Bridge on the River Kwai|bridge on the river kwai; 3 Fury; 3 The Odyssey|odyssey; 3 Mahabharata; 3 Henry V; 3 Johnny Got His Gun;
 4 The Charge of the Light Brigade|charge of the light brigade; 4 The Third of May 1808|third of may; 4 Gassed; 4 The Disasters of War|disasters of war; 4 Birdsong; 4 Regeneration; 4 Anthem for Doomed Youth; 4 The Soldier; 4 Storm of Steel; 4 Testament of Youth; 4 Das Boot; 4 Tora! Tora! Tora!|tora tora tora; 4 Midway; 4 Pearl Harbor; 4 The Longest Day|longest day; 4 Mulan; 4 Romance of the Three Kingdoms|three kingdoms; 4 The Deer Hunter|deer hunter; 4 Born on the Fourth of July; 4 Good Morning Vietnam; 4 We Were Soldiers; 4 Black Hawk Down; 4 The Hurt Locker|hurt locker; 4 War Horse; 4 The Great Escape|great escape; 4 Empire of the Sun
+
+@voyage anzac | The Long Way to Gallipoli | The ANZAC convoy · Albany to Gallipoli · 1914–1915
+? Wild card | Name an animal native to Australia or New Zealand.
+1 Kangaroo; 1 Koala; 1 Kiwi; 1 Platypus;
+2 Wombat; 2 Echidna; 2 Emu; 2 Kookaburra; 2 Tasmanian devil; 2 Dingo; 2 Wallaby; 2 Quokka; 2 Cassowary; 2 Saltwater crocodile|crocodile; 2 Cockatoo;
+3 Sugar glider; 3 Possum|brushtail possum; 3 Numbat; 3 Bilby; 3 Quoll; 3 Kea; 3 Kakapo; 3 Tuatara; 3 Galah; 3 Lyrebird; 3 Budgerigar|budgie; 3 Thylacine|tasmanian tiger; 3 Frilled lizard|frill-necked lizard; 3 Black swan; 3 Moa; 3 Funnel-web spider|funnel web; 3 Redback spider|redback; 3 Box jellyfish;
+4 Taipan; 4 Takahe; 4 Weka; 4 Thorny devil; 4 Pademelon; 4 Bandicoot; 4 Tree kangaroo; 4 Wallaroo; 4 Kakariki; 4 Tui; 4 Pukeko; 4 Rosella; 4 Lorikeet|rainbow lorikeet; 4 Little penguin|fairy penguin; 4 Haast's eagle; 4 Blue-tongued skink|bluetongue; 4 Goanna; 4 Dugong; 4 Weta
+? Places | Name a city in Australia or New Zealand.
+1 Sydney; 1 Melbourne; 1 Auckland; 1 Canberra;
+2 Brisbane; 2 Perth; 2 Adelaide; 2 Wellington; 2 Christchurch; 2 Hobart; 2 Darwin; 2 Gold Coast;
+3 Newcastle; 3 Wollongong; 3 Cairns; 3 Townsville; 3 Albany; 3 Fremantle; 3 Alice Springs; 3 Geelong; 3 Dunedin; 3 Queenstown; 3 Rotorua; 3 Hamilton; 3 Tauranga;
+4 Ballarat; 4 Bendigo; 4 Launceston; 4 Toowoomba; 4 Broome; 4 Kalgoorlie; 4 Sunshine Coast; 4 Mackay; 4 Rockhampton; 4 Bunbury; 4 Napier; 4 Nelson; 4 Invercargill; 4 Palmerston North; 4 Whangarei; 4 New Plymouth; 4 Gisborne
+? Society | Name a woman who made history between 1900 and 1945.
+1 Marie Curie|curie; 1 Amelia Earhart|earhart; 1 Eleanor Roosevelt;
+2 Emmeline Pankhurst|pankhurst; 2 Frida Kahlo|frida; 2 Coco Chanel|chanel; 2 Virginia Woolf|woolf; 2 Helen Keller|keller; 2 Rosa Luxemburg|luxemburg; 2 Agatha Christie|christie; 2 Josephine Baker;
+3 Sarojini Naidu|naidu; 3 Soong Mei-ling|madame chiang|song meiling; 3 Soong Ching-ling|song qingling; 3 Alexandra Kollontai|kollontai; 3 Nadezhda Krupskaya|krupskaya; 3 Edith Cavell|cavell; 3 Mata Hari; 3 Lise Meitner|meitner; 3 Bessie Coleman; 3 Margaret Sanger|sanger; 3 Jane Addams|addams; 3 Emily Davison|emily wilding davison; 3 Millicent Fawcett|fawcett; 3 Pearl S. Buck|pearl buck; 3 Gabriela Mistral|mistral; 3 Annie Besant|besant; 3 Irene Joliot-Curie; 3 Hedy Lamarr|lamarr;
+4 Qiu Jin; 4 Huda Shaarawi|huda sharawi; 4 Halide Edib|halide edip; 4 Clara Zetkin|zetkin; 4 Nancy Wake; 4 Irena Sendler|sendler; 4 Nguyen Thi Minh Khai|minh khai; 4 Kasturba Gandhi|kasturba; 4 Marlene Dietrich|dietrich; 4 Amrita Sher-Gil; 4 Anna Akhmatova|akhmatova; 4 Isadora Duncan; 4 Edith Piaf|piaf; 4 Frances Perkins|perkins; 4 Mary McLeod Bethune|bethune; 4 Ida B. Wells|ida wells; 4 Marie Stopes; 4 Nancy Astor|lady astor; 4 Raden Ajeng Kartini|kartini; 4 Ichikawa Fusae; 4 Hiratsuka Raicho; 4 Tsuda Umeko
+? Tech | Name a household invention or appliance that spread between 1900 and 1945.
+1 Radio; 1 Refrigerator|fridge; 1 Television|tv; 1 Telephone|phone;
+2 Vacuum cleaner|vacuum; 2 Washing machine; 2 Toaster; 2 Electric light|light bulb|electric lighting; 2 Electric iron|iron; 2 Electric fan|fan; 2 Air conditioner|air conditioning; 2 Electric stove|gas stove|stove|oven; 2 Record player|phonograph|gramophone; 2 Camera;
+3 Zipper|zip; 3 Plastic|bakelite; 3 Nylon|nylon stockings; 3 Sliced bread; 3 Frozen food; 3 Ballpoint pen; 3 Electric kettle|kettle; 3 Hair dryer; 3 Blender; 3 Cellophane; 3 Band-Aid|plaster|adhesive bandage; 3 Tea bag|tea bags; 3 Instant coffee; 3 Pop-up toaster; 3 Dishwasher; 3 Sewing machine; 3 Electric doorbell|doorbell; 3 Flashlight|torch; 3 Canned food|cans;
+4 Paper towels; 4 Toilet paper roll|toilet paper; 4 Safety razor|razor; 4 Electric razor|electric shaver; 4 Pressure cooker; 4 Crayons; 4 Tin opener|can opener; 4 Mixer|stand mixer; 4 Thermos|vacuum flask; 4 Coffee maker|percolator
+? Culture | Name a way people remember the world wars (a day, symbol, memorial, or tradition).
+1 Remembrance Day|armistice day; 1 Poppy|poppies|red poppy; 1 Anzac Day;
+2 Veterans Day; 2 Memorial Day; 2 Minute of silence|two minutes silence|moment of silence; 2 Tomb of the Unknown Soldier|unknown soldier; 2 Cenotaph; 2 War memorial|war memorials; 2 Victory Day|may 9; 2 Hiroshima Peace Memorial|atomic bomb dome|genbaku dome; 2 Last Post; 2 Pearl Harbor memorial|uss arizona memorial;
+3 Menin Gate; 3 Vimy Memorial|vimy ridge; 3 Thiepval Memorial|thiepval; 3 Australian War Memorial; 3 Shrine of Remembrance; 3 Anzac Cove; 3 Lone Pine; 3 Dawn service; 3 War cemeteries|war graves|cemeteries; 3 Museums|war museum|imperial war museum; 3 Wreaths|wreath laying; 3 D-Day anniversary|d-day; 3 VE Day; 3 VJ Day; 3 Hiroshima Day|peace memorial ceremony; 3 Anzac biscuits;
+4 Douaumont Ossuary; 4 Canakkale Martyrs' Memorial|canakkale memorial; 4 Ataturk memorial|johnnies and mehmets; 4 Iwo Jima memorial|marine corps war memorial; 4 Liberation Day; 4 Eternal flame; 4 Rosemary; 4 Blue cornflower|bleuet; 4 White poppy; 4 Ode of Remembrance|we will remember them; 4 Paper cranes|sadako cranes; 4 Mamayev Kurgan|the motherland calls; 4 Arc de Triomphe flame
+
+@voyage arabrevolt | The Revolt in the Desert | The Arab Revolt · Mecca to Damascus · 1916–1918
+? People | Name a person connected to the Middle East between 1900 and 1950.
+1 T. E. Lawrence|lawrence of arabia|te lawrence|lawrence; 1 Mustafa Kemal Ataturk|ataturk|mustafa kemal;
+2 Sharif Hussein|hussein bin ali|sharif of mecca; 2 Faisal I|faisal|emir faisal; 2 Abdullah I|abdullah; 2 Ibn Saud|abdulaziz ibn saud|abdulaziz; 2 Arthur Balfour|balfour; 2 Mark Sykes|sykes; 2 Francois Georges-Picot|picot; 2 Gertrude Bell; 2 David Ben-Gurion|ben gurion; 2 Chaim Weizmann|weizmann; 2 Reza Shah|reza shah pahlavi;
+3 Enver Pasha|enver; 3 Mehmed VI|mehmed vi vahideddin; 3 Saad Zaghloul|zaghloul; 3 King Fuad|fuad i; 3 King Farouk|farouk; 3 Edmund Allenby|allenby; 3 Winston Churchill|churchill; 3 Henry McMahon|mcmahon; 3 Auda abu Tayi|auda; 3 Ismet Inonu|inonu; 3 Halide Edib|halide edip; 3 Mohammad Reza Shah|mohammad reza pahlavi; 3 Hassan al-Banna|al-banna; 3 Ghazi of Iraq|king ghazi;
+4 Lord Kitchener|kitchener; 4 Mohammad Mosaddegh|mosaddegh|mossadegh; 4 Faisal II; 4 Nuri al-Said; 4 Huda Shaarawi|huda sharawi; 4 Umm Kulthum; 4 Khalil Gibran|gibran; 4 Taha Hussein; 4 Sati al-Husri; 4 Fakhri Pasha; 4 Herbert Samuel; 4 Abdul Hamid II|abdulhamid; 4 Mehmed V; 4 Golda Meir|golda meyerson; 4 Theodor Herzl|herzl; 4 Ahmad Shah Qajar; 4 Shukri al-Quwatli|quwatli
+? Wild card | Name an animal that lives in the desert.
+1 Camel; 1 Scorpion; 1 Snake; 1 Lizard;
+2 Fennec fox|fennec; 2 Dromedary; 2 Rattlesnake; 2 Meerkat; 2 Vulture; 2 Roadrunner; 2 Coyote; 2 Gazelle; 2 Oryx|arabian oryx; 2 Desert tortoise|tortoise; 2 Jerboa; 2 Hyena; 2 Ostrich; 2 Bactrian camel;
+3 Gila monster; 3 Sidewinder; 3 Horned viper; 3 Thorny devil; 3 Kangaroo rat; 3 Sand cat; 3 Addax; 3 Ibex|nubian ibex; 3 Desert locust|locust; 3 Dung beetle|scarab; 3 Tarantula; 3 Jackrabbit; 3 Dingo; 3 Cobra; 3 Saker falcon|falcon; 3 Sandgrouse; 3 Monitor lizard; 3 Caracal; 3 Jackal; 3 Gerbil;
+4 Armadillo lizard; 4 Spiny-tailed lizard|dhub|uromastyx; 4 Javelina|peccary; 4 Kit fox; 4 Bighorn sheep; 4 Chuckwalla; 4 Desert hedgehog; 4 Houbara bustard; 4 Arabian leopard; 4 Sand viper; 4 Deathstalker; 4 Camel spider|solifugid; 4 Burrowing owl
+? Society | Name an English word that comes from Arabic.
+1 Coffee; 1 Sugar; 1 Algebra; 1 Zero;
+2 Alcohol; 2 Algorithm; 2 Cotton; 2 Safari; 2 Sofa; 2 Magazine; 2 Lemon; 2 Giraffe; 2 Sultan; 2 Hummus; 2 Falafel; 2 Genie|jinn; 2 Mosque;
+3 Admiral; 3 Cipher; 3 Syrup; 3 Sherbet; 3 Mattress; 3 Tariff; 3 Candy; 3 Alchemy; 3 Elixir; 3 Zenith; 3 Nadir; 3 Monsoon; 3 Jar; 3 Gazelle; 3 Saffron; 3 Assassin; 3 Emir; 3 Sheikh; 3 Arsenal; 3 Caliber|calibre; 3 Alkali;
+4 Apricot; 4 Artichoke; 4 Tamarind; 4 Carafe; 4 Crimson; 4 Lute; 4 Spinach; 4 Orange; 4 Mohair; 4 Muslin; 4 Henna; 4 Harem; 4 Hashish; 4 Kohl; 4 Albatross; 4 Talc; 4 Sequin; 4 Ream
+? Tech | Name a product made from oil (petroleum).
+1 Gasoline|petrol|gas; 1 Plastic|plastics; 1 Diesel;
+2 Jet fuel; 2 Kerosene|paraffin oil; 2 Asphalt|tarmac|bitumen; 2 Motor oil|lubricants|engine oil; 2 Nylon; 2 Polyester; 2 Synthetic rubber; 2 Tires|tyres; 2 Plastic bottles|water bottles; 2 Plastic bags; 2 Candles|wax|paraffin wax;
+3 Fertilizer|fertilizers; 3 Pesticides; 3 Crayons; 3 Petroleum jelly|vaseline; 3 Lipstick|cosmetics|makeup; 3 Detergent|detergents; 3 Heating oil; 3 Propane|lpg; 3 Polystyrene|styrofoam; 3 PVC; 3 Nail polish; 3 Ink; 3 Synthetic fibers|acrylic; 3 Paint|paints; 3 Shampoo; 3 Toothbrush|toothbrushes; 3 Credit cards; 3 Sneakers|shoes; 3 Plastic toys|lego|toys;
+4 Naphtha; 4 Butane|lighter fluid; 4 Fuel oil|bunker fuel; 4 Polyethylene; 4 Polypropylene; 4 Antifreeze; 4 Glue|adhesives; 4 Solvents; 4 Perfume; 4 Contact lenses; 4 Garbage bags|bin bags; 4 Phone cases; 4 Food packaging|cling film|plastic wrap; 4 Vinyl records|records; 4 Sunglasses; 4 Raincoats; 4 Roofing shingles
+? Belief | Name a holy city in any religion.
+1 Mecca|makkah; 1 Jerusalem; 1 Vatican City|vatican|rome;
+2 Medina; 2 Varanasi|benares|kashi; 2 Bethlehem; 2 Lhasa; 2 Bodh Gaya; 2 Amritsar; 2 Karbala; 2 Najaf; 2 Lumbini;
+3 Qom; 3 Mashhad; 3 Nazareth; 3 Santiago de Compostela; 3 Lourdes; 3 Fatima; 3 Canterbury; 3 Hebron; 3 Kairouan; 3 Sarnath; 3 Kushinagar; 3 Haridwar; 3 Rishikesh; 3 Ayodhya; 3 Mathura; 3 Vrindavan; 3 Puri; 3 Ise; 3 Mount Athos; 3 Lalibela; 3 Aksum|axum;
+4 Touba; 4 Harar; 4 Safed|tzfat; 4 Tiberias; 4 Haifa; 4 Acre|akko; 4 Ujjain; 4 Kanchipuram; 4 Dwarka; 4 Salt Lake City; 4 Nankana Sahib; 4 Kandy; 4 Bagan; 4 Konya; 4 Pushkar; 4 Guadalupe|tepeyac; 4 Tay Ninh; 4 Assisi; 4 Czestochowa|częstochowa; 4 Shirdi; 4 Rameswaram; 4 Mount Kailash|kailash; 4 Koyasan|mount koya

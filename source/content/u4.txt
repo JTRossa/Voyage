@@ -186,3 +186,57 @@
 2 Pilot; 2 Cabin boy; 2 Carpenter; 2 Surgeon|doctor|barber surgeon; 2 First mate|mate; 2 Lookout; 2 Priest|chaplain|friar; 2 Soldier|soldiers|marines; 2 Admiral; 2 Helmsman|steersman;
 3 Boatswain|bosun; 3 Quartermaster; 3 Gunner; 3 Cooper; 3 Purser; 3 Master|sailing master; 3 Cartographer|mapmaker; 3 Interpreter|translator; 3 Merchant|factor; 3 Clerk|scribe|notary; 3 Caulker; 3 Sailmaker; 3 Steward; 3 Rigger;
 4 Powder monkey; 4 Ship's boy|apprentice seaman|gromet; 4 Swabbie|deckhand; 4 Topman; 4 Armorer; 4 Constable; 4 Trumpeter; 4 Drummer; 4 Pilot major; 4 Supercargo; 4 Coxswain; 4 Lieutenant; 4 Midshipman
+
+@voyage ricci | The Scholar in the Forbidden City | Matteo Ricci · Lisbon to Beijing · 1578–1601
+? Places | Name a city in China today.
+1 Beijing|peking; 1 Shanghai; 1 Hong Kong; 1 Guangzhou|canton;
+2 Shenzhen; 2 Macau|macao; 2 Nanjing|nanking; 2 Hangzhou; 2 Xi'an|xian; 2 Chengdu; 2 Chongqing; 2 Wuhan; 2 Tianjin; 2 Suzhou; 2 Harbin; 2 Lhasa;
+3 Shenyang|mukden; 3 Dalian; 3 Qingdao; 3 Xiamen|amoy; 3 Fuzhou; 3 Quanzhou; 3 Kunming; 3 Urumqi; 3 Kashgar|kashi; 3 Lanzhou; 3 Changsha; 3 Nanchang; 3 Zhengzhou; 3 Kaifeng; 3 Luoyang; 3 Jinan; 3 Ningbo; 3 Guilin; 3 Sanya; 3 Zhuhai; 3 Dunhuang;
+4 Hefei; 4 Taiyuan; 4 Shijiazhuang; 4 Hohhot; 4 Yangzhou; 4 Nanning; 4 Haikou; 4 Datong; 4 Changchun; 4 Xining; 4 Yinchuan; 4 Guiyang; 4 Wenzhou; 4 Dongguan; 4 Foshan; 4 Lijiang; 4 Zhaoqing; 4 Shaoguan; 4 Qufu; 4 Chengde; 4 Jingdezhen; 4 Yiwu
+? Ideas | Name a European scientist, scholar, or philosopher who lived between 1450 and 1750.
+1 Isaac Newton|newton; 1 Galileo Galilei|galileo; 1 Leonardo da Vinci|leonardo|da vinci; 1 Nicolaus Copernicus|copernicus;
+2 Johannes Kepler|kepler; 2 Rene Descartes|descartes; 2 John Locke|locke; 2 Thomas Hobbes|hobbes; 2 Francis Bacon; 2 Erasmus; 2 Niccolo Machiavelli|machiavelli; 2 Voltaire; 2 Montesquieu; 2 Blaise Pascal|pascal;
+3 Tycho Brahe|brahe; 3 Andreas Vesalius|vesalius; 3 William Harvey|harvey; 3 Robert Boyle|boyle; 3 Gottfried Leibniz|leibniz; 3 Baruch Spinoza|spinoza; 3 Thomas More; 3 Michel de Montaigne|montaigne; 3 Robert Hooke|hooke; 3 Christiaan Huygens|huygens; 3 Antonie van Leeuwenhoek|leeuwenhoek; 3 Edmond Halley|halley; 3 Pierre de Fermat|fermat; 3 Gerardus Mercator|mercator; 3 Carl Linnaeus|linnaeus; 3 Leonhard Euler|euler; 3 Giordano Bruno|bruno; 3 Paracelsus; 3 Matteo Ricci|ricci;
+4 Evangelista Torricelli|torricelli; 4 John Napier|napier; 4 Christopher Clavius|clavius; 4 Gerolamo Cardano|cardano; 4 Ambroise Pare|paré; 4 Pierre Gassendi|gassendi; 4 Marin Mersenne|mersenne; 4 Hugo Grotius|grotius; 4 Pico della Mirandola|pico; 4 Abraham Ortelius|ortelius; 4 Bernoulli|daniel bernoulli|jacob bernoulli|johann bernoulli; 4 Giovanni Cassini|cassini; 4 Johannes Gutenberg|gutenberg; 4 Marsilio Ficino|ficino; 4 Ole Romer|rømer; 4 Anders Celsius|celsius; 4 Daniel Fahrenheit|fahrenheit; 4 Emilie du Chatelet|du chatelet; 4 Margaret Cavendish; 4 Maria Sibylla Merian|merian
+? Society | Name a language spoken in East or Southeast Asia today.
+1 Chinese|mandarin; 1 Japanese; 1 Korean; 1 Vietnamese; 1 Thai; 1 English;
+2 Cantonese; 2 Malay; 2 Indonesian|bahasa indonesia; 2 Filipino|tagalog; 2 Khmer|cambodian; 2 Lao|laotian; 2 Burmese|myanmar; 2 Tibetan; 2 Mongolian;
+3 Hokkien|min nan|minnan; 3 Hakka; 3 Shanghainese|wu; 3 Teochew; 3 Javanese; 3 Sundanese; 3 Cebuano|visayan; 3 Ilocano; 3 Tamil; 3 Uyghur|uighur; 3 Hmong|miao; 3 Zhuang; 3 Portuguese; 3 Tetum;
+4 Balinese; 4 Manchu; 4 Cham; 4 Shan; 4 Karen; 4 Ainu; 4 Okinawan|ryukyuan; 4 Hiligaynon|ilonggo; 4 Waray; 4 Kapampangan; 4 Minangkabau; 4 Acehnese; 4 Madurese; 4 Bugis|buginese; 4 Tay; 4 Muong; 4 Kachin|jingpo; 4 Yi|nuosu; 4 Taiwanese|taiwanese hokkien; 4 Hainanese
+? Culture | Name a famous painting, sculpture, or artwork made between 1450 and 1750.
+1 Mona Lisa; 1 The Last Supper|last supper; 1 David|statue of david;
+2 Sistine Chapel ceiling|sistine chapel; 2 The Creation of Adam|creation of adam; 2 The School of Athens|school of athens; 2 Girl with a Pearl Earring; 2 The Night Watch|night watch; 2 The Birth of Venus|birth of venus; 2 Pieta|pietà; 2 Vitruvian Man; 2 Las Meninas;
+3 The Last Judgment|last judgment; 3 Primavera; 3 The Garden of Earthly Delights|garden of earthly delights; 3 The Ambassadors; 3 Lady with an Ermine; 3 The Milkmaid; 3 The Hunters in the Snow|hunters in the snow; 3 The Tower of Babel; 3 Moses|michelangelo's moses; 3 Ecstasy of Saint Teresa; 3 Apollo and Daphne; 3 Rhinoceros|durer's rhinoceros; 3 Praying Hands; 3 Judith Slaying Holofernes; 3 The Anatomy Lesson of Dr. Tulp|anatomy lesson; 3 The Return of the Prodigal Son|return of the prodigal son; 3 Venus of Urbino;
+4 Melencolia I|melencolia; 4 Young Hare; 4 Isenheim Altarpiece; 4 The Calling of Saint Matthew|calling of st matthew; 4 View of Delft; 4 Sleeping Venus; 4 Hamzanama; 4 Akbarnama; 4 Wind God and Thunder God; 4 Red and White Plum Blossoms; 4 Baldacchino|st peters baldachin
+? Tech | Name a scientific or navigational instrument in use by 1750.
+1 Telescope; 1 Compass|magnetic compass; 1 Clock|mechanical clock; 1 Microscope;
+2 Astrolabe; 2 Globe; 2 Map|maps; 2 Hourglass|sand glass; 2 Sundial; 2 Quadrant; 2 Barometer; 2 Thermometer; 2 Pendulum clock; 2 Printing press;
+3 Armillary sphere; 3 Cross-staff|jacob's staff; 3 Backstaff|davis quadrant; 3 Prism; 3 Spectacles|eyeglasses|glasses; 3 Slide rule; 3 Abacus; 3 Octant; 3 Log line|chip log; 3 Sounding line|lead line; 3 Theodolite; 3 Water clock|clepsydra; 3 Magnifying glass|lens; 3 Air pump|vacuum pump; 3 Calculator|pascaline|mechanical calculator;
+4 Chronometer|marine chronometer; 4 Traverse board; 4 Mariner's astrolabe; 4 Nocturnal; 4 Kamal; 4 Seismoscope; 4 Hygrometer; 4 Orrery; 4 Planisphere; 4 Thermoscope; 4 Napier's bones; 4 Proportional compass|sector; 4 Leyden jar; 4 Camera obscura
+
+@voyage pizarro | The Fall of the Inca | Francisco Pizarro · Panama to Cusco · 1531–1533
+? Places | Name a mountain, volcano, or mountain range in the Americas.
+1 Andes; 1 Rocky Mountains|rockies; 1 Appalachian Mountains|appalachians;
+2 Sierra Nevada; 2 Sierra Madre; 2 Aconcagua; 2 Denali|mount mckinley; 2 Popocatepetl; 2 Chimborazo; 2 Cotopaxi; 2 Mount Rainier|rainier; 2 Mount St. Helens|mount saint helens|st helens; 2 Cascade Range|cascades;
+3 Huascaran; 3 Machu Picchu; 3 Huayna Picchu; 3 Iztaccihuatl; 3 Pico de Orizaba|citlaltepetl|orizaba; 3 Illimani; 3 El Misti|misti; 3 Ojos del Salado; 3 Mount Whitney|whitney; 3 Pikes Peak; 3 Cerro Rico|cerro rico de potosi; 3 Mount Logan|logan; 3 Paricutin; 3 Grand Teton|tetons; 3 Mount Rushmore|rushmore; 3 Sierra Maestra; 3 Fitz Roy|fitzroy; 3 Torres del Paine;
+4 Sajama; 4 Tupungato; 4 Mount Roraima|roraima; 4 Lassen Peak; 4 Mount Washington; 4 Blue Ridge Mountains|blue ridge; 4 Ozarks; 4 Brooks Range; 4 Alaska Range; 4 Coast Mountains; 4 Mount Hood; 4 Mount Shasta|shasta; 4 Ausangate; 4 Salkantay|salcantay; 4 Tungurahua; 4 Nevado del Ruiz; 4 Sierra Nevada de Santa Marta; 4 Pico Bolivar; 4 Pico Duarte; 4 Blue Mountains; 4 Corcovado; 4 Sugarloaf Mountain|sugarloaf|pao de acucar
+? Belief | Name a god or goddess worshipped in the Americas before 1500.
+1 Inti; 1 Quetzalcoatl; 1 Huitzilopochtli;
+2 Viracocha|wiracocha; 2 Pachamama; 2 Tlaloc; 2 Tezcatlipoca; 2 Kukulkan; 2 Mama Quilla|mama killa; 2 Chaac|chac;
+3 Illapa; 3 Pachacamac; 3 Xipe Totec; 3 Coatlicue; 3 Mictlantecuhtli; 3 Tonatiuh; 3 Chalchiuhtlicue; 3 Xochiquetzal; 3 Coyolxauhqui; 3 Itzamna; 3 Ixchel|ix chel; 3 Supay; 3 Mama Cocha|mama qucha; 3 Hunahpu|hun hunahpu|hero twins;
+4 Kinich Ahau|kinich ahau; 4 Ah Puch|kisin; 4 Tlazolteotl; 4 Mixcoatl; 4 Centeotl|cinteotl; 4 Ometeotl; 4 Xolotl; 4 Ehecatl; 4 Mictecacihuatl; 4 Tepeyollotl; 4 Ixquic; 4 Gucumatz|qucumatz; 4 Huracan|hurakan; 4 Apu|apus; 4 Catequil; 4 Tlaltecuhtli
+? Power | Name an office, institution, or law Spain used to rule its American empire.
+1 Viceroy|viceroys; 1 Encomienda;
+2 Viceroyalty|viceroyalty of peru|viceroyalty of new spain; 2 Council of the Indies; 2 Mita; 2 Missions|mission system; 2 Catholic Church|church; 2 Inquisition|spanish inquisition; 2 Treaty of Tordesillas|tordesillas; 2 Hacienda|haciendas;
+3 Audiencia; 3 Casa de Contratacion|house of trade; 3 Corregidor|corregidores; 3 Cabildo|town council; 3 New Laws|new laws of 1542; 3 Laws of Burgos; 3 Royal fifth|quinto real|quinto; 3 Captaincy general|captain general; 3 Presidio|presidios; 3 Reducciones|reductions; 3 Repartimiento; 3 Requerimiento|requirement; 3 Casta system|castas; 3 Laws of the Indies; 3 Treasure fleet|flota|galleon system;
+4 Alcalde; 4 Encomendero; 4 Visita|visitador; 4 Residencia; 4 Consulado; 4 Real Hacienda|royal treasury; 4 Cacique|kuraka; 4 Patronato real|royal patronage; 4 Tribute|tribute tax; 4 Pueblos de indios; 4 Alcabala|sales tax; 4 Gobernador|governor; 4 Intendants|intendancy; 4 Bourbon Reforms
+? Wild card | Name a food or drink from Peru or the Andes.
+1 Potato|potatoes; 1 Corn|maize; 1 Quinoa;
+2 Ceviche|cebiche; 2 Guinea pig|cuy; 2 Lomo saltado; 2 Pisco|pisco sour; 2 Chicha|chicha morada; 2 Llama meat|llama; 2 Alpaca meat|alpaca; 2 Empanadas|empanada; 2 Tamales|tamal; 2 Coca tea|mate de coca;
+3 Chuno|chuño|freeze-dried potato; 3 Papa a la huancaina|huancaina; 3 Inca Kola; 3 Anticuchos; 3 Causa; 3 Aji de gallina; 3 Humitas; 3 Rocoto relleno; 3 Cherimoya|chirimoya; 3 Lucuma; 3 Choclo; 3 Picarones; 3 Pachamanca; 3 Cancha|toasted corn; 3 Aji amarillo|aji; 3 Arroz con pollo; 3 Salteñas|saltenas;
+4 Oca; 4 Ulluco|olluco; 4 Kiwicha|amaranth; 4 Tacu tacu; 4 Charqui|jerky|charki; 4 Mashua; 4 Maca; 4 Chicharron; 4 Leche de tigre; 4 Tiradito; 4 Suspiro limeno|suspiro a la limeña; 4 Api; 4 Tarwi|chocho; 4 Purple corn|maiz morado
+? Geography | Name a desert, rainforest, plain, or other natural region of the Americas.
+1 Amazon rainforest|amazon|amazonia; 1 Grand Canyon; 1 Great Plains;
+2 Atacama Desert|atacama; 2 Sonoran Desert|sonoran; 2 Mojave Desert|mojave; 2 Patagonia; 2 Pampas; 2 Everglades; 2 Yucatan Peninsula|yucatan; 2 Galapagos Islands|galapagos; 2 Death Valley; 2 Tierra del Fuego;
+3 Chihuahuan Desert|chihuahuan; 3 Gran Chaco|chaco; 3 Llanos; 3 Pantanal; 3 Altiplano; 3 Great Basin; 3 Atlantic Forest|mata atlantica; 3 Cerrado; 3 Caatinga; 3 Prairies|prairie; 3 Tundra|arctic tundra; 3 Canadian Shield; 3 Darien Gap|darien; 3 Nazca Desert|nazca; 3 Sechura Desert|sechura; 3 Salar de Uyuni|uyuni salt flats;
+4 Painted Desert; 4 Colorado Plateau; 4 Mosquito Coast|la mosquitia; 4 Guiana Highlands|guiana shield; 4 Llanos de Moxos; 4 Monte Desert; 4 Valdivian rainforest; 4 Great Salt Lake Desert; 4 Badlands; 4 Mississippi Delta; 4 Okefenokee Swamp; 4 Black Hills; 4 Sierra Gorda; 4 Lacandon Jungle|selva lacandona

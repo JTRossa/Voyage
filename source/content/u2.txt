@@ -107,3 +107,57 @@
 2 Yellow River|huang he; 2 Ganges|ganga; 2 Indus; 2 Tigris; 2 Euphrates; 2 Volga; 2 Ural Mountains|urals; 2 Caucasus Mountains|caucasus; 2 Taklamakan Desert|taklamakan; 2 Mekong; 2 Rhine; 2 Arabian Desert|rub al khali|empty quarter;
 3 Pamir Mountains|pamirs|pamir; 3 Tian Shan|tien shan; 3 Hindu Kush; 3 Karakoram; 3 Altai Mountains|altai; 3 Zagros Mountains|zagros; 3 Pyrenees; 3 Carpathians; 3 Amu Darya|oxus; 3 Syr Darya|jaxartes; 3 Dnieper; 3 Don; 3 Seine; 3 Thames; 3 Kunlun Mountains|kunlun; 3 Red River|song hong; 3 Irrawaddy|ayeyarwady; 3 Brahmaputra; 3 Ob; 3 Yenisei; 3 Lena; 3 Amur;
 4 Karakum Desert|karakum|kara kum; 4 Kyzylkum Desert|kyzylkum|kyzyl kum; 4 Thar Desert|thar; 4 Syrian Desert; 4 Dasht-e Kavir|dasht e kavir; 4 Taurus Mountains|taurus; 4 Alborz|elburz; 4 Apennines; 4 Elbe; 4 Loire; 4 Po; 4 Vistula; 4 Oder; 4 Ordos Desert|ordos; 4 Qinling Mountains|qinling; 4 Western Ghats|ghats; 4 Vindhya Range|vindhyas; 4 Balkan Mountains; 4 Ili River|ili; 4 Orkhon River|orkhon; 4 Kerulen River|kherlen|kerulen
+
+@voyage rubruck | The Friar at the Khan's Court | William of Rubruck · Constantinople to Karakorum · 1253–1255
+? Society | Name something a Mongol herder used or owned.
+1 Horse|horses; 1 Yurt|ger; 1 Bow|bow and arrow|arrows; 1 Sheep;
+2 Saddle; 2 Stirrups; 2 Felt; 2 Cart|wagon; 2 Camel|camels; 2 Goat|goats; 2 Cattle|cows; 2 Yak; 2 Tent; 2 Boots; 2 Knife; 2 Dog|dogs;
+3 Deel|robe|del; 3 Quiver; 3 Lasso|urga|lasso pole; 3 Saber|sword; 3 Armor|lamellar armor|armour; 3 Dried meat|borts; 3 Kumis|airag|fermented mare's milk|koumiss; 3 Cheese|aaruul|dried curds; 3 Milk; 3 Dung fuel|dung; 3 Eagle|falcon|hawk; 3 Bridle|reins; 3 Whip; 3 Leather bag|leather;
+4 Paiza|gerege; 4 Shaman's drum|drum; 4 Morin khuur|horsehead fiddle; 4 Felt boots; 4 Spare horses|remounts; 4 Hearth|stove; 4 Butter; 4 Wolf-skin|fur|furs; 4 Water skin|leather flask
+? Belief | Name a Christian church, religious order, or movement active between 1200 and 1450.
+1 Catholic Church|catholicism|catholic|roman catholic; 1 Eastern Orthodox|orthodox|orthodox church;
+2 Franciscans|franciscan; 2 Dominicans|dominican; 2 Church of the East|nestorians|nestorian; 2 Knights Templar|templars; 2 Teutonic Knights; 2 Knights Hospitaller|hospitallers; 2 Coptic Church|coptic|copts; 2 Crusades|crusaders;
+3 Benedictines|benedictine; 3 Cistercians|cistercian; 3 Carmelites|carmelite; 3 Augustinians|augustinian; 3 Cathars|cathar|albigensians; 3 Waldensians|waldenses; 3 Lollards|lollard; 3 Hussites|hussite; 3 Ethiopian Orthodox; 3 Armenian Apostolic|armenian church; 3 Inquisition; 3 Poor Clares;
+4 Beguines; 4 Carthusians; 4 Maronites|maronite; 4 Syriac Orthodox|jacobites; 4 Georgian Orthodox; 4 Flagellants; 4 Brethren of the Common Life|devotio moderna; 4 Bogomils; 4 Spiritual Franciscans|fraticelli; 4 Mendicant orders|friars; 4 Order of Santiago
+? Places | Name a port city on the Black Sea or the Caspian Sea (past or present).
+1 Istanbul|constantinople; 1 Sochi; 1 Odessa|odesa;
+2 Trabzon|trebizond; 2 Sevastopol; 2 Yalta; 2 Baku; 2 Varna; 2 Batumi; 2 Constanta;
+3 Caffa|kaffa|feodosia; 3 Sudak|soldaia; 3 Sinop|sinope; 3 Samsun; 3 Novorossiysk; 3 Burgas; 3 Astrakhan; 3 Derbent; 3 Makhachkala; 3 Aktau; 3 Turkmenbashi|turkmenbasy|krasnovodsk; 3 Poti; 3 Tana|azov;
+4 Chersonesus; 4 Rize; 4 Sukhumi; 4 Mangalia; 4 Atyrau; 4 Bandar Anzali|anzali; 4 Rasht; 4 Kerch; 4 Giresun; 4 Ordu; 4 Zonguldak; 4 Eregli; 4 Balaklava; 4 Tuapse; 4 Anapa; 4 Nesebar; 4 Sozopol; 4 Lankaran|lenkoran
+? Power | Name a state or people the Mongols fought between 1206 and 1350.
+1 Song Dynasty|song|southern song; 1 Japan|kamakura shogunate; 1 Jin Dynasty|jin|jurchens|jurchen;
+2 Khwarazmian Empire|khwarazm|khwarezmia; 2 Abbasid Caliphate|abbasids; 2 Kievan Rus|rus|russians; 2 Mamluks|mamluk sultanate|mamluk; 2 Xi Xia|western xia|tanguts|tangut; 2 Goryeo|korea|koryo; 2 Dai Viet|vietnam|tran dynasty; 2 Hungary|hungarians; 2 Poland|poles;
+3 Champa; 3 Java|majapahit|singhasari; 3 Cumans|kipchaks|polovtsy; 3 Volga Bulgars|volga bulgaria; 3 Georgia|georgians; 3 Seljuks of Rum|seljuks|sultanate of rum; 3 Nizari Ismailis|assassins; 3 Delhi Sultanate|delhi; 3 Pagan Kingdom|pagan|burma|bagan; 3 Dali Kingdom|dali; 3 Qara Khitai|kara khitai|western liao; 3 Teutonic Knights;
+4 Naimans; 4 Keraites|kereyids; 4 Merkits; 4 Tatars; 4 Alans; 4 Armenia|cilician armenia; 4 Bulgaria|bulgarians; 4 Serbia; 4 Ayyubids; 4 Vladimir-Suzdal|vladimir; 4 Ryazan; 4 Tibet; 4 Sakhalin Ainu|ainu; 4 Kashmir; 4 Silesia
+? Wild card | Name a food or drink of Central Asia or Mongolia.
+1 Plov|pilaf|plov rice|osh; 1 Dumplings|buuz|manti; 1 Kebab|shashlik; 1 Naan|bread|non;
+2 Kumis|airag|koumiss|mare's milk|kymyz|qymyz; 2 Tea|milk tea|suutei tsai; 2 Mutton|lamb; 2 Horse meat; 2 Noodles|lagman|laghman; 2 Samsa|samosa; 2 Yogurt|katyk; 2 Khuushuur;
+3 Beshbarmak; 3 Tsuivan; 3 Boodog; 3 Khorkhog; 3 Aaruul|kurt|qurt|dried curds; 3 Ayran; 3 Kazy|horse sausage; 3 Shorpo|shurpa; 3 Melon|melons; 3 Apricots|dried apricots; 3 Borts|dried meat;
+4 Chak-chak; 4 Baursak|boortsog; 4 Shubat|camel milk; 4 Lepyoshka; 4 Chuchvara; 4 Dimlama; 4 Kuyrdak; 4 Tsagaan idee|dairy foods; 4 Urum|clotted cream; 4 Halva|halwa; 4 Pomegranates|pomegranate; 4 Grapes|raisins
+
+@voyage hansa | The Merchants of the North | The Hanseatic League · Novgorod to London · c. 1350
+? Trade | Name a good traded by Hanseatic merchants in the Baltic and North Seas.
+1 Fur|furs; 1 Fish|herring; 1 Timber|wood; 1 Grain|wheat|rye;
+2 Salt; 2 Wool; 2 Cloth|woolen cloth|textiles; 2 Beer|ale; 2 Wax|beeswax; 2 Amber; 2 Honey; 2 Stockfish|cod|dried cod; 2 Iron; 2 Wine;
+3 Copper; 3 Silver; 3 Flax; 3 Hemp; 3 Tar|pitch; 3 Leather|hides; 3 Linen; 3 Butter; 3 Spices; 3 Sable; 3 Squirrel pelts|squirrel fur; 3 Malt;
+4 Potash|ash; 4 Falcons; 4 Lead; 4 Silk; 4 Pepper; 4 Train oil|fish oil|whale oil; 4 Ermine; 4 Marten; 4 Barley; 4 Oak; 4 Cheese
+? Places | Name a city that belonged to the Hanseatic League or had a Hanseatic trading post.
+1 Lubeck|lübeck; 1 Hamburg; 1 London;
+2 Bremen; 2 Cologne|koln; 2 Gdansk|danzig; 2 Riga; 2 Tallinn|reval; 2 Visby; 2 Novgorod; 2 Bergen; 2 Bruges|brugge; 2 Berlin;
+3 Rostock; 3 Wismar; 3 Stralsund; 3 Kaliningrad|konigsberg|königsberg; 3 Szczecin|stettin; 3 Krakow|kraków|cracow; 3 Torun|thorn; 3 Dortmund; 3 Magdeburg; 3 Tartu|dorpat; 3 Wroclaw|breslau; 3 Kampen; 3 Deventer; 3 King's Lynn|kings lynn;
+4 Luneburg|lüneburg; 4 Braunschweig|brunswick; 4 Munster|münster; 4 Elblag|elbing; 4 Zwolle; 4 Groningen; 4 Greifswald; 4 Anklam; 4 Hildesheim; 4 Goslar; 4 Soest; 4 Frankfurt an der Oder|frankfurt oder; 4 Kolberg|kolobrzeg; 4 Stade; 4 Duisburg; 4 Hanover|hannover
+? Tech | Name a type of ship or boat used before 1500.
+1 Junk; 1 Canoe; 1 Galley; 1 Longship|viking ship|drakkar; 1 Raft;
+2 Cog|kogge; 2 Dhow; 2 Caravel|caravela; 2 Carrack|nao; 2 Outrigger canoe|outrigger; 2 Barge; 2 Treasure ship|baochuan; 2 Dugout canoe|dugout; 2 Sampan;
+3 Hulk|holk; 3 Knarr; 3 Felucca; 3 Reed boat|totora boat; 3 Balsa raft|balsa; 3 Coracle; 3 Birchbark canoe|birch bark canoe; 3 Kayak; 3 Umiak; 3 Catamaran; 3 Trireme; 3 Jong|djong; 3 Proa|prau|perahu; 3 Gondola;
+4 Nef; 4 Balinger; 4 Fusta; 4 Bireme; 4 Pirogue; 4 Wa'a|waka; 4 Snekkja; 4 Karve; 4 Buss|herring buss
+? People | Name a European king, queen, or pope who reigned between 1200 and 1450.
+1 Louis IX|saint louis; 1 Edward I; 1 Henry V;
+2 King John|john of england; 2 Edward III; 2 Philip IV|philip the fair; 2 Frederick II; 2 Innocent III; 2 Boniface VIII; 2 Richard II; 2 Henry IV; 2 Robert the Bruce|robert bruce; 2 Charles VII;
+3 Henry III; 3 Edward II; 3 Philip II Augustus|philip augustus; 3 Charles V of France|charles the wise; 3 Rudolf I|rudolf of habsburg; 3 Charles IV|charles iv holy roman emperor; 3 Sigismund; 3 Alfonso X|alfonso the wise; 3 Ferdinand III; 3 James I of Aragon|james the conqueror; 3 Gregory IX; 3 Innocent IV; 3 Clement V; 3 Urban VI; 3 Martin V; 3 Casimir III|casimir the great; 3 Wladyslaw II Jagiello|jogaila|jagiello;
+4 Gregory X; 4 Nicholas IV; 4 John XXII; 4 Eugene IV; 4 Margaret I of Denmark|margaret of denmark; 4 Valdemar IV|valdemar atterdag; 4 Bela IV|béla iv; 4 Ottokar II; 4 Louis the Great|louis i of hungary; 4 Jadwiga|hedwig; 4 Alexander Nevsky; 4 Dmitry Donskoy|dmitri donskoi; 4 Wenceslaus|wenceslas; 4 Joanna I of Naples; 4 Stefan Dusan|stephen dusan; 4 Charles of Anjou|charles i of anjou; 4 Philip VI; 4 John II of France|john the good; 4 Henry VI
+? Wild card | Name a language spoken in Europe today.
+1 English; 1 French; 1 German; 1 Spanish; 1 Italian; 1 Russian;
+2 Portuguese; 2 Dutch; 2 Polish; 2 Greek; 2 Swedish; 2 Ukrainian; 2 Turkish; 2 Norwegian; 2 Danish; 2 Finnish;
+3 Czech; 3 Hungarian; 3 Romanian; 3 Bulgarian; 3 Serbian; 3 Croatian; 3 Icelandic; 3 Irish|irish gaelic|gaelic; 3 Welsh; 3 Catalan; 3 Basque|euskara; 3 Estonian; 3 Latvian; 3 Lithuanian; 3 Slovak; 3 Slovenian|slovene; 3 Albanian; 3 Belarusian;
+4 Scottish Gaelic; 4 Breton; 4 Galician; 4 Maltese; 4 Luxembourgish; 4 Romani; 4 Sami; 4 Frisian; 4 Faroese; 4 Yiddish; 4 Macedonian; 4 Bosnian; 4 Montenegrin; 4 Corsican; 4 Sardinian; 4 Cornish; 4 Manx; 4 Low German|plattdeutsch; 4 Occitan; 4 Romansh; 4 Tatar
