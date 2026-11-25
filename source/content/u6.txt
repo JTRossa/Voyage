@@ -159,3 +159,57 @@
 2 Yuan|renminbi|rmb; 2 Rupee; 2 Peso; 2 Won; 2 Baht; 2 Franc; 2 Ruble|rouble; 2 Gold coins|gold; 2 Silver coins|silver; 2 Bitcoin; 2 Paper money|banknotes;
 3 Lira; 3 Mark|deutsche mark|deutschmark; 3 Real; 3 Rand; 3 Riyal|rial; 3 Dinar; 3 Dirham; 3 Shilling; 3 Krona|krone; 3 Guilder; 3 Peseta; 3 Drachma; 3 Ringgit; 3 Rupiah; 3 Taka; 3 Tael; 3 Piece of eight|spanish dollar|real de a ocho; 3 Cowrie shells|cowries; 3 Ducat; 3 Florin; 3 Denarius;
 4 Escudo; 4 Kip; 4 Riel; 4 Kyat; 4 Naira; 4 Cedi; 4 Birr; 4 Zloty; 4 Forint; 4 Koruna; 4 Shekel; 4 Sol; 4 Bolivar; 4 Guinea; 4 Crown; 4 Maria Theresa thaler|thaler; 4 Livre; 4 Sou; 4 Piastre|piaster; 4 Cash|chinese cash|copper cash; 4 Ryo; 4 Mohur
+
+@voyage goldmountain | To Gold Mountain | Chinese migrants to California · Hong Kong to Promontory Summit · 1850s–1869
+? Trade | Name a gold rush, diamond rush, or a place where people rushed to find gold or diamonds.
+1 California Gold Rush|california; 1 Klondike Gold Rush|klondike|yukon;
+2 Victorian gold rush|victoria|australian gold rush; 2 Ballarat; 2 Bendigo; 2 Witwatersrand Gold Rush|witwatersrand|the rand; 2 Johannesburg; 2 Kimberley|kimberley diamond rush; 2 Sutter's Mill|sutters mill; 2 Alaska;
+3 Otago Gold Rush|otago; 3 Black Hills Gold Rush|black hills; 3 Pikes Peak Gold Rush|pikes peak|colorado gold rush; 3 Fraser Canyon Gold Rush|fraser river; 3 Cariboo Gold Rush|cariboo; 3 Nome; 3 Kalgoorlie; 3 Coloma; 3 Dawson City; 3 Minas Gerais|brazilian gold rush; 3 Ouro Preto; 3 Sacramento; 3 New South Wales gold rush|bathurst; 3 Sierra Nevada;
+4 Fairbanks; 4 Juneau; 4 Coolgardie; 4 West Coast Gold Rush|hokitika; 4 Thames (New Zealand)|thames goldfield; 4 Serra Pelada; 4 Deadwood; 4 Virginia City; 4 Comstock Lode|comstock; 4 Palmer River
+? Society | Name a kind of work that migrants did in the 1800s.
+1 Mining|miner|gold mining; 1 Railroad building|railroad worker|railway worker; 1 Farming|farmworker|farm labor;
+2 Laundry|laundry worker; 2 Cooking|cook; 2 Domestic service|servant|maid; 2 Factory work|factory worker; 2 Plantation work|plantation worker; 2 Fishing|fisherman; 2 Shopkeeping|shopkeeper|merchant|store owner; 2 Construction|construction worker; 2 Sugarcane cutting|sugar cane cutter; 2 Textile mill work|mill worker;
+3 Logging|lumberjack; 3 Dock work|dockworker|longshoreman; 3 Peddling|peddler; 3 Tailoring|tailor; 3 Sewing|seamstress|garment worker; 3 Guano digging|guano mining; 3 Canal building|canal digger; 3 Road building; 3 Ranching|cowboy|ranch hand; 3 Carpentry|carpenter; 3 Blacksmithing|blacksmith; 3 Steelworking|steelworker; 3 Coal mining|coal miner; 3 Rubber tapping|rubber tapper; 3 Herbal medicine|herbalist; 3 Restaurant work|restaurant owner; 3 Nursing|nurse; 3 Teaching|teacher;
+4 Cigar making|cigar roller; 4 Silk weaving; 4 Pearl diving; 4 Brickmaking|brick maker; 4 Stonemasonry|stonemason; 4 Whaling; 4 Tea planting; 4 Indentured labor|indenture
+? Places | Name a city in the western United States.
+1 Los Angeles|la; 1 San Francisco; 1 Seattle; 1 Las Vegas; 1 San Diego; 1 Honolulu;
+2 Denver; 2 Phoenix; 2 Portland; 2 Salt Lake City; 2 Sacramento; 2 Anchorage; 2 Oakland; 2 San Jose; 2 Hollywood;
+3 Albuquerque; 3 Tucson; 3 Boise; 3 Reno; 3 Spokane; 3 Santa Fe; 3 Fresno; 3 Long Beach; 3 Santa Barbara; 3 Juneau; 3 Tacoma; 3 Palo Alto; 3 Berkeley; 3 Pasadena; 3 Santa Monica; 3 Malibu; 3 Monterey; 3 Carson City; 3 Colorado Springs; 3 Boulder; 3 Flagstaff; 3 Cheyenne; 3 Helena; 3 Riverside; 3 Bakersfield; 3 Stockton;
+4 Billings; 4 Eugene; 4 San Bernardino; 4 Sedona; 4 Provo; 4 Ogden; 4 Laramie; 4 Missoula; 4 Fairbanks; 4 Hilo; 4 Salem; 4 Olympia; 4 Bozeman; 4 Santa Cruz; 4 Mesa; 4 Scottsdale
+? Tech | Name a part of a railroad or train, or a word connected with railways.
+1 Track|tracks|rails; 1 Locomotive|engine; 1 Station|train station; 1 Wheels; 1 Ticket;
+2 Steam engine; 2 Caboose; 2 Boxcar; 2 Railroad tie|sleeper|crosstie; 2 Platform; 2 Signal; 2 Tunnel; 2 Bridge; 2 Conductor; 2 Engineer|train driver|engine driver; 2 Whistle; 2 Smokestack|chimney|funnel; 2 Passenger car|carriage|coach; 2 Golden spike; 2 Timetable|schedule;
+3 Tender|coal tender; 3 Piston; 3 Boiler; 3 Firebox; 3 Cowcatcher|pilot; 3 Switch|points; 3 Roundhouse; 3 Turntable; 3 Dining car; 3 Sleeping car|pullman; 3 Freight car|wagon; 3 Flatcar; 3 Telegraph; 3 Depot; 3 Junction; 3 Gauge|track gauge; 3 Coupler|coupling; 3 Brakes|air brake; 3 Rail yard|yard; 3 Railroad spike|spike; 3 Trestle; 3 Ballast; 3 Fireman|stoker;
+4 Drawbar; 4 Bogie|truck; 4 Semaphore; 4 Water tower|water tank; 4 Brakeman; 4 Dome car; 4 Sandbox; 4 Fishplate; 4 Viaduct
+? Wild card | Name a dish you might order at a Chinese restaurant.
+1 Fried rice; 1 Dumplings; 1 Spring rolls; 1 Chow mein; 1 Noodles;
+2 Egg rolls; 2 Sweet and sour pork|sweet and sour chicken; 2 Kung pao chicken; 2 General Tso's chicken|general tsos chicken; 2 Orange chicken; 2 Wonton soup|wontons; 2 Dim sum; 2 Peking duck; 2 Hot pot; 2 Bao|baozi|steamed buns; 2 Char siu|bbq pork;
+3 Mapo tofu; 3 Xiaolongbao|soup dumplings; 3 Chop suey; 3 Egg foo young; 3 Hot and sour soup; 3 Fortune cookie; 3 Lo mein; 3 Beef and broccoli; 3 Sesame chicken; 3 Crab rangoon; 3 Char siu bao; 3 Siu mai|shumai; 3 Har gow; 3 Congee|jook|rice porridge; 3 Zongzi; 3 Mooncake; 3 Egg tart; 3 Dan dan noodles; 3 Scallion pancake; 3 Potstickers|guotie; 3 Jiaozi; 3 Roast duck; 3 Lemon chicken; 3 Chow fun|ho fun; 3 Steamed fish;
+4 Salt and pepper squid; 4 Tea eggs; 4 Yangzhou fried rice; 4 Twice-cooked pork; 4 Dongpo pork; 4 Lion's head meatballs; 4 Cheung fun|rice noodle rolls; 4 Turnip cake; 4 Biang biang noodles; 4 Lanzhou beef noodles; 4 Sichuan boiled fish|shuizhuyu
+
+@voyage indenture | Across the Black Water | Indian indentured workers · Calcutta to Port of Spain · 1845
+? Places | Name a country with a large community of people of Indian descent today.
+1 United Kingdom|uk|britain; 1 United States|usa; 1 Canada; 1 Trinidad and Tobago|trinidad; 1 Fiji; 1 Mauritius;
+2 Guyana; 2 South Africa; 2 Malaysia; 2 Singapore; 2 Kenya; 2 United Arab Emirates|uae|dubai; 2 Australia; 2 Saudi Arabia; 2 Suriname;
+3 Uganda; 3 Tanzania; 3 Qatar; 3 Kuwait; 3 Oman; 3 Bahrain; 3 Myanmar|burma; 3 Sri Lanka; 3 Nepal; 3 Jamaica; 3 New Zealand; 3 Réunion|reunion;
+4 Guadeloupe; 4 Martinique; 4 Seychelles; 4 Mozambique; 4 Belize; 4 Netherlands
+? Belief | Name a festival celebrated in South Asia or by South Asian communities.
+1 Diwali|deepavali; 1 Holi; 1 Eid al-Fitr|eid; 1 Ramadan;
+2 Navratri; 2 Durga Puja; 2 Ganesh Chaturthi; 2 Raksha Bandhan|rakhi; 2 Pongal; 2 Onam; 2 Janmashtami; 2 Dussehra|vijayadashami; 2 Eid al-Adha|bakrid; 2 Christmas; 2 Vesak|buddha purnima;
+3 Makar Sankranti; 3 Vaisakhi|baisakhi; 3 Chhath Puja|chhath; 3 Karva Chauth; 3 Maha Shivaratri|shivaratri; 3 Ram Navami; 3 Guru Nanak Jayanti|gurpurab; 3 Lohri; 3 Bihu; 3 Ugadi; 3 Gudi Padwa; 3 Teej; 3 Kumbh Mela; 3 Phagwah; 3 Muharram|ashura; 3 Pohela Boishakh|bengali new year; 3 Sinhala and Tamil New Year|avurudu;
+4 Basant|vasant panchami; 4 Hornbill Festival; 4 Losar; 4 Dashain; 4 Tihar; 4 Thaipusam; 4 Hosay; 4 Mahavir Jayanti; 4 Nowruz|navroz
+? Society | Name a reason people chose or were pushed to migrate.
+1 Jobs|work|employment; 1 War; 1 Poverty; 1 Famine|hunger; 1 Money|higher wages|wages;
+2 Persecution; 2 Gold|gold rush; 2 Land|cheap land|free land; 2 Freedom; 2 Religious freedom; 2 Education; 2 Family|joining family|family reunification; 2 Safety; 2 Natural disaster; 2 Drought; 2 Climate change; 2 Overpopulation|crowding;
+3 Political freedom; 3 Debt; 3 Unemployment; 3 Labor recruiters|recruitment; 3 Steamships|cheaper travel; 3 Letters from relatives; 3 Adventure; 3 Indenture contracts|contracts; 3 Crop failure; 3 Discrimination; 3 Revolution; 3 Taxes; 3 Opportunity|better life;
+4 Enclosure; 4 Land shortage; 4 Chain migration; 4 Railroads; 4 Epidemics|disease
+? Geography | Name an island in the Indian Ocean.
+1 Madagascar; 1 Sri Lanka|ceylon; 1 Maldives; 1 Mauritius;
+2 Zanzibar|unguja; 2 Seychelles|mahe; 2 Réunion|reunion; 2 Comoros|grande comore; 2 Andaman Islands|andamans; 2 Socotra; 2 Bali; 2 Phuket;
+3 Nicobar Islands|nicobars; 3 Lakshadweep; 3 Mayotte; 3 Pemba; 3 Lamu; 3 Mafia Island|mafia; 3 Diego Garcia|chagos islands|chagos; 3 Rodrigues; 3 Christmas Island; 3 Cocos Islands|cocos keeling islands; 3 Sumatra; 3 Java; 3 Langkawi; 3 Penang;
+4 Kerguelen Islands|kerguelen; 4 Heard Island; 4 Amsterdam Island; 4 Masirah; 4 Mozambique Island|ilha de mocambique; 4 Agaléga|agalega; 4 Aldabra; 4 Praslin; 4 La Digue; 4 Nosy Be
+? Tech | Name an item of clothing or a kind of fabric from South Asia.
+1 Sari|saree; 1 Turban|pagri; 1 Kurta;
+2 Dhoti; 2 Salwar kameez|shalwar kameez; 2 Lungi; 2 Sherwani; 2 Dupatta; 2 Lehenga; 2 Bangles; 2 Pashmina|cashmere; 2 Silk; 2 Cotton; 2 Muslin; 2 Nehru jacket;
+3 Choli; 3 Kurta pajama; 3 Achkan; 3 Paisley; 3 Khadi; 3 Madras|madras cloth; 3 Chintz; 3 Calico; 3 Bandhani|tie-dye; 3 Ikat; 3 Block print|block printing; 3 Kanjeevaram silk|kanchipuram silk; 3 Banarasi silk|banarasi; 3 Phulkari; 3 Mundu; 3 Veshti; 3 Gandhi cap|topi; 3 Jootis|mojari; 3 Chappals|sandals; 3 Jamdani;
+4 Mekhela chador; 4 Gamcha; 4 Angarkha; 4 Patola; 4 Chikankari; 4 Kalamkari; 4 Pheran; 4 Ghagra

@@ -161,3 +161,57 @@
 2 Lantern Festival|yuanxiao; 2 Red envelopes|hongbao|lucky money; 2 Lion dance; 2 Dragon dance; 2 Mooncakes|mooncake; 2 Fireworks|firecrackers; 2 Dumplings|jiaozi; 2 Lanterns|paper lanterns; 2 Zongzi|sticky rice dumplings; 2 Dragon boat racing|dragon boats;
 3 Qingming Festival|tomb sweeping day|qingming; 3 Double Ninth Festival|chongyang; 3 Qixi Festival|qixi|double seventh; 3 Ghost Festival|hungry ghost festival|zhongyuan; 3 Spring couplets|couplets|chunlian; 3 Tangyuan|sweet rice balls; 3 Reunion dinner|new year's eve dinner; 3 Zodiac animals|chinese zodiac; 3 Lantern riddles; 3 Nian gao|rice cake;
 4 Laba Festival|laba; 4 Winter Solstice Festival|dongzhi; 4 Kitchen God|zao jun; 4 Shangsi Festival; 4 Cold Food Festival|hanshi; 4 Door gods; 4 Paper cutting|window flowers; 4 Temple fairs|miaohui; 4 Kite flying|kites; 4 Realgar wine; 4 Joss paper|burning incense
+
+@voyage evliya | The Sultan's Storyteller | Evliya Çelebi's hajj · Istanbul to Mecca · 1671–1672
+? Society | Name a building, place, or institution you could find in an Ottoman city.
+1 Mosque; 1 Bazaar|grand bazaar|market; 1 Palace; 1 Hammam|bathhouse|turkish bath;
+2 Caravanserai|han|inn; 2 Madrasa|madrassa; 2 Coffeehouse|coffee house; 2 Fountain; 2 School; 2 Minaret; 2 Library; 2 Hospital|bimarhane; 2 Garden; 2 Church; 2 Synagogue; 2 Cemetery; 2 Bridge; 2 City walls|walls;
+3 Soup kitchen|imaret; 3 Külliye|kulliye; 3 Sufi lodge|tekke|dervish lodge; 3 Tomb|turbe|mausoleum; 3 Cistern; 3 Aqueduct; 3 Bedesten; 3 Janissary barracks|barracks; 3 Courtyard; 3 Workshop; 3 Bakery; 3 Shop; 3 Mill; 3 Gate; 3 Harbor|port;
+4 Kiosk|kosk; 4 Sebil; 4 Arasta; 4 Mint|darphane; 4 Shipyard|tersane|arsenal; 4 Kadi court|court
+? Belief | Name one of the Five Pillars of Islam, or a place or practice connected with the hajj.
+1 Hajj|pilgrimage; 1 Mecca|makkah; 1 Kaaba|kaba; 1 Prayer|salat; 1 Fasting|sawm|ramadan;
+2 Charity|zakat; 2 Shahada|declaration of faith; 2 Medina; 2 Eid al-Adha; 2 Black Stone; 2 Grand Mosque|masjid al-haram; 2 Mount Arafat|arafat; 2 Tawaf|circling the kaaba;
+3 Mina; 3 Muzdalifah; 3 Ihram; 3 Zamzam|zamzam well; 3 Safa and Marwa|safa|marwa; 3 Sa'i|sai; 3 Stoning of the devil|jamarat; 3 Animal sacrifice|sacrifice|qurbani; 3 Prophet's Mosque|masjid an-nabawi; 3 Umrah; 3 Qibla; 3 Hajji|haji; 3 Caravan;
+4 Dhul Hijjah; 4 Mahmal; 4 Kiswa; 4 Day of Arafah; 4 Talbiyah; 4 Miqat; 4 Halq|shaving the head
+? Wild card | Name a Turkish food or drink.
+1 Kebab|kebap; 1 Baklava; 1 Turkish delight|lokum; 1 Turkish coffee; 1 Doner kebab|doner|döner;
+2 Ayran; 2 Turkish tea|cay|çay; 2 Simit; 2 Pide; 2 Lahmacun; 2 Börek|borek; 2 Köfte|kofte; 2 Dolma; 2 Yogurt|yoghurt; 2 Shish kebab|sis kebab|şiş kebab;
+3 Sarma; 3 Meze; 3 Kumpir; 3 Menemen; 3 Mantı|manti; 3 Gözleme|gozleme; 3 Künefe|kunefe; 3 Lokma; 3 Rakı|raki; 3 Salep|sahlep; 3 Boza; 3 İskender kebab|iskender; 3 Adana kebab|adana; 3 Pilaf|pilav; 3 Halva|helva; 3 Sherbet|şerbet|serbet; 3 Sucuk|sujuk; 3 Pastırma|pastirma; 3 Lentil soup|mercimek corbasi; 3 Rice pudding|sutlac|sütlaç;
+4 İmam bayıldı|imam bayildi; 4 Kokoreç|kokorec; 4 Midye dolma|stuffed mussels; 4 Aşure|asure|noah's pudding; 4 Tavuk göğsü|tavuk gogsu; 4 Kadayıf|kadayif; 4 Çiğ köfte|cig kofte; 4 Cacık|cacik; 4 Tantuni; 4 Hünkar beğendi|hunkar begendi
+? Places | Name a city in Syria, Lebanon, Jordan, Israel, Palestine, or Saudi Arabia today.
+1 Damascus; 1 Jerusalem; 1 Mecca|makkah; 1 Beirut; 1 Riyadh;
+2 Aleppo; 2 Amman; 2 Medina; 2 Jeddah; 2 Tel Aviv; 2 Bethlehem; 2 Gaza;
+3 Homs; 3 Hama; 3 Latakia; 3 Tripoli; 3 Sidon|saida; 3 Tyre|sur; 3 Byblos|jbeil; 3 Baalbek; 3 Haifa; 3 Nazareth; 3 Ramallah; 3 Hebron; 3 Nablus; 3 Jericho; 3 Acre|akko; 3 Eilat; 3 Aqaba; 3 Petra; 3 Irbid; 3 Dammam; 3 Tabuk; 3 Taif; 3 Palmyra|tadmur;
+4 Zarqa; 4 Abha; 4 Dhahran; 4 Khobar; 4 Jubail; 4 Buraydah; 4 Hail; 4 Al-Ula|alula; 4 Yanbu; 4 Deir ez-Zor; 4 Raqqa; 4 Idlib; 4 Daraa; 4 Tartus; 4 Jerash; 4 Madaba; 4 Ma'an|maan
+? Tech | Name a way people traveled long distances before trains and cars.
+1 Horse|horseback; 1 Camel; 1 Walking|on foot; 1 Ship|sailing ship; 1 Boat;
+2 Donkey; 2 Mule; 2 Cart|ox cart; 2 Wagon; 2 Carriage; 2 Caravan; 2 Canoe; 2 Raft; 2 Elephant; 2 Chariot;
+3 Stagecoach; 3 Sedan chair|litter|palanquin; 3 Galley; 3 Junk; 3 Dhow; 3 Sled|sledge|sleigh; 3 Dog sled; 3 Rowboat; 3 Barge|canal boat; 3 Yak; 3 Hot air balloon|balloon; 3 Skis; 3 Snowshoes; 3 Kayak; 3 Reindeer;
+4 Rickshaw; 4 Howdah; 4 Travois; 4 Coracle; 4 Felucca; 4 Outrigger canoe; 4 Caravel
+
+@voyage peter | The Tsar in Disguise | Peter the Great's Grand Embassy · Moscow to London · 1697–1698
+? Power | Name a reform or change that Peter the Great made in Russia.
+1 Saint Petersburg|st petersburg|new capital; 1 Navy|russian navy; 1 Beard tax|shaving beards|beards; 1 Westernization|westernisation;
+2 Western clothing|western dress|european clothes; 2 Table of Ranks; 2 Standing army|army reform|new army; 2 Conscription; 2 Senate|governing senate; 2 Schools|education|navigation school; 2 Academy of Sciences;
+3 Holy Synod|abolished the patriarchate; 3 Colleges|collegia|ministries; 3 New calendar|calendar reform|new year on january 1; 3 Newspaper|vedomosti; 3 Civil alphabet|alphabet reform|civil script; 3 Poll tax|soul tax|head tax; 3 Factories|industry; 3 Mines|mining; 3 Provinces|guberniyas|gubernias; 3 Assemblies; 3 Tobacco; 3 Window on the West|baltic port;
+4 Kunstkamera|museum; 4 Law of succession|succession law; 4 Admiralty; 4 Preobrazhensky Regiment|preobrazhensky
+? Places | Name a city, island, or region on the Baltic Sea.
+1 Saint Petersburg|st petersburg; 1 Stockholm; 1 Copenhagen; 1 Helsinki; 1 Riga; 1 Tallinn;
+2 Gdańsk|gdansk|danzig; 2 Kaliningrad|konigsberg|königsberg; 2 Lübeck|lubeck; 2 Kiel; 2 Rostock; 2 Gotland; 2 Turku; 2 Malmö|malmo;
+3 Klaipėda|klaipeda|memel; 3 Szczecin|stettin; 3 Visby; 3 Kronstadt; 3 Vyborg; 3 Liepāja|liepaja|libau; 3 Ventspils; 3 Pärnu|parnu; 3 Karlskrona; 3 Kalmar; 3 Oulu; 3 Gdynia; 3 Sopot; 3 Narva; 3 Åland|aland; 3 Bornholm; 3 Öland|oland; 3 Saaremaa; 3 Rügen|rugen; 3 Stralsund; 3 Wismar; 3 Flensburg;
+4 Greifswald; 4 Kołobrzeg|kolobrzeg; 4 Luleå|lulea; 4 Umeå|umea; 4 Vaasa; 4 Gävle|gavle; 4 Sundsvall; 4 Hiiumaa; 4 Usedom; 4 Fehmarn; 4 Haapsalu; 4 Mariehamn
+? Wild card | Name something the Netherlands is famous for.
+1 Tulips; 1 Windmills; 1 Clogs|wooden shoes; 1 Cheese; 1 Bicycles|bikes; 1 Canals;
+2 Amsterdam; 2 Van Gogh|vincent van gogh; 2 Rembrandt; 2 Anne Frank; 2 Dikes|dykes; 2 Gouda; 2 Edam; 2 Stroopwafel; 2 Orange; 2 Dutch East India Company|voc; 2 Vermeer;
+3 Polders; 3 Herring; 3 Delftware|delft blue|delft; 3 King's Day|kings day|koningsdag; 3 William of Orange; 3 Rotterdam; 3 The Hague|den haag; 3 Rijksmuseum; 3 Tolerance; 3 Flowers; 3 Dutch West India Company|wic; 3 New Amsterdam; 3 Erasmus; 3 Johan Cruyff|cruyff; 3 Total football; 3 Poffertjes; 3 Hagelslag|chocolate sprinkles; 3 Utrecht;
+4 Spinoza; 4 Hugo Grotius|grotius; 4 Christiaan Huygens|huygens; 4 Antonie van Leeuwenhoek|leeuwenhoek; 4 Zaandam; 4 Afsluitdijk; 4 Delta Works; 4 Keukenhof; 4 Mondrian; 4 Escher|m c escher; 4 Bitterballen; 4 Kinderdijk
+? Culture | Name a Russian writer, composer, artist, or scientist.
+1 Leo Tolstoy|tolstoy; 1 Fyodor Dostoevsky|dostoevsky|dostoyevsky; 1 Pyotr Tchaikovsky|tchaikovsky; 1 Alexander Pushkin|pushkin;
+2 Anton Chekhov|chekhov; 2 Sergei Rachmaninoff|rachmaninoff|rachmaninov; 2 Igor Stravinsky|stravinsky; 2 Dmitri Mendeleev|mendeleev; 2 Ivan Pavlov|pavlov; 2 Nikolai Gogol|gogol; 2 Wassily Kandinsky|kandinsky;
+3 Ivan Turgenev|turgenev; 3 Mikhail Lomonosov|lomonosov; 3 Modest Mussorgsky|mussorgsky; 3 Nikolai Rimsky-Korsakov|rimsky-korsakov; 3 Sergei Prokofiev|prokofiev; 3 Dmitri Shostakovich|shostakovich; 3 Marc Chagall|chagall; 3 Ilya Repin|repin; 3 Vladimir Nabokov|nabokov; 3 Boris Pasternak|pasternak; 3 Aleksandr Solzhenitsyn|solzhenitsyn; 3 Anna Akhmatova|akhmatova; 3 Mikhail Bulgakov|bulgakov; 3 Maxim Gorky|gorky; 3 Mikhail Lermontov|lermontov; 3 Andrei Sakharov|sakharov; 3 Sergei Eisenstein|eisenstein;
+4 Konstantin Tsiolkovsky|tsiolkovsky; 4 Nikolai Lobachevsky|lobachevsky; 4 Lev Landau|landau; 4 Pyotr Kapitsa|kapitsa; 4 Sofia Kovalevskaya|kovalevskaya; 4 Alexander Borodin|borodin; 4 Mikhail Glinka|glinka; 4 Andrei Rublev|rublev; 4 Kazimir Malevich|malevich; 4 Andrei Tarkovsky|tarkovsky; 4 Vaslav Nijinsky|nijinsky; 4 Anna Pavlova; 4 Rudolf Nureyev|nureyev; 4 Ivan Krylov|krylov; 4 Marina Tsvetaeva|tsvetaeva; 4 Ivan Aivazovsky|aivazovsky
+? Power | Name a European state, kingdom, or empire that existed between 1450 and 1750.
+1 Spain; 1 France; 1 England; 1 Portugal; 1 Russia|muscovy|russian empire; 1 Holy Roman Empire|hre;
+2 Habsburg Monarchy|austria|habsburg empire; 2 Prussia|brandenburg-prussia|brandenburg; 2 Poland-Lithuania|polish-lithuanian commonwealth|poland; 2 Sweden|swedish empire; 2 Dutch Republic|netherlands|united provinces; 2 Venice|republic of venice; 2 Ottoman Empire; 2 Scotland; 2 Great Britain; 2 Denmark-Norway|denmark;
+3 Castile; 3 Aragon; 3 Genoa|republic of genoa; 3 Florence|tuscany; 3 Papal States; 3 Kingdom of Naples|naples; 3 Savoy|piedmont; 3 Duchy of Milan|milan; 3 Hungary; 3 Bohemia; 3 Bavaria; 3 Saxony; 3 Swiss Confederation|switzerland; 3 Ireland|kingdom of ireland; 3 Navarre; 3 Hanover;
+4 Crimean Khanate; 4 Moldavia; 4 Wallachia; 4 Transylvania; 4 Republic of Ragusa|ragusa|dubrovnik; 4 Duchy of Burgundy|burgundy; 4 Brittany; 4 Novgorod Republic|novgorod; 4 Livonian Order|livonia; 4 Duchy of Lorraine|lorraine; 4 Courland; 4 Kingdom of Sicily|sicily; 4 Montenegro

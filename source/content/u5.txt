@@ -161,3 +161,56 @@
 2 Enchiladas; 2 Tamales|tamal; 2 Tortilla|tortillas; 2 Churros; 2 Mole; 2 Salsa; 2 Pozole; 2 Horchata; 2 Tequila; 2 Tostadas; 2 Elote|corn on the cob;
 3 Chilaquiles; 3 Sopes; 3 Gorditas; 3 Tlayudas|tlayuda; 3 Carnitas; 3 Tacos al pastor|al pastor; 3 Barbacoa; 3 Birria; 3 Chiles en nogada; 3 Chile relleno|chiles rellenos; 3 Agua fresca|aguas frescas; 3 Atole; 3 Champurrado; 3 Mezcal; 3 Pulque; 3 Michelada; 3 Pico de gallo; 3 Refried beans|frijoles refritos; 3 Menudo; 3 Flan; 3 Tres leches|tres leches cake; 3 Cochinita pibil; 3 Huevos rancheros;
 4 Pan dulce|conchas; 4 Esquites; 4 Tamarindo|agua de tamarindo; 4 Jamaica|agua de jamaica; 4 Mole poblano; 4 Molletes; 4 Tortas|torta; 4 Cemitas; 4 Huaraches; 4 Tlacoyos; 4 Pambazo; 4 Sopa de lima; 4 Ponche; 4 Cajeta; 4 Paletas
+
+@voyage humboldt | The Scientist's Voyage | Alexander von Humboldt · A Coruña to Mexico City · 1799–1804
+? Places | Name a country or territory in the Caribbean.
+1 Cuba; 1 Jamaica; 1 Haiti; 1 Dominican Republic; 1 Puerto Rico;
+2 Bahamas; 2 Barbados; 2 Trinidad and Tobago|trinidad; 2 Grenada; 2 Saint Lucia|st lucia; 2 Aruba; 2 Curaçao|curacao; 2 Martinique; 2 Guadeloupe;
+3 Antigua and Barbuda|antigua; 3 Dominica; 3 Saint Kitts and Nevis|st kitts; 3 Saint Vincent and the Grenadines|st vincent; 3 Cayman Islands; 3 Turks and Caicos; 3 U.S. Virgin Islands|us virgin islands|virgin islands; 3 British Virgin Islands; 3 Bonaire; 3 Sint Maarten|saint martin|st martin;
+4 Anguilla; 4 Montserrat; 4 Saint Barthélemy|st barts|saint barthelemy; 4 Sint Eustatius|statia; 4 Saba; 4 Hispaniola; 4 Tobago
+? Wild card | Name a plant or animal that lives in a rainforest.
+1 Jaguar; 1 Sloth; 1 Toucan; 1 Gorilla; 1 Orangutan; 1 Parrot; 1 Monkey;
+2 Macaw; 2 Anaconda; 2 Poison dart frog|poison frog; 2 Tree frog; 2 Chimpanzee; 2 Tiger; 2 Leopard; 2 Tapir; 2 Capybara; 2 Piranha; 2 Howler monkey; 2 Iguana; 2 Chameleon; 2 Lemur; 2 Banana; 2 Orchid; 2 Rubber tree; 2 Cacao; 2 Bamboo;
+3 Okapi; 3 Gibbon; 3 Boa constrictor|boa; 3 Electric eel; 3 Spider monkey; 3 Gecko; 3 Cassowary; 3 Bird of paradise; 3 Harpy eagle; 3 Hornbill; 3 Leafcutter ant|leaf cutter ant; 3 Army ant; 3 Morpho butterfly|blue morpho; 3 Kapok tree; 3 Bromeliad; 3 Rafflesia; 3 Pitcher plant; 3 Liana|vine; 3 Fern; 3 Mahogany; 3 Brazil nut tree|brazil nut; 3 Cinchona tree|cinchona; 3 Ocelot; 3 Python; 3 Bonobo; 3 Caiman; 3 Pink river dolphin|amazon river dolphin|boto; 3 Giant otter; 3 Arapaima;
+4 Kinkajou; 4 Pangolin; 4 Tarsier; 4 Jaguarundi; 4 Mandrill; 4 Sun bear; 4 Forest elephant; 4 Sumatran rhinoceros|sumatran rhino; 4 Strangler fig; 4 Heliconia; 4 Coati; 4 Agouti; 4 Hoatzin; 4 Quetzal
+? Revolutions | Name a person, place, event, or idea connected with the Haitian Revolution.
+1 Toussaint Louverture|toussaint l'ouverture|toussaint; 1 Haiti; 1 Saint-Domingue|saint domingue; 1 Abolition of slavery|abolition|emancipation;
+2 Jean-Jacques Dessalines|dessalines; 2 Henri Christophe|christophe; 2 Napoleon|napoleon bonaparte; 2 Haitian independence|independence; 2 Sugar; 2 Liberty|liberte|freedom; 2 French Revolution;
+3 Dutty Boukman|boukman; 3 Bois Caïman|bois caiman; 3 Charles Leclerc|leclerc; 3 Battle of Vertières|vertieres; 3 Alexandre Pétion|petion; 3 Léger-Félicité Sonthonax|sonthonax; 3 Vodou|voodoo; 3 Cap-Français|cap francais|cap-haitien; 3 Maroons|marronage; 3 Constitution of 1801; 3 Free people of color|gens de couleur; 3 Yellow fever; 3 Louisiana Purchase; 3 Declaration of the Rights of Man; 3 Citadelle Laferrière|citadelle laferriere|citadelle;
+4 Vincent Ogé|vincent oge|oge; 4 Julien Raimond; 4 Cécile Fatiman|cecile fatiman; 4 Sanité Bélair|sanite belair; 4 Jean-Baptiste Belley|belley; 4 Kingdom of Haiti; 4 Haitian Declaration of Independence; 4 Port-au-Prince; 4 Plantations
+? People | Name a woman who took part in a revolution or reform movement between 1750 and 1900.
+1 Harriet Tubman; 1 Mary Wollstonecraft|wollstonecraft; 1 Susan B. Anthony|susan b anthony;
+2 Olympe de Gouges|de gouges; 2 Abigail Adams; 2 Sojourner Truth; 2 Elizabeth Cady Stanton|cady stanton; 2 Florence Nightingale|nightingale; 2 Rani of Jhansi|lakshmibai|rani lakshmibai; 2 Harriet Beecher Stowe|beecher stowe; 2 Manuela Sáenz|manuela saenz;
+3 Lucretia Mott; 3 Juana Azurduy; 3 Policarpa Salavarrieta|la pola; 3 Josefa Ortiz de Domínguez|josefa ortiz de dominguez|la corregidora; 3 Leona Vicario; 3 Louise Michel; 3 Charlotte Corday; 3 Madame Roland|manon roland; 3 Mercy Otis Warren; 3 Deborah Sampson; 3 Molly Pitcher; 3 Kate Sheppard; 3 Micaela Bastidas; 3 Bartolina Sisa; 3 Angelina Grimké|angelina grimke; 3 Sarah Grimké|sarah grimke; 3 Lucy Stone; 3 Ida B. Wells|ida b wells; 3 Emmeline Pankhurst|pankhurst; 3 Millicent Fawcett;
+4 Gertrudis Bocanegra; 4 Théroigne de Méricourt|theroigne de mericourt; 4 Sanité Bélair; 4 Savitribai Phule; 4 Pandita Ramabai; 4 Nana Asma'u|nana asmau; 4 Harriet Jacobs; 4 Mary Ann Shadd|mary ann shadd cary; 4 Frances Harper|frances ellen watkins harper; 4 Josephine Butler; 4 Flora Tristan; 4 Pauline Léon|pauline leon
+? Tech | Name an instrument or piece of equipment a scientist might use.
+1 Microscope; 1 Telescope; 1 Thermometer; 1 Test tube; 1 Magnifying glass;
+2 Barometer; 2 Compass; 2 Scale|balance; 2 Beaker; 2 Bunsen burner; 2 Flask; 2 Pipette; 2 Petri dish; 2 Ruler; 2 Stopwatch; 2 Computer; 2 Calculator; 2 Goggles|safety goggles;
+3 Sextant; 3 Chronometer; 3 Hygrometer; 3 Theodolite; 3 Prism; 3 Voltmeter; 3 Ammeter; 3 Oscilloscope; 3 Spectrometer|spectroscope; 3 Centrifuge; 3 Geiger counter; 3 Seismograph|seismometer; 3 Anemometer; 3 Rain gauge; 3 Scalpel; 3 Forceps|tweezers; 3 Funnel; 3 Graduated cylinder; 3 Burette; 3 Mortar and pestle; 3 Microscope slide|slide;
+4 Cyanometer; 4 Electrometer; 4 Galvanometer; 4 Leyden jar; 4 Air pump|vacuum pump; 4 Astrolabe; 4 Quadrant; 4 Calorimeter; 4 Pendulum; 4 Hydrometer; 4 Psychrometer; 4 Bell jar
+
+@voyage douglass | The Road to Freedom | Frederick Douglass escapes slavery · Baltimore to New Bedford · 1838
+? People | Name an abolitionist or a person who fought against slavery.
+1 Frederick Douglass|douglass; 1 Harriet Tubman|tubman; 1 Abraham Lincoln|lincoln; 1 William Wilberforce|wilberforce;
+2 Sojourner Truth; 2 William Lloyd Garrison|garrison; 2 John Brown; 2 Harriet Beecher Stowe|beecher stowe; 2 Toussaint Louverture|toussaint; 2 Olaudah Equiano|equiano;
+3 Thomas Clarkson|clarkson; 3 Granville Sharp; 3 Angelina Grimké|angelina grimke; 3 Sarah Grimké|sarah grimke; 3 Lucretia Mott; 3 Wendell Phillips; 3 Charles Sumner; 3 Thaddeus Stevens; 3 Elijah Lovejoy; 3 Levi Coffin; 3 William Still; 3 Harriet Jacobs; 3 Solomon Northup; 3 David Walker; 3 Henry Highland Garnet; 3 Joaquim Nabuco|nabuco; 3 Princess Isabel|isabel of brazil; 3 Victor Schœlcher|victor schoelcher|schoelcher; 3 Henry Box Brown|henry brown;
+4 Theodore Weld; 4 Martin Delany; 4 Mary Ann Shadd; 4 André Rebouças|andre reboucas; 4 Luís Gama|luis gama; 4 Benjamin Lay; 4 Anthony Benezet; 4 Ottobah Cugoano|cugoano; 4 Ignatius Sancho; 4 Elizabeth Heyrick; 4 Thomas Fowell Buxton|buxton; 4 Zumbi dos Palmares|zumbi; 4 Samuel Sharpe|sam sharpe; 4 John Rankin; 4 Lucy Stone
+? Places | Name a U.S. state.
+1 California; 1 Texas; 1 New York; 1 Florida; 1 Hawaii; 1 Alaska;
+2 Washington; 2 Massachusetts; 2 Virginia; 2 Georgia; 2 Pennsylvania; 2 Illinois; 2 Ohio; 2 Michigan; 2 Arizona; 2 Nevada; 2 Colorado; 2 Louisiana; 2 Maryland; 2 New Jersey; 2 North Carolina; 2 South Carolina; 2 Oregon; 2 Tennessee;
+3 Alabama; 3 Mississippi; 3 Kentucky; 3 Missouri; 3 Indiana; 3 Wisconsin; 3 Minnesota; 3 Utah; 3 New Mexico; 3 Oklahoma; 3 Kansas; 3 Iowa; 3 Arkansas; 3 Connecticut; 3 Delaware; 3 Maine; 3 Vermont; 3 New Hampshire; 3 Rhode Island; 3 West Virginia; 3 Idaho; 3 Montana;
+4 Wyoming; 4 Nebraska; 4 North Dakota; 4 South Dakota
+? Ideas | Name a book, newspaper, pamphlet, or speech that helped change people's minds between 1750 and 1900.
+1 Common Sense; 1 Uncle Tom's Cabin|uncle toms cabin; 1 The Communist Manifesto|communist manifesto; 1 Gettysburg Address;
+2 The Wealth of Nations|wealth of nations; 2 The Social Contract|social contract; 2 A Vindication of the Rights of Woman|vindication of the rights of woman; 2 Narrative of the Life of Frederick Douglass; 2 The Liberator; 2 On the Origin of Species|origin of species; 2 Das Kapital|capital; 2 Ain't I a Woman?|aint i a woman; 2 Jamaica Letter|letter from jamaica;
+3 The North Star|north star; 3 The Spirit of the Laws|spirit of the laws; 3 Candide; 3 The Encyclopédie|encyclopedie|encyclopedia; 3 Rights of Man; 3 What Is the Third Estate?|what is the third estate; 3 The Federalist Papers|federalist papers; 3 What to the Slave Is the Fourth of July?|what to the slave is the fourth of july; 3 Declaration of Sentiments; 3 Twelve Years a Slave; 3 Incidents in the Life of a Slave Girl; 3 The Interesting Narrative|equiano's narrative; 3 Noli Me Tángere|noli me tangere; 3 Oliver Twist; 3 Les Misérables|les miserables;
+4 Hard Times; 4 Appeal to the Coloured Citizens of the World|walker's appeal; 4 The Crisis|american crisis; 4 Thoughts on Slavery; 4 Facundo; 4 El Filibusterismo; 4 On Liberty; 4 The Subjection of Women
+? Wild card | Name a famous bridge.
+1 Golden Gate Bridge|golden gate; 1 Brooklyn Bridge; 1 Tower Bridge; 1 London Bridge;
+2 Sydney Harbour Bridge; 2 Rialto Bridge; 2 Ponte Vecchio; 2 Charles Bridge; 2 Golden Bridge|cau vang; 2 Dragon Bridge|cau rong; 2 Long Biên Bridge|long bien bridge; 2 Japanese Covered Bridge|chua cau; 2 Bridge of Sighs;
+3 Pont du Gard; 3 Pont Neuf; 3 Forth Bridge; 3 Iron Bridge|ironbridge; 3 Clifton Suspension Bridge; 3 Akashi Kaikyō Bridge|akashi kaikyo; 3 Øresund Bridge|oresund bridge; 3 Millau Viaduct; 3 Rainbow Bridge; 3 Stari Most|mostar bridge; 3 Hong Kong–Zhuhai–Macau Bridge|hong kong zhuhai macau bridge; 3 Bosphorus Bridge; 3 Galata Bridge; 3 Széchenyi Chain Bridge|chain bridge; 3 George Washington Bridge; 3 Verrazzano-Narrows Bridge|verrazzano; 3 Mackinac Bridge; 3 Howrah Bridge; 3 Si-o-se-pol; 3 Ponte 25 de Abril; 3 Tsing Ma Bridge; 3 Nhật Tân Bridge|nhat tan bridge; 3 Thủ Thiêm Bridge|thu thiem bridge; 3 Erasmus Bridge;
+4 Khaju Bridge; 4 Menai Suspension Bridge|menai bridge; 4 Vasco da Gama Bridge; 4 Confederation Bridge; 4 Sunshine Skyway Bridge; 4 Bay Bridge; 4 Helix Bridge; 4 Zhaozhou Bridge|anji bridge; 4 Lugou Bridge|marco polo bridge; 4 Puente de Occidente; 4 Ponte Sant'Angelo|ponte sant angelo; 4 Kintai Bridge; 4 Bixby Bridge
+? Power | Name a country or colony that abolished slavery in the 1800s.
+1 United Kingdom|britain|great britain|england; 1 United States|usa|america; 1 France; 1 Haiti; 1 Brazil;
+2 Mexico; 2 Chile; 2 Argentina; 2 Colombia; 2 Peru; 2 Venezuela; 2 Netherlands; 2 Spain; 2 Cuba; 2 Jamaica; 2 Canada;
+3 Denmark; 3 Sweden; 3 Ecuador; 3 Uruguay; 3 Puerto Rico; 3 Tunisia; 3 Portugal; 3 British India|india; 3 Trinidad|trinidad and tobago; 3 Barbados; 3 Martinique; 3 Guadeloupe; 3 Suriname; 3 Mauritius

@@ -161,3 +161,57 @@
 2 Portuguese; 2 Dutch; 2 Polish; 2 Greek; 2 Swedish; 2 Ukrainian; 2 Turkish; 2 Norwegian; 2 Danish; 2 Finnish;
 3 Czech; 3 Hungarian; 3 Romanian; 3 Bulgarian; 3 Serbian; 3 Croatian; 3 Icelandic; 3 Irish|irish gaelic|gaelic; 3 Welsh; 3 Catalan; 3 Basque|euskara; 3 Estonian; 3 Latvian; 3 Lithuanian; 3 Slovak; 3 Slovenian|slovene; 3 Albanian; 3 Belarusian;
 4 Scottish Gaelic; 4 Breton; 4 Galician; 4 Maltese; 4 Luxembourgish; 4 Romani; 4 Sami; 4 Frisian; 4 Faroese; 4 Yiddish; 4 Macedonian; 4 Bosnian; 4 Montenegrin; 4 Corsican; 4 Sardinian; 4 Cornish; 4 Manx; 4 Low German|plattdeutsch; 4 Occitan; 4 Romansh; 4 Tatar
+
+@voyage pegolotti | The Merchant's Handbook | Pegolotti's route for Italian traders · Tana to Khanbaliq · c. 1340
+? Geography | Name a present-day country that the Silk Roads passed through.
+1 China; 1 Iran|persia; 1 Turkey; 1 Uzbekistan; 1 Afghanistan;
+2 Kazakhstan; 2 Kyrgyzstan; 2 Tajikistan; 2 Turkmenistan; 2 Mongolia; 2 Iraq; 2 Syria; 2 India; 2 Pakistan;
+3 Russia; 3 Azerbaijan; 3 Georgia; 3 Armenia; 3 Lebanon;
+4 Ukraine
+? Places | Name a city in Central Asia today.
+1 Samarkand; 1 Bukhara; 1 Tashkent; 1 Almaty;
+2 Khiva; 2 Bishkek; 2 Dushanbe; 2 Ashgabat; 2 Astana|nur-sultan; 2 Kashgar|kashi; 2 Merv|mary;
+3 Osh; 3 Urumqi; 3 Turpan|turfan; 3 Termez; 3 Urgench; 3 Nukus; 3 Andijan; 3 Namangan; 3 Fergana; 3 Kokand; 3 Shymkent; 3 Khujand; 3 Turkistan; 3 Mazar-i-Sharif; 3 Balkh; 3 Karaganda;
+4 Aktobe; 4 Atyrau; 4 Taraz; 4 Kyzylorda; 4 Kulob; 4 Turkmenabat; 4 Dashoguz; 4 Karakol; 4 Jalal-Abad; 4 Navoi; 4 Qarshi; 4 Shahrisabz; 4 Semey; 4 Pavlodar; 4 Hotan|khotan; 4 Yarkand
+? People | Name a famous explorer, traveler, or pilgrim from any period of history.
+1 Marco Polo; 1 Ibn Battuta; 1 Zheng He; 1 Christopher Columbus|columbus; 1 Ferdinand Magellan|magellan; 1 Vasco da Gama;
+2 Xuanzang; 2 Mansa Musa; 2 James Cook|captain cook; 2 Amerigo Vespucci|vespucci; 2 Leif Erikson|leif ericson; 2 Neil Armstrong; 2 Hernán Cortés|cortes; 2 Francisco Pizarro|pizarro; 2 Bartolomeu Dias|bartholomew dias; 2 Zhang Qian;
+3 Rabban Bar Sauma|bar sauma; 3 William of Rubruck|rubruck; 3 Faxian|fa hsien; 3 Ibn Fadlan; 3 Ibn Jubayr; 3 Erik the Red; 3 Jacques Cartier|cartier; 3 Samuel de Champlain|champlain; 3 Henry Hudson; 3 Abel Tasman; 3 David Livingstone|livingstone; 3 Roald Amundsen|amundsen; 3 Ernest Shackleton|shackleton; 3 Edmund Hillary|hillary; 3 Tenzing Norgay; 3 Yuri Gagarin|gagarin; 3 Francis Drake|drake; 3 Lewis and Clark|meriwether lewis|william clark; 3 Matteo Ricci; 3 Alexander von Humboldt|humboldt; 3 Amelia Earhart; 3 Sacagawea;
+4 Giovanni da Pian del Carpine|carpini; 4 Odoric of Pordenone; 4 Niccolò de' Conti|niccolo de conti; 4 Ahmad ibn Majid|ibn majid; 4 Fernão Mendes Pinto|mendes pinto; 4 Francesco Pegolotti|pegolotti; 4 Sven Hedin; 4 Isabella Bird; 4 Ida Pfeiffer; 4 Gertrude Bell; 4 Matthew Henson; 4 Robert Peary|peary; 4 Henry Morton Stanley|stanley; 4 Jacques Cousteau|cousteau; 4 Evliya Çelebi|evliya celebi; 4 Hasekura Tsunenaga|hasekura; 4 Ennin; 4 Al-Idrisi|idrisi
+? Tech | Name a material that people have written on or made books from.
+1 Paper; 1 Papyrus; 1 Parchment; 1 Stone;
+2 Clay tablets|clay; 2 Bamboo|bamboo slips; 2 Silk; 2 Vellum; 2 Wax tablets|wax; 2 Palm leaves|palm leaf; 2 Wood|wooden tablets; 2 Bone|oracle bones; 2 Leather;
+3 Bark|birch bark; 3 Cloth; 3 Linen; 3 Slate; 3 Tortoise shell|turtle shell; 3 Bronze|metal; 3 Rice paper; 3 Cardboard; 3 Chalkboard|blackboard; 3 Amate|bark paper;
+4 Ostracon|pottery shards|potsherds; 4 Mulberry paper|hanji|washi; 4 Lead tablets; 4 Copper plates; 4 Deerskin|animal skin
+? Wild card | Name a unit used to measure something (length, weight, volume, time, or area).
+1 Meter|metre; 1 Kilogram|kilo; 1 Pound; 1 Mile; 1 Foot|feet; 1 Inch; 1 Second; 1 Liter|litre;
+2 Gram; 2 Ounce; 2 Ton|tonne; 2 Yard; 2 Gallon; 2 Kilometer|kilometre|km; 2 Centimeter|centimetre|cm; 2 Hour; 2 Minute; 2 Day; 2 Year; 2 Acre; 2 Hectare; 2 Cup; 2 Pint; 2 Quart; 2 Millimeter|millimetre|mm;
+3 Cubit; 3 League; 3 Fathom; 3 Knot; 3 Nautical mile; 3 Carat|karat; 3 Stone; 3 Bushel; 3 Barrel; 3 Furlong; 3 Light-year|light year; 3 Tael; 3 Catty|jin; 3 Li; 3 Decade; 3 Century; 3 Week; 3 Month; 3 Teaspoon; 3 Tablespoon; 3 Milliliter|millilitre|ml;
+4 Hand; 4 Span; 4 Chain; 4 Rod; 4 Grain; 4 Dram; 4 Hundredweight; 4 Peck; 4 Gill; 4 Picul; 4 Shaku; 4 Mu; 4 Verst; 4 Parsec; 4 Astronomical unit; 4 Millennium
+
+@voyage plague | The Great Mortality | The Black Death spreads · Kaffa to Paris · 1346–1348
+? Exchange | Name an infectious disease.
+1 Plague|black death|bubonic plague; 1 Smallpox; 1 Measles; 1 Malaria; 1 COVID-19|covid|coronavirus; 1 Influenza|flu;
+2 Cholera; 2 Tuberculosis|tb; 2 Leprosy; 2 Typhus; 2 Typhoid; 2 Yellow fever; 2 Polio; 2 HIV/AIDS|hiv|aids; 2 Ebola; 2 Dengue; 2 Chickenpox; 2 Common cold|cold;
+3 Mumps; 3 Rubella; 3 Whooping cough|pertussis; 3 Diphtheria; 3 Rabies; 3 Hepatitis; 3 SARS; 3 MERS; 3 Zika; 3 Scarlet fever; 3 Spanish flu; 3 Bird flu|avian flu; 3 Swine flu|h1n1; 3 Mpox|monkeypox; 3 Syphilis; 3 Tetanus;
+4 Anthrax; 4 Sleeping sickness; 4 Leishmaniasis; 4 Lyme disease; 4 Schistosomiasis; 4 Sweating sickness; 4 Hand, foot and mouth disease|hand foot and mouth; 4 Chikungunya; 4 Lassa fever
+? Places | Name a city in Italy.
+1 Rome; 1 Venice; 1 Florence; 1 Milan; 1 Naples;
+2 Genoa; 2 Pisa; 2 Turin; 2 Bologna; 2 Palermo; 2 Messina; 2 Verona; 2 Siena;
+3 Padua; 3 Bari; 3 Catania; 3 Trieste; 3 Ravenna; 3 Amalfi; 3 Lucca; 3 Parma; 3 Modena; 3 Bergamo; 3 Brescia; 3 Perugia; 3 Assisi; 3 Mantua; 3 Ferrara; 3 Urbino; 3 Cagliari; 3 Syracuse|siracusa; 3 Salerno; 3 Ancona; 3 Livorno; 3 Sorrento; 3 Como;
+4 La Spezia; 4 Taranto; 4 Reggio Calabria; 4 Brindisi; 4 Cremona; 4 Pavia; 4 Vicenza; 4 Treviso; 4 Udine; 4 Trento; 4 Bolzano; 4 Aosta; 4 Rimini; 4 Pescara; 4 Lecce; 4 Matera; 4 Sassari; 4 Piacenza
+? Tech | Name a branch of science.
+1 Biology; 1 Chemistry; 1 Physics; 1 Astronomy; 1 Medicine;
+2 Geology; 2 Ecology; 2 Botany; 2 Zoology; 2 Genetics; 2 Anatomy; 2 Psychology; 2 Mathematics|math|maths; 2 Computer science; 2 Environmental science;
+3 Meteorology; 3 Oceanography; 3 Paleontology|palaeontology; 3 Archaeology; 3 Anthropology; 3 Neuroscience; 3 Biochemistry; 3 Microbiology; 3 Immunology; 3 Epidemiology; 3 Virology; 3 Astrophysics; 3 Marine biology; 3 Earth science; 3 Statistics; 3 Sociology; 3 Economics;
+4 Bacteriology; 4 Pharmacology; 4 Cosmology; 4 Seismology; 4 Volcanology; 4 Entomology; 4 Ornithology; 4 Mycology; 4 Optics; 4 Thermodynamics; 4 Quantum mechanics|quantum physics; 4 Nuclear physics; 4 Materials science; 4 Physiology; 4 Taxonomy; 4 Herpetology; 4 Glaciology; 4 Hydrology
+? Wild card | Name an animal that can spread disease to people.
+1 Rat; 1 Mosquito; 1 Flea; 1 Bat;
+2 Tick; 2 Dog; 2 Fly|housefly; 2 Louse|lice; 2 Pig; 2 Chicken; 2 Bird; 2 Monkey; 2 Mouse|mice; 2 Cow|cattle;
+3 Tsetse fly; 3 Sandfly; 3 Raccoon; 3 Fox; 3 Cat; 3 Snail; 3 Civet; 3 Camel; 3 Marmot; 3 Gerbil; 3 Prairie dog; 3 Squirrel; 3 Cockroach; 3 Duck;
+4 Kissing bug|triatomine; 4 Mite; 4 Black fly|blackfly; 4 Deer mouse; 4 Skunk; 4 Mongoose; 4 Rabbit
+? Culture | Name a musical instrument.
+1 Piano; 1 Guitar; 1 Violin; 1 Drums|drum; 1 Flute; 1 Trumpet;
+2 Lute; 2 Harp; 2 Organ; 2 Bagpipes; 2 Recorder; 2 Cello; 2 Saxophone; 2 Clarinet; 2 Trombone; 2 Ukulele; 2 Xylophone; 2 Harmonica; 2 Accordion; 2 Tambourine;
+3 Oboe; 3 Bassoon; 3 Tuba; 3 French horn|horn; 3 Viola; 3 Double bass; 3 Harpsichord; 3 Banjo; 3 Sitar; 3 Tabla; 3 Erhu; 3 Guzheng; 3 Pipa; 3 Koto; 3 Shamisen; 3 Oud; 3 Kora; 3 Djembe; 3 Didgeridoo; 3 Marimba; 3 Triangle; 3 Cymbals; 3 Gong; 3 Lyre; 3 Mandolin; 3 Balalaika; 3 Synthesizer|keyboard; 3 Castanets; 3 Steelpan|steel drum; 3 Panpipes|pan flute; 3 Đàn bầu|dan bau; 3 Đàn tranh|dan tranh;
+4 Sackbut; 4 Shawm; 4 Hurdy-gurdy; 4 Ocarina; 4 Kalimba|mbira; 4 Shakuhachi; 4 Rebab; 4 Santur; 4 Gayageum; 4 Bandoneon; 4 Vihuela; 4 Theremin; 4 Đàn nguyệt|dan nguyet; 4 Talking drum

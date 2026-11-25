@@ -240,3 +240,57 @@
 2 Atacama Desert|atacama; 2 Sonoran Desert|sonoran; 2 Mojave Desert|mojave; 2 Patagonia; 2 Pampas; 2 Everglades; 2 Yucatan Peninsula|yucatan; 2 Galapagos Islands|galapagos; 2 Death Valley; 2 Tierra del Fuego;
 3 Chihuahuan Desert|chihuahuan; 3 Gran Chaco|chaco; 3 Llanos; 3 Pantanal; 3 Altiplano; 3 Great Basin; 3 Atlantic Forest|mata atlantica; 3 Cerrado; 3 Caatinga; 3 Prairies|prairie; 3 Tundra|arctic tundra; 3 Canadian Shield; 3 Darien Gap|darien; 3 Nazca Desert|nazca; 3 Sechura Desert|sechura; 3 Salar de Uyuni|uyuni salt flats;
 4 Painted Desert; 4 Colorado Plateau; 4 Mosquito Coast|la mosquitia; 4 Guiana Highlands|guiana shield; 4 Llanos de Moxos; 4 Monte Desert; 4 Valdivian rainforest; 4 Great Salt Lake Desert; 4 Badlands; 4 Mississippi Delta; 4 Okefenokee Swamp; 4 Black Hills; 4 Sierra Gorda; 4 Lacandon Jungle|selva lacandona
+
+@voyage cabral | The Accidental Landfall | Pedro Álvares Cabral · Lisbon to Calicut by way of Brazil · 1500
+? Places | Name a city in Brazil.
+1 São Paulo|sao paulo; 1 Rio de Janeiro|rio; 1 Brasília|brasilia; 1 Salvador;
+2 Recife; 2 Fortaleza; 2 Manaus; 2 Belo Horizonte; 2 Porto Alegre; 2 Curitiba; 2 Belém|belem; 2 Porto Seguro;
+3 Olinda; 3 Ouro Preto; 3 Florianópolis|florianopolis; 3 Natal; 3 São Luís|sao luis; 3 Maceió|maceio; 3 João Pessoa|joao pessoa; 3 Goiânia|goiania; 3 Campinas; 3 Santos; 3 Vitória|vitoria; 3 Cuiabá|cuiaba; 3 Campo Grande; 3 Paraty|parati; 3 Petrópolis|petropolis; 3 Foz do Iguaçu|foz do iguacu; 3 Niterói|niteroi;
+4 Teresina; 4 Aracaju; 4 Porto Velho; 4 Macapá|macapa; 4 Boa Vista; 4 Rio Branco; 4 Palmas; 4 Juiz de Fora; 4 Londrina; 4 Joinville; 4 Santarém|santarem; 4 Diamantina; 4 Mariana; 4 Ilhéus|ilheus
+? Trade | Name a good that Portuguese merchants traded between 1450 and 1750.
+1 Sugar; 1 Gold; 1 Pepper|black pepper; 1 Spices; 1 Silk;
+2 Cinnamon; 2 Cloves; 2 Nutmeg; 2 Ginger; 2 Porcelain; 2 Cotton cloth|cotton|calico|textiles; 2 Brazilwood|pau-brasil; 2 Diamonds; 2 Tobacco; 2 Ivory; 2 Silver;
+3 Mace; 3 Horses; 3 Wine|madeira|port wine; 3 Salt; 3 Salt cod|cod|bacalhau; 3 Indigo; 3 Cowrie shells|cowries; 3 Tea; 3 Lacquerware|lacquer; 3 Rice; 3 Copper; 3 Cacao|cocoa; 3 Hides|leather; 3 Guns|firearms|gunpowder; 3 Glass beads|beads; 3 Rum|cachaca|cachaça; 3 Molasses; 3 Sandalwood; 3 Pearls; 3 Coral;
+4 Camphor; 4 Malagueta pepper|grains of paradise|melegueta; 4 Opium; 4 Coffee; 4 Benzoin; 4 Musk; 4 Rhubarb; 4 Wheat
+? Geography | Name a cape, strait, or channel anywhere in the world.
+1 Cape of Good Hope; 1 Strait of Gibraltar|gibraltar; 1 English Channel; 1 Cape Horn; 1 Strait of Magellan;
+2 Strait of Malacca|malacca strait; 2 Bosporus|bosphorus; 2 Dardanelles; 2 Strait of Hormuz|hormuz; 2 Bering Strait; 2 Mozambique Channel; 2 Bab-el-Mandeb; 2 Taiwan Strait; 2 Cape Verde; 2 Drake Passage;
+3 Cape Agulhas; 3 Korea Strait|tsushima strait; 3 Strait of Dover|dover strait; 3 Cape Cod; 3 Cape Canaveral; 3 Cape Comorin|kanyakumari; 3 Palk Strait; 3 Sunda Strait; 3 Torres Strait; 3 Bass Strait; 3 Cook Strait; 3 Strait of Messina; 3 Davis Strait; 3 Hudson Strait; 3 Florida Straits; 3 Yucatán Channel|yucatan channel; 3 Windward Passage; 3 Cape Bojador; 3 Cape York; 3 Cape Finisterre; 3 Cape St. Vincent|cape saint vincent; 3 Kerch Strait;
+4 Strait of Otranto; 4 Mona Passage; 4 Tsugaru Strait; 4 La Pérouse Strait|la perouse strait; 4 Lombok Strait; 4 Strait of Juan de Fuca; 4 Makassar Strait; 4 Luzon Strait; 4 Skagerrak; 4 Kattegat; 4 Øresund|oresund|the sound; 4 Cape Guardafui; 4 Cape Blanc; 4 Strait of Bonifacio
+? People | Name a Portuguese person from history (an explorer, ruler, writer, or other).
+1 Vasco da Gama; 1 Prince Henry the Navigator|henry the navigator|prince henry; 1 Ferdinand Magellan|magellan|fernao de magalhaes;
+2 Bartolomeu Dias|bartholomew dias; 2 Pedro Álvares Cabral|cabral; 2 Afonso de Albuquerque|albuquerque; 2 Luís de Camões|camoes|camões;
+3 Francisco de Almeida|almeida; 3 João II|john ii of portugal; 3 Manuel I|manuel the fortunate; 3 Diogo Cão|diogo cao; 3 Gil Eanes; 3 Pêro da Covilhã|pero da covilha; 3 Fernão Mendes Pinto|mendes pinto; 3 Gaspar Corte-Real|corte-real; 3 Tomé Pires|tome pires; 3 Marquis of Pombal|pombal; 3 Pedro I of Brazil|dom pedro i; 3 João VI|john vi; 3 Afonso Henriques|afonso i; 3 Sebastian of Portugal|king sebastian; 3 Fernando Pessoa|pessoa; 3 José Saramago|saramago;
+4 Francisco Serrão|francisco serrao; 4 Duarte Barbosa; 4 Jorge Álvares|jorge alvares; 4 Cristóvão da Gama|cristovao da gama; 4 Bento de Góis|bento de gois|benedict goes; 4 António de Andrade|antonio de andrade; 4 Diogo Dias; 4 Nicolau Coelho; 4 Pêro Vaz de Caminha|pero vaz de caminha; 4 Catherine of Braganza; 4 Philippa of Lancaster; 4 Duarte Pacheco Pereira
+? Wild card | Name a Brazilian food, drink, music, dance, or festival.
+1 Samba; 1 Carnival|carnaval; 1 Açaí|acai; 1 Feijoada; 1 Capoeira;
+2 Brigadeiro; 2 Pão de queijo|pao de queijo|cheese bread; 2 Coxinha; 2 Churrasco; 2 Caipirinha; 2 Guaraná|guarana; 2 Bossa nova; 2 Picanha; 2 Coffee;
+3 Cachaça|cachaca; 3 Moqueca; 3 Farofa; 3 Pastel; 3 Tapioca; 3 Acarajé|acaraje; 3 Forró|forro; 3 Frevo; 3 Festa Junina; 3 Maracatu; 3 Axé|axe; 3 Choro|chorinho; 3 Lambada; 3 Brazilian funk|funk carioca; 3 Mate|chimarrao|chimarrão; 3 Pudim; 3 Quindim;
+4 Vatapá|vatapa; 4 Maxixe; 4 Bumba Meu Boi|bumba-meu-boi; 4 Parintins Festival|parintins; 4 Festa de Iemanjá|iemanja; 4 Tropicália|tropicalia; 4 Sertanejo; 4 Baião|baiao; 4 Pé de moleque|pe de moleque; 4 Cuscuz
+
+@voyage tasman | The Unknown Southland | Abel Tasman for the Dutch East India Company · Batavia to Tonga · 1642–1643
+? Places | Name a country or territory in Oceania (Australia, New Zealand, and the Pacific Islands).
+1 Australia; 1 New Zealand|aotearoa; 1 Fiji; 1 Papua New Guinea|png; 1 Hawaii;
+2 Samoa; 2 Tonga; 2 Vanuatu; 2 Solomon Islands; 2 Guam; 2 Tahiti|french polynesia; 2 New Caledonia; 2 Easter Island|rapa nui;
+3 Kiribati; 3 Tuvalu; 3 Nauru; 3 Palau; 3 Marshall Islands; 3 Micronesia|federated states of micronesia; 3 Cook Islands; 3 American Samoa; 3 Niue; 3 Northern Mariana Islands|saipan;
+4 Wallis and Futuna; 4 Tokelau; 4 Pitcairn Islands|pitcairn; 4 Norfolk Island; 4 Bougainville; 4 Tasmania
+? Society | Name a people, tradition, or object from the cultures of the Pacific Islands, New Zealand, or Indigenous Australia.
+1 Haka; 1 Māori|maori; 1 Boomerang; 1 Didgeridoo; 1 Hula;
+2 Aboriginal Australians|aboriginal|aborigines; 2 Tattoo|ta moko|moko; 2 Outrigger canoe|waka|canoe; 2 Wayfinding|star navigation|polynesian navigation; 2 Luau; 2 Lei; 2 Surfing; 2 Moai|easter island statues; 2 Dreamtime|dreaming;
+3 Torres Strait Islanders; 3 Native Hawaiians|hawaiians; 3 Samoans; 3 Tongans; 3 Tahitians; 3 Rapa Nui people; 3 Kava; 3 Poi; 3 Marae; 3 Hāngī|hangi|earth oven; 3 Mana; 3 Tapu|taboo; 3 Pounamu|greenstone|jade; 3 Tapa cloth|tapa|kapa; 3 Fale; 3 Songlines; 3 Dot painting; 3 Fijians; 3 Chamorro;
+4 Lapita; 4 Kula ring|kula; 4 Rai stones; 4 Woomera|spear thrower; 4 Fire-stick farming; 4 Hei-tiki|tiki; 4 Bark painting; 4 Kapa haka; 4 Ni-Vanuatu; 4 Melanesians; 4 Micronesians; 4 Polynesians
+? Power | Name a European trading company or chartered company.
+1 Dutch East India Company|voc; 1 British East India Company|east india company|english east india company|eic;
+2 Dutch West India Company|wic; 2 Hudson's Bay Company|hudsons bay company; 2 French East India Company; 2 Virginia Company; 2 Hanseatic League|hansa;
+3 Danish East India Company; 3 Swedish East India Company; 3 Royal African Company; 3 Muscovy Company; 3 Levant Company; 3 Plymouth Company; 3 Massachusetts Bay Company; 3 South Sea Company; 3 Mississippi Company; 3 Company of One Hundred Associates|company of new france; 3 Royal Niger Company; 3 British South Africa Company; 3 Portuguese East India Company|casa da india; 3 Russian-American Company;
+4 Ostend Company; 4 North West Company; 4 Imperial British East Africa Company; 4 German East Africa Company; 4 Fugger|fuggers; 4 Medici Bank|medici; 4 Company of Scotland|darien company; 4 Brandenburg African Company; 4 French West India Company; 4 Welser
+? Trade | Name something that people have used as money.
+1 Gold; 1 Silver; 1 Coins; 1 Paper money|banknotes|bills; 1 Cowrie shells|cowries|shells;
+2 Salt; 2 Cacao beans|cacao|cocoa beans; 2 Copper; 2 Tobacco; 2 Beaver pelts|furs|beaver; 2 Wampum; 2 Cattle|cows; 2 Beads; 2 Credit card; 2 Cryptocurrency|bitcoin; 2 Checks|cheques;
+3 Rai stones|stone money; 3 Tea bricks|tea; 3 Iron bars|iron; 3 Manillas; 3 Copper ingots; 3 Cloth|textiles; 3 Rice; 3 Whale teeth|tabua; 3 Feather money|feathers; 3 Barley; 3 Bills of exchange; 3 Silver ingots|sycee; 3 Cigarettes; 3 Pepper; 3 Ivory; 3 Bronze;
+4 Katanga crosses; 4 Kissi pennies; 4 Squirrel pelts; 4 Hacksilver; 4 Spade money|knife money; 4 Promissory notes|ious
+? Wild card | Name a bird (living or extinct).
+1 Eagle; 1 Penguin; 1 Parrot; 1 Chicken; 1 Owl; 1 Pigeon|dove; 1 Sparrow; 1 Ostrich;
+2 Dodo; 2 Kiwi; 2 Emu; 2 Flamingo; 2 Peacock|peafowl; 2 Swan; 2 Duck; 2 Goose; 2 Crow; 2 Hawk; 2 Falcon; 2 Robin; 2 Hummingbird; 2 Seagull|gull; 2 Pelican; 2 Toucan; 2 Woodpecker; 2 Turkey;
+3 Crane; 3 Heron; 3 Stork; 3 Kingfisher; 3 Vulture; 3 Condor; 3 Albatross; 3 Puffin; 3 Cassowary; 3 Quail; 3 Magpie; 3 Raven; 3 Blackbird; 3 Starling; 3 Swallow; 3 Wren; 3 Cardinal; 3 Blue jay; 3 Canary; 3 Budgerigar|budgie; 3 Cockatoo; 3 Macaw; 3 Kookaburra; 3 Ibis; 3 Egret; 3 Cormorant; 3 Osprey; 3 Nightingale; 3 Finch; 3 Myna|mynah; 3 Hornbill; 3 Pheasant; 3 Moa;
+4 Lyrebird; 4 Kea; 4 Kakapo; 4 Tui; 4 Kestrel; 4 Lark; 4 Bulbul; 4 Roadrunner; 4 Partridge; 4 Grouse; 4 Sandpiper; 4 Plover; 4 Gannet; 4 Booby; 4 Frigatebird; 4 Tern; 4 Bird of paradise; 4 Sunbird; 4 Weaver; 4 Secretary bird; 4 Shoebill; 4 Passenger pigeon; 4 Great auk; 4 Takahe

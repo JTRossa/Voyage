@@ -161,3 +161,57 @@
 2 Medina; 2 Varanasi|benares|kashi; 2 Bethlehem; 2 Lhasa; 2 Bodh Gaya; 2 Amritsar; 2 Karbala; 2 Najaf; 2 Lumbini;
 3 Qom; 3 Mashhad; 3 Nazareth; 3 Santiago de Compostela; 3 Lourdes; 3 Fatima; 3 Canterbury; 3 Hebron; 3 Kairouan; 3 Sarnath; 3 Kushinagar; 3 Haridwar; 3 Rishikesh; 3 Ayodhya; 3 Mathura; 3 Vrindavan; 3 Puri; 3 Ise; 3 Mount Athos; 3 Lalibela; 3 Aksum|axum;
 4 Touba; 4 Harar; 4 Safed|tzfat; 4 Tiberias; 4 Haifa; 4 Acre|akko; 4 Ujjain; 4 Kanchipuram; 4 Dwarka; 4 Salt Lake City; 4 Nankana Sahib; 4 Kandy; 4 Bagan; 4 Konya; 4 Pushkar; 4 Guadalupe|tepeyac; 4 Tay Ninh; 4 Assisi; 4 Czestochowa|częstochowa; 4 Shirdi; 4 Rameswaram; 4 Mount Kailash|kailash; 4 Koyasan|mount koya
+
+@voyage burmaroad | The Back Door to China | The Burma Road · Rangoon to Chongqing · 1938–1942
+? Places | Name a city in Myanmar, Thailand, Laos, Cambodia, or Vietnam.
+1 Hanoi; 1 Ho Chi Minh City|saigon|hcmc; 1 Bangkok; 1 Da Nang|danang; 1 Phnom Penh;
+2 Yangon|rangoon; 2 Mandalay; 2 Chiang Mai; 2 Phuket; 2 Vientiane; 2 Luang Prabang; 2 Siem Reap; 2 Huế|hue; 2 Hội An|hoi an; 2 Hải Phòng|hai phong|haiphong; 2 Cần Thơ|can tho; 2 Nha Trang; 2 Đà Lạt|da lat|dalat; 2 Vũng Tàu|vung tau; 2 Pattaya;
+3 Naypyidaw; 3 Bagan|pagan; 3 Ayutthaya; 3 Chiang Rai; 3 Sukhothai; 3 Hat Yai; 3 Pakse; 3 Savannakhet; 3 Battambang; 3 Sihanoukville|kampong som; 3 Kampot; 3 Biên Hòa|bien hoa; 3 Buôn Ma Thuột|buon ma thuot; 3 Quy Nhơn|quy nhon; 3 Vinh; 3 Hạ Long|ha long; 3 Sa Pa|sapa; 3 Phan Thiết|phan thiet; 3 Nam Định|nam dinh; 3 Thủ Dầu Một|thu dau mot; 3 Mawlamyine|moulmein;
+4 Lashio; 4 Myitkyina; 4 Kanchanaburi; 4 Nakhon Ratchasima|korat; 4 Udon Thani; 4 Khon Kaen; 4 Kep; 4 Thakhek; 4 Phonsavan; 4 Điện Biên Phủ|dien bien phu; 4 Pleiku; 4 Mỹ Tho|my tho; 4 Rạch Giá|rach gia; 4 Châu Đốc|chau doc; 4 Lạng Sơn|lang son; 4 Taunggyi
+? People | Name a leader in East, South, or Southeast Asia between 1900 and 1950.
+1 Mao Zedong|mao; 1 Mahatma Gandhi|gandhi; 1 Ho Chi Minh; 1 Chiang Kai-shek|chiang;
+2 Sun Yat-sen|sun yixian; 2 Hirohito|showa emperor; 2 Jawaharlal Nehru|nehru; 2 Muhammad Ali Jinnah|jinnah; 2 Puyi|last emperor; 2 Sukarno; 2 Hideki Tojo|tojo; 2 Zhou Enlai; 2 Aung San; 2 Subhas Chandra Bose|subhas bose|netaji;
+3 Yuan Shikai; 3 Empress Dowager Cixi|cixi; 3 Bảo Đại|bao dai; 3 Norodom Sihanouk|sihanouk; 3 Plaek Phibunsongkhram|phibun; 3 Pridi Banomyong|pridi; 3 Manuel Quezon|quezon; 3 Emilio Aguinaldo|aguinaldo; 3 José P. Laurel|jose laurel; 3 Mohammad Hatta|hatta; 3 Ba Maw; 3 U Nu; 3 Syngman Rhee|rhee; 3 Kim Il Sung; 3 Kim Gu|kim ku; 3 Wang Jingwei; 3 Zhang Xueliang; 3 Vallabhbhai Patel|sardar patel|patel; 3 B. R. Ambedkar|ambedkar; 3 Emperor Meiji|meiji; 3 Fumimaro Konoe|konoe; 3 Phan Bội Châu|phan boi chau; 3 Phan Châu Trinh|phan chu trinh|phan chau trinh; 3 Chulalongkorn|rama v; 3 Zhu De;
+4 Emperor Taishō|taisho; 4 Itō Hirobumi|ito hirobumi; 4 Vajiravudh|rama vi; 4 Guangxu Emperor|guangxu; 4 Souphanouvong; 4 Sergio Osmeña|osmena; 4 Soong Mei-ling|madame chiang; 4 Liaquat Ali Khan; 4 Sisavang Vong; 4 Khải Định|khai dinh; 4 Duy Tân|duy tan
+? Society | Name something that was rationed or in short supply during World War II.
+1 Food; 1 Sugar; 1 Meat; 1 Gasoline|petrol|gas|fuel;
+2 Butter; 2 Rubber; 2 Tires|tyres; 2 Coffee; 2 Tea; 2 Clothing|clothes; 2 Shoes; 2 Cheese; 2 Eggs; 2 Milk; 2 Bread; 2 Rice; 2 Chocolate; 2 Candy|sweets;
+3 Cooking oil|fats|lard; 3 Soap; 3 Paper; 3 Metal|steel|scrap metal; 3 Nylon|nylon stockings|stockings; 3 Silk; 3 Coal; 3 Jam; 3 Bacon; 3 Canned food|canned goods|tinned food; 3 Flour; 3 Fabric|cloth; 3 Kerosene; 3 Cigarettes|tobacco; 3 Medicine; 3 Salt; 3 Aluminum|aluminium; 3 Copper; 3 Tin;
+4 Margarine; 4 Typewriters; 4 Bicycles; 4 Quinine
+? Tech | Name a type of aircraft or flying machine.
+1 Airplane|aeroplane|plane; 1 Helicopter; 1 Jet; 1 Hot air balloon|balloon; 1 Drone;
+2 Glider; 2 Blimp|airship|zeppelin; 2 Biplane; 2 Seaplane; 2 Fighter plane|fighter; 2 Bomber; 2 Airliner|passenger jet; 2 Jumbo jet|boeing 747; 2 Concorde; 2 Spitfire;
+3 Hang glider; 3 Paraglider; 3 Autogyro|gyrocopter; 3 Triplane; 3 Flying boat; 3 Cargo plane|transport plane; 3 Mitsubishi Zero|zero; 3 B-29 Superfortress|b-29; 3 P-40 Warhawk|p-40|flying tigers plane; 3 C-47|dakota|dc-3; 3 Stealth bomber|b-2; 3 Ultralight; 3 Tiltrotor|v-22 osprey; 3 Spy plane|u-2; 3 Supersonic jet; 3 Messerschmitt|bf 109; 3 P-51 Mustang|mustang; 3 B-17 Flying Fortress|b-17;
+4 Wright Flyer; 4 Dive bomber|stuka; 4 Lancaster; 4 Hurricane; 4 C-46 Commando|c-46; 4 Gyroplane; 4 Ornithopter; 4 Air ambulance
+? Wild card | Name a famous road, trail, or highway from history.
+1 Silk Road|silk roads; 1 Route 66; 1 Ho Chi Minh Trail; 1 Burma Road;
+2 Appian Way|via appia; 2 Royal Road|persian royal road; 2 Inca Road|qhapaq nan; 2 Grand Trunk Road; 2 Pan-American Highway|pan american highway; 2 Oregon Trail; 2 Camino de Santiago|way of st james; 2 Autobahn;
+3 Ledo Road|stilwell road; 3 Santa Fe Trail; 3 Amber Road; 3 Tea Horse Road; 3 Karakoram Highway; 3 Trans-Canada Highway; 3 Lincoln Highway; 3 Alaska Highway; 3 Watling Street; 3 Via Egnatia; 3 Incense Route; 3 Salt Road|salt route; 3 Hippie Trail; 3 Natchez Trace; 3 Chisholm Trail; 3 Pony Express route|pony express; 3 Via Francigena; 3 Great North Road; 3 Highway 1|ql1|quoc lo 1; 3 Mandarin Road|duong cai quan;
+4 Trans-Saharan routes; 4 Darb el-Arbain|forty days road; 4 Tokaido; 4 Nakasendo; 4 Via Maris; 4 King's Highway; 4 Road of Death|yungas road; 4 Chuysky Trakt; 4 Georgian Military Road
+
+@voyage dday | The Longest Day | From D-Day to the Elbe · Portsmouth to Torgau · 1944–1945
+? Places | Name a city in France.
+1 Paris; 1 Marseille; 1 Lyon; 1 Nice; 1 Bordeaux;
+2 Toulouse; 2 Lille; 2 Strasbourg; 2 Nantes; 2 Montpellier; 2 Cannes; 2 Versailles; 2 Calais; 2 Dunkirk|dunkerque;
+3 Rennes; 3 Reims|rheims; 3 Le Havre; 3 Avignon; 3 Caen; 3 Rouen; 3 Cherbourg; 3 Grenoble; 3 Dijon; 3 Orléans|orleans; 3 Tours; 3 Brest; 3 Toulon; 3 Saint-Malo|st malo; 3 Bayeux; 3 Amiens; 3 Metz; 3 Nancy; 3 Vichy; 3 Verdun; 3 Lourdes; 3 Aix-en-Provence; 3 Arles; 3 Nîmes|nimes; 3 Carcassonne; 3 La Rochelle; 3 Limoges;
+4 Clermont-Ferrand; 4 Saint-Étienne|saint etienne; 4 Perpignan; 4 Biarritz; 4 Ajaccio; 4 Chartres; 4 Annecy; 4 Chamonix; 4 Colmar; 4 Le Mans; 4 Angers; 4 Poitiers; 4 Besançon|besancon; 4 Mulhouse; 4 Sainte-Mère-Église|sainte mere eglise
+? Power | Name a military operation or war plan of World War II.
+1 D-Day|d day; 1 Operation Overlord|overlord; 1 Operation Barbarossa|barbarossa; 1 Manhattan Project;
+2 Operation Market Garden|market garden; 2 Operation Torch|torch; 2 Operation Dynamo|dunkirk evacuation; 2 Operation Sea Lion|sea lion; 2 Blitzkrieg; 2 Battle of the Bulge|ardennes offensive|wacht am rhein; 2 Lend-Lease|lend lease; 2 Doolittle Raid; 2 Island hopping|leapfrogging;
+3 Operation Neptune|neptune; 3 Operation Husky|husky; 3 Operation Bagration|bagration; 3 Operation Cobra; 3 Operation Dragoon|dragoon; 3 Operation Avalanche; 3 Operation Downfall|downfall; 3 Operation Fortitude|fortitude; 3 Operation Valkyrie|valkyrie|july 20 plot; 3 Operation Iceberg; 3 Operation Typhoon; 3 Operation Uranus; 3 Operation Citadel|kursk offensive; 3 Operation Mincemeat; 3 Operation Chastise|dambusters raid; 3 Operation Shingle|anzio landing; 3 Operation Jubilee|dieppe raid; 3 Case Yellow|fall gelb; 3 Case White|fall weiss; 3 Case Blue|fall blau; 3 Operation Ichi-Go|ichi-go; 3 Operation U-Go|u-go; 3 Mulberry harbours|mulberry harbors;
+4 Operation Plunder; 4 Operation Varsity; 4 Operation Bodyguard; 4 Operation Pedestal; 4 Operation Crusader; 4 Operation Compass; 4 Operation Weserübung|weserubung; 4 Operation Goodwood; 4 Operation Pointblank; 4 Operation Gomorrah; 4 Operation Ten-Go|ten-go; 4 Operation Matterhorn; 4 Operation Grenade
+? Society | Name a job someone did in the armed forces or on the home front during World War II.
+1 Soldier; 1 Nurse; 1 Pilot; 1 Sailor; 1 Factory worker;
+2 Medic; 2 Mechanic; 2 Codebreaker; 2 Radio operator; 2 Spy; 2 Cook; 2 Engineer; 2 Paratrooper; 2 Doctor; 2 Driver|truck driver; 2 Farmer|land girl; 2 Riveter|rosie the riveter|welder; 2 War correspondent|journalist|reporter;
+3 Navigator; 3 Gunner; 3 Tank crew|tank commander; 3 Translator|interpreter; 3 Photographer; 3 Air raid warden; 3 Firefighter; 3 Chaplain; 3 Ferry pilot|wasp; 3 Clerk|typist|secretary; 3 Telephone operator|switchboard operator; 3 Munitions worker; 3 Shipbuilder; 3 Code talker; 3 Military police|mp; 3 Quartermaster; 3 Signaller|signalman; 3 Meteorologist|weather forecaster; 3 Frogman|diver;
+4 Bombardier; 4 Radar operator; 4 Sapper; 4 Coastwatcher; 4 Censor; 4 Fire watcher; 4 Cryptanalyst
+? Geography | Name a river in Europe.
+1 Danube; 1 Rhine; 1 Thames; 1 Seine; 1 Volga;
+2 Loire; 2 Rhône|rhone; 2 Elbe; 2 Po; 2 Tiber; 2 Dnieper|dnipro; 2 Vistula; 2 Oder; 2 Don; 2 Tagus|tejo|tajo; 2 Neva;
+3 Ebro; 3 Arno; 3 Douro|duero; 3 Guadalquivir; 3 Garonne; 3 Meuse|maas; 3 Moselle|mosel; 3 Main; 3 Shannon; 3 Severn; 3 Tyne; 3 Dniester; 3 Ural; 3 Daugava|western dvina; 3 Neman|nemunas; 3 Inn; 3 Sava; 3 Drava; 3 Tisza; 3 Mersey; 3 Clyde; 3 Weser; 3 Scheldt; 3 Somme; 3 Marne;
+4 Northern Dvina; 4 Pechora; 4 Kama; 4 Oka; 4 Maritsa|evros; 4 Struma; 4 Vardar; 4 Prut; 4 Mures; 4 Guadiana; 4 Dordogne; 4 Orne; 4 Waal; 4 Ruhr; 4 Spree; 4 Liffey; 4 Glomma; 4 Kemijoki
+? Wild card | Name a kind of cheese.
+1 Cheddar; 1 Mozzarella; 1 Parmesan|parmigiano reggiano; 1 Swiss cheese|swiss;
+2 Brie; 2 Camembert; 2 Gouda; 2 Feta; 2 Cream cheese; 2 Blue cheese; 2 Cottage cheese; 2 Ricotta; 2 Edam; 2 American cheese; 2 Goat cheese|chevre; 2 String cheese;
+3 Emmental|emmentaler; 3 Gruyère|gruyere; 3 Roquefort; 3 Mascarpone; 3 Halloumi; 3 Manchego; 3 Pecorino; 3 Gorgonzola; 3 Stilton; 3 Provolone; 3 Monterey Jack; 3 Colby; 3 Pepper jack; 3 Havarti; 3 Paneer; 3 Burrata; 3 Raclette; 3 Comté|comte; 3 Queso fresco; 3 Oaxaca cheese|quesillo; 3 Cotija; 3 Jarlsberg; 3 Limburger; 3 Asiago; 3 Fontina;
+4 Wensleydale; 4 Red Leicester; 4 Pont-l'Évêque|pont l eveque; 4 Livarot; 4 Neufchâtel|neufchatel; 4 Reblochon; 4 Taleggio; 4 Leerdammer; 4 Gjetost|brunost; 4 Caerphilly; 4 Double Gloucester; 4 Époisses|epoisses; 4 Tilsit; 4 Mimolette

@@ -161,3 +161,57 @@
 2 Urdu; 2 Ottoman Turkish|turkish|ottoman; 2 Pashto; 2 Dari;
 3 Malay|jawi; 3 Swahili; 3 Hausa; 3 Kurdish|sorani; 3 Uyghur|uighur; 3 Sindhi; 3 Punjabi|shahmukhi; 3 Kashmiri; 3 Balochi|baluchi;
 4 Azerbaijani|azeri; 4 Chagatai; 4 Kazakh; 4 Somali; 4 Berber|amazigh|tamazight; 4 Fula|fulani|fulfulde; 4 Wolof; 4 Aljamiado|spanish; 4 Tatar; 4 Bosnian|arebica; 4 Tajik; 4 Uzbek; 4 Turkmen; 4 Kyrgyz; 4 Mandinka; 4 Saraiki
+
+@voyage kamikaze | The Divine Wind | Kublai Khan's invasion of Japan · Dadu to Hakata Bay · 1281
+? Society | Name a person, group, idea, or object connected with the samurai of Japan before 1450.
+1 Katana|samurai sword; 1 Shogun; 1 Bushido; 1 Armor|armour|yoroi;
+2 Daimyo; 2 Bow|yumi|longbow; 2 Horse; 2 Helmet|kabuto; 2 Shogunate|bakufu; 2 Ronin; 2 Emperor|tenno; 2 Loyalty; 2 Zen Buddhism|zen; 2 Kamakura shogunate|kamakura; 2 Minamoto Yoritomo|yoritomo;
+3 Ashikaga shogunate|ashikaga|muromachi shogunate; 3 Hojo clan|hojo; 3 Minamoto clan|minamoto; 3 Taira clan|taira; 3 Genpei War|gempei war; 3 Naginata; 3 Tanto; 3 Mounted archery|yabusame; 3 Vassal; 3 Honor|honour; 3 Feudalism; 3 Kyoto; 3 Tale of the Heike|heike monogatari; 3 Ashikaga Takauji|takauji; 3 Hojo Tokimune|tokimune; 3 Tea|green tea;
+4 Shikken; 4 Shugo; 4 Jito; 4 Gokenin; 4 Tomoe Gozen; 4 Minamoto Yoshitsune|yoshitsune; 4 Kusunoki Masashige; 4 Noh|noh theater; 4 Eisai; 4 Dogen; 4 Kemari; 4 Sode; 4 Do-maru|domaru
+? Places | Name a city in Japan or Korea today.
+1 Tokyo; 1 Seoul; 1 Osaka; 1 Kyoto; 1 Busan|pusan; 1 Hiroshima;
+2 Nagasaki; 2 Yokohama; 2 Nagoya; 2 Sapporo; 2 Kobe; 2 Fukuoka; 2 Nara; 2 Incheon; 2 Pyongyang; 2 Okinawa|naha;
+3 Sendai; 3 Kamakura; 3 Kawasaki; 3 Kitakyushu; 3 Chiba; 3 Saitama; 3 Niigata; 3 Kanazawa; 3 Kagoshima; 3 Kumamoto; 3 Okayama; 3 Shizuoka; 3 Hamamatsu; 3 Hakodate; 3 Nikko; 3 Daegu|taegu; 3 Daejeon|taejon; 3 Gwangju|kwangju; 3 Ulsan; 3 Suwon; 3 Gyeongju|kyongju; 3 Jeju|cheju; 3 Kaesong; 3 Jeonju|chonju;
+4 Changwon|masan; 4 Pohang; 4 Andong; 4 Gangneung; 4 Chuncheon; 4 Sokcho; 4 Wonsan; 4 Hamhung; 4 Chongjin; 4 Sinuiju; 4 Nagano; 4 Matsuyama; 4 Takamatsu; 4 Himeji; 4 Hakata; 4 Shimonoseki
+? Power | Name a dynasty or kingdom of China, Korea, or Japan before 1450.
+1 Song dynasty|song; 1 Yuan dynasty|yuan; 1 Ming dynasty|ming; 1 Tang dynasty|tang; 1 Han dynasty|han;
+2 Qin dynasty|qin; 2 Zhou dynasty|zhou; 2 Shang dynasty|shang; 2 Sui dynasty|sui; 2 Goryeo|koryo; 2 Joseon|choson; 2 Silla; 2 Kamakura shogunate; 2 Ashikaga shogunate|muromachi;
+3 Jin dynasty|jin|jurchen jin; 3 Liao dynasty|liao|khitan; 3 Western Xia|xi xia|tangut; 3 Southern Song; 3 Goguryeo|koguryo; 3 Baekje|paekche; 3 Gojoseon|kojoseon; 3 Balhae|bohai|parhae; 3 Heian; 3 Nara period; 3 Yamato; 3 Xia dynasty|xia; 3 Gaya; 3 Ryukyu Kingdom|ryukyu;
+4 Northern Wei; 4 Later Zhou; 4 Northern Song; 4 Western Han; 4 Eastern Han; 4 Wu Zhou; 4 Dali Kingdom|dali; 4 Nanzhao; 4 Taebong; 4 Later Baekje; 4 Asuka
+? Wild card | Name a kind of natural disaster or extreme weather.
+1 Earthquake; 1 Tsunami; 1 Hurricane; 1 Tornado; 1 Flood; 1 Volcanic eruption|volcano;
+2 Typhoon; 2 Cyclone; 2 Drought; 2 Wildfire|forest fire|bushfire; 2 Landslide; 2 Avalanche; 2 Blizzard; 2 Heat wave|heatwave;
+3 Mudslide; 3 Sandstorm|dust storm; 3 Hailstorm|hail; 3 Storm surge; 3 Thunderstorm|lightning; 3 Ice storm; 3 Cold wave|cold snap; 3 Locust swarm|locusts; 3 Monsoon flood; 3 Famine; 3 Sinkhole; 3 Snowstorm;
+4 Derecho; 4 Lahar; 4 Pyroclastic flow; 4 Waterspout; 4 Flash flood; 4 Dzud; 4 Glacial lake outburst flood|glof; 4 Haboob; 4 Polar vortex
+? Tech | Name a part of a ship or a piece of sailing gear.
+1 Sail; 1 Mast; 1 Anchor; 1 Rudder; 1 Deck; 1 Hull;
+2 Keel; 2 Oar; 2 Bow; 2 Stern; 2 Rope; 2 Rigging; 2 Compass; 2 Crow's nest|crows nest; 2 Helm|wheel|ship's wheel; 2 Cabin;
+3 Tiller; 3 Hold|cargo hold; 3 Bulkhead|watertight compartment; 3 Bilge; 3 Boom; 3 Yard|yardarm; 3 Mainsail; 3 Jib; 3 Ballast; 3 Gangplank; 3 Porthole; 3 Galley; 3 Figurehead; 3 Flag; 3 Lantern; 3 Plank;
+4 Capstan; 4 Windlass; 4 Bowsprit; 4 Sounding line|lead line; 4 Batten; 4 Forecastle|fo'c'sle; 4 Sternpost; 4 Oarlock|rowlock; 4 Lateen sail; 4 Shroud; 4 Halyard; 4 Spar
+
+@voyage louis | The King's Crusade | Louis IX's Seventh Crusade · Aigues-Mortes to Acre · 1248–1250
+? Power | Name a crusade, a crusading military order, or a person connected with the Crusades.
+1 Saladin|salah ad-din; 1 Richard the Lionheart|richard i|richard lionheart; 1 Pope Urban II|urban ii; 1 First Crusade; 1 Knights Templar|templars;
+2 Second Crusade; 2 Third Crusade; 2 Fourth Crusade; 2 Knights Hospitaller|hospitallers; 2 Teutonic Knights; 2 Louis IX|saint louis; 2 Reconquista; 2 Children's Crusade|childrens crusade;
+3 Fifth Crusade; 3 Sixth Crusade; 3 Seventh Crusade; 3 Eighth Crusade; 3 Albigensian Crusade; 3 Northern Crusades|baltic crusades; 3 Frederick Barbarossa|barbarossa|frederick i; 3 Frederick II; 3 Godfrey of Bouillon; 3 Peter the Hermit; 3 Baybars|baibars; 3 Bernard of Clairvaux; 3 Philip II Augustus|philip augustus; 3 Pope Innocent III|innocent iii; 3 Eleanor of Aquitaine; 3 Alexios I Komnenos|alexios komnenos|alexius;
+4 Bohemond; 4 Raymond of Toulouse; 4 Baldwin of Boulogne|baldwin i; 4 Nur ad-Din|nur al-din; 4 Zengi; 4 Enrico Dandolo|dandolo; 4 Anna Komnene|anna comnena; 4 Shajar al-Durr; 4 Simon de Montfort; 4 Tancred; 4 Kilij Arslan; 4 Order of Santiago; 4 Order of Calatrava
+? Places | Name an island in the Mediterranean Sea.
+1 Sicily; 1 Sardinia; 1 Corsica; 1 Cyprus; 1 Crete; 1 Malta;
+2 Rhodes; 2 Mallorca|majorca; 2 Ibiza; 2 Elba; 2 Corfu; 2 Santorini|thera; 2 Mykonos; 2 Capri; 2 Menorca|minorca;
+3 Lesbos|lesvos; 3 Chios; 3 Samos; 3 Naxos; 3 Kos; 3 Gozo; 3 Ischia; 3 Lampedusa; 3 Euboea|evia; 3 Ithaca; 3 Kefalonia|cephalonia; 3 Zakynthos|zante; 3 Djerba|jerba; 3 Formentera; 3 Paros; 3 Delos; 3 Patmos;
+4 Lemnos; 4 Aegina; 4 Stromboli; 4 Lipari; 4 Pantelleria; 4 Comino; 4 Hydra; 4 Karpathos; 4 Kythira; 4 Thasos; 4 Samothrace; 4 Giglio; 4 Vulcano; 4 Salamis
+? Tech | Name a part of a medieval castle or cathedral.
+1 Moat; 1 Drawbridge; 1 Tower; 1 Wall|curtain wall; 1 Stained glass|stained glass window;
+2 Keep|donjon; 2 Gatehouse|gate; 2 Portcullis; 2 Battlements|crenellations; 2 Dungeon; 2 Courtyard|bailey; 2 Great hall; 2 Spire; 2 Altar; 2 Gargoyle; 2 Bell tower|belfry; 2 Arrow slit|arrow loop;
+3 Turret; 3 Barbican; 3 Parapet; 3 Motte; 3 Murder holes; 3 Chapel; 3 Flying buttress; 3 Buttress; 3 Nave; 3 Apse; 3 Crypt; 3 Choir; 3 Transept; 3 Rose window; 3 Pointed arch|arch; 3 Ribbed vault|vault; 3 Cloister; 3 Pulpit; 3 Aisle;
+4 Machicolation; 4 Merlon; 4 Postern; 4 Ambulatory; 4 Clerestory; 4 Triforium; 4 Narthex; 4 Tympanum; 4 Chancel; 4 Sacristy; 4 Garderobe; 4 Solar; 4 Ward
+? Belief | Name a Christian saint.
+1 Saint Peter|peter|st peter; 1 Saint Paul|paul|st paul; 1 Virgin Mary|mary|saint mary; 1 Saint Nicholas|nicholas|st nicholas; 1 Saint Patrick|patrick|st patrick; 1 Joan of Arc;
+2 Francis of Assisi|saint francis|st francis; 2 Saint George|george|st george; 2 Saint Valentine|valentine; 2 Thomas Aquinas|aquinas; 2 Augustine|saint augustine|augustine of hippo; 2 Mother Teresa|teresa of calcutta; 2 John the Baptist; 2 Matthew|saint matthew; 2 Mark|saint mark; 2 Luke|saint luke; 2 John the Apostle|saint john; 2 Andrew|saint andrew; 2 Joseph|saint joseph; 2 Mary Magdalene; 2 Louis IX|saint louis;
+3 James|saint james|santiago; 3 Thomas the Apostle|doubting thomas|saint thomas; 3 Benedict|saint benedict; 3 Dominic|saint dominic; 3 Clare of Assisi|saint clare; 3 Catherine of Siena; 3 Teresa of Avila; 3 Ignatius of Loyola|ignatius; 3 Francis Xavier; 3 Thomas More; 3 Jerome; 3 Ambrose; 3 Gregory the Great; 3 Anthony of Padua; 3 Stephen|saint stephen; 3 Christopher|saint christopher; 3 Michael the Archangel|saint michael; 3 Pope John Paul II|john paul ii; 3 Bernard of Clairvaux; 3 Cyril and Methodius|cyril|methodius;
+4 Hildegard of Bingen|hildegard; 4 Bede|venerable bede; 4 Boniface; 4 Columba; 4 Brigid of Kildare|brigid|bridget; 4 Agnes; 4 Lucy|santa lucia; 4 Cecilia; 4 Sebastian; 4 Barbara; 4 Elizabeth of Hungary; 4 Olga of Kiev; 4 Vladimir the Great; 4 Wenceslas; 4 Stephen of Hungary; 4 Thomas Becket|becket; 4 Edward the Confessor; 4 Juan Diego; 4 Rose of Lima; 4 Martin de Porres; 4 Kateri Tekakwitha
+? Wild card | Name a French food, dish, or drink.
+1 Croissant; 1 Baguette; 1 Crêpe|crepe; 1 Cheese; 1 Wine;
+2 Macaron; 2 Éclair|eclair; 2 Quiche; 2 Ratatouille; 2 Escargot|snails; 2 Brie; 2 Camembert; 2 Crème brûlée|creme brulee; 2 Champagne; 2 Pain au chocolat|chocolate croissant; 2 Soufflé|souffle; 2 French onion soup|onion soup; 2 Croque monsieur;
+3 Bouillabaisse; 3 Coq au vin; 3 Beef bourguignon|boeuf bourguignon; 3 Foie gras; 3 Cassoulet; 3 Roquefort; 3 Brioche; 3 Madeleine; 3 Mille-feuille; 3 Profiterole; 3 Tarte tatin; 3 Niçoise salad|salade nicoise; 3 Crème caramel|flan; 3 Gratin dauphinois|gratin; 3 Fondue; 3 Raclette; 3 Steak frites; 3 Mousse au chocolat|chocolate mousse; 3 Cognac; 3 Dijon mustard|mustard; 3 Duck confit|confit de canard;
+4 Pot-au-feu; 4 Tartiflette; 4 Clafoutis; 4 Galette; 4 Vichyssoise; 4 Béarnaise sauce|bearnaise; 4 Hollandaise; 4 Pâté|pate; 4 Terrine; 4 Rillettes; 4 Blanquette de veau; 4 Socca; 4 Calvados; 4 Pastis; 4 Kir; 4 Canelé|canele; 4 Kouign-amann
