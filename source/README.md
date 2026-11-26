@@ -26,9 +26,9 @@ Matching: case/accent/punctuation-insensitive, plural-tolerant, typo tolerance 1
 - index.html: engine (inline JS); fetches data/ and maps/ relative to the artifact.
 - Publish: publish_files to the slug above, patch mode, with new data/maps files.
 
-## Coverage as of 26 Nov 2026
-75 voyages written: Unit 4 has 11; every other unit has 8.
-Unique voyages run through Day 72 (Tue 2 Feb 2027); after that a unit's voyages repeat until more are added.
+## Coverage as of 27 Nov 2026
+93 voyages written: Unit 4 has 13; every other unit has 10.
+Unique voyages run through Day 90 (Sat 20 Feb 2027); after that a unit's voyages repeat until more are added.
 Next batches should add 2 voyages per unit (18 per batch) and reuse routes where sensible.
 Build: build.py reads maps/ and writes data/ next to itself, so run it with symlinks
 (source/maps -> ../maps, source/data -> ../data) or copy the output into the repo folders.
