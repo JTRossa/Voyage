@@ -215,3 +215,57 @@
 2 Habsburg Monarchy|austria|habsburg empire; 2 Prussia|brandenburg-prussia|brandenburg; 2 Poland-Lithuania|polish-lithuanian commonwealth|poland; 2 Sweden|swedish empire; 2 Dutch Republic|netherlands|united provinces; 2 Venice|republic of venice; 2 Ottoman Empire; 2 Scotland; 2 Great Britain; 2 Denmark-Norway|denmark;
 3 Castile; 3 Aragon; 3 Genoa|republic of genoa; 3 Florence|tuscany; 3 Papal States; 3 Kingdom of Naples|naples; 3 Savoy|piedmont; 3 Duchy of Milan|milan; 3 Hungary; 3 Bohemia; 3 Bavaria; 3 Saxony; 3 Swiss Confederation|switzerland; 3 Ireland|kingdom of ireland; 3 Navarre; 3 Hanover;
 4 Crimean Khanate; 4 Moldavia; 4 Wallachia; 4 Transylvania; 4 Republic of Ragusa|ragusa|dubrovnik; 4 Duchy of Burgundy|burgundy; 4 Brittany; 4 Novgorod Republic|novgorod; 4 Livonian Order|livonia; 4 Duchy of Lorraine|lorraine; 4 Courland; 4 Kingdom of Sicily|sicily; 4 Montenegro
+
+@voyage grandtrunk | The Grand Trunk Road | Sher Shah Suri rebuilds the great highway · Sonargaon to Peshawar · 1540–1545
+? Power | Name a state, dynasty, or people that ruled part of South Asia between 1450 and 1750.
+1 Mughal Empire|mughals|mughal; 1 Maratha Empire|marathas|maratha; 1 British East India Company|east india company|eic;
+2 Sur Empire|sur dynasty|sher shah suri; 2 Lodi dynasty|lodi|lodis; 2 Vijayanagara|vijayanagar|vijayanagara empire; 2 Rajputs|rajput kingdoms|rajput; 2 Bijapur Sultanate|bijapur|adil shahi; 2 Golconda Sultanate|golconda|qutb shahi; 2 Ahmadnagar Sultanate|ahmadnagar|nizam shahi; 2 Portuguese|portuguese india|estado da india; 2 Sikhs|sikh khalsa|khalsa;
+3 Bahmani Sultanate|bahmani; 3 Bengal Sultanate; 3 Gujarat Sultanate; 3 Ahom kingdom|ahom; 3 Mewar; 3 Marwar|jodhpur; 3 Amber|jaipur; 3 Kingdom of Mysore|mysore; 3 Nayaks of Madurai|madurai nayaks; 3 Thanjavur Nayaks; 3 Hyderabad State|nizam of hyderabad|nizams; 3 Kingdom of Kandy|kandy; 3 Travancore; 3 Zamorin of Calicut|zamorin|calicut; 3 Dutch East India Company|voc|dutch; 3 French East India Company|french; 3 Durrani Empire|durranis|ahmad shah durrani; 3 Kashmir Sultanate; 3 Berar Sultanate|berar; 3 Bidar Sultanate|bidar; 3 Malwa Sultanate; 3 Kingdom of Cochin|cochin;
+4 Bundelas|bundelkhand; 4 Jats of Bharatpur|bharatpur; 4 Garhwal Kingdom|garhwal; 4 Koch kingdom|koch; 4 Mrauk U|arakan; 4 Gorkha Kingdom|gorkha; 4 Malla kings of Nepal|mallas; 4 Kingdom of Kotte|kotte; 4 Jaffna kingdom|jaffna
+? Society | Name a building or facility you might find along a major road or trade route before 1800.
+1 Inn; 1 Well|wells; 1 Bridge; 1 Market|bazaar; 1 Fort|fortress;
+2 Caravanserai|caravansary|sarai|serai; 2 Mosque; 2 Temple; 2 Shrine; 2 Stable|stables; 2 Rest house|dharamshala; 2 Milestone|kos minar; 2 Post station|relay station|dak chowki; 2 Toll gate|toll booth; 2 Customs house|customs post; 2 Tavern; 2 Ferry crossing|ferry;
+3 Stepwell|baoli|vav; 3 Water tank|reservoir|tank; 3 Watchtower; 3 Checkpoint; 3 Police post|thana; 3 Shade trees|trees; 3 Gate|city gate; 3 Bathhouse|hammam; 3 Teahouse|tea house|chaikhana; 3 Han|khan; 3 Funduq; 3 Food stall|eating house; 3 Blacksmith|forge; 3 Warehouse; 3 Church; 3 Monastery; 3 Hospital;
+4 Ribat; 4 Ryokan|honjin; 4 Lighthouse; 4 Garden|baradari; 4 Gurdwara; 4 Chhatri
+? Places | Name a city in Pakistan, Afghanistan, or Bangladesh.
+1 Lahore; 1 Karachi; 1 Islamabad; 1 Kabul; 1 Dhaka|dacca;
+2 Peshawar; 2 Multan; 2 Rawalpindi; 2 Quetta; 2 Faisalabad; 2 Kandahar; 2 Herat; 2 Mazar-i-Sharif|mazar i sharif; 2 Chittagong|chattogram; 2 Hyderabad;
+3 Sialkot; 3 Gujranwala; 3 Thatta; 3 Sukkur; 3 Bahawalpur; 3 Gwadar; 3 Abbottabad; 3 Jalalabad; 3 Ghazni; 3 Balkh; 3 Kunduz; 3 Bamiyan; 3 Khulna; 3 Rajshahi; 3 Sylhet; 3 Comilla|cumilla; 3 Barisal|barishal; 3 Cox's Bazar|coxs bazar; 3 Sonargaon; 3 Attock; 3 Gilgit; 3 Mardan; 3 Rangpur; 3 Mymensingh; 3 Narayanganj;
+4 Bogra|bogura; 4 Jessore|jashore; 4 Chitral; 4 Skardu; 4 Mingora; 4 Larkana; 4 Dera Ismail Khan; 4 Taxila; 4 Lashkar Gah; 4 Charikar
+? Belief | Name a religious leader, saint, poet, or reformer who was active between 1450 and 1750.
+1 Martin Luther|luther; 1 John Calvin|calvin; 1 Guru Nanak;
+2 Ignatius of Loyola|ignatius loyola; 2 Francis Xavier; 2 Kabir; 2 Mirabai|meera bai; 2 Tulsidas; 2 Huldrych Zwingli|zwingli; 2 Erasmus|desiderius erasmus; 2 John Knox; 2 Thomas More; 2 Guru Gobind Singh; 2 Guru Arjan|guru arjan dev; 2 Matteo Ricci; 2 Bartolomé de las Casas|bartolome de las casas|las casas; 2 Teresa of Ávila|teresa of avila;
+3 Surdas; 3 Chaitanya|chaitanya mahaprabhu; 3 John of the Cross; 3 Ahmad Sirhindi; 3 Shah Waliullah; 3 Sabbatai Zevi; 3 Baal Shem Tov; 3 Muhammad ibn Abd al-Wahhab|ibn abd al wahhab; 3 Wang Yangming; 3 Menno Simons; 3 George Fox; 3 John Wesley; 3 Girolamo Savonarola|savonarola; 3 Dara Shikoh; 3 Tukaram; 3 Isaac Luria; 3 Joseph Karo|joseph caro; 3 Thomas Cranmer; 3 Jonathan Edwards; 3 Anne Hutchinson; 3 Sor Juana Inés de la Cruz|sor juana|juana ines de la cruz; 3 Matsuo Bashō|basho; 3 Ali-Shir Nava'i|ali shir navai|navai; 3 Fuzuli; 3 Pope Leo X; 3 Guru Angad; 3 Guru Tegh Bahadur;
+4 Eknath; 4 Samarth Ramdas|ramdas; 4 Vallabhacharya|vallabha; 4 Sankardev|srimanta sankardev; 4 Cotton Mather; 4 Pope Paul III; 4 Beatriz Kimpa Vita|kimpa vita; 4 Philip Melanchthon|melanchthon
+? Wild card | Name a sweet, dessert, or snack from South Asia.
+1 Samosa; 1 Gulab jamun; 1 Jalebi; 1 Ladoo|laddu|laddoo;
+2 Barfi|burfi; 2 Kheer|payasam; 2 Rasgulla|rosogolla; 2 Halwa|gajar halwa|gajar ka halwa; 2 Kulfi; 2 Pakora|pakoda|bhaji; 2 Pani puri|golgappa|puchka; 2 Bhel puri|bhel; 2 Chaat; 2 Rasmalai; 2 Lassi; 2 Papadum|papad|poppadom;
+3 Sandesh; 3 Mysore pak; 3 Peda; 3 Soan papdi; 3 Kachori; 3 Vada pav; 3 Dhokla; 3 Murukku|chakli; 3 Shrikhand; 3 Modak; 3 Falooda; 3 Kaju katli; 3 Chikki; 3 Imarti; 3 Malpua; 3 Sheer khurma; 3 Firni|phirni; 3 Puran poli; 3 Bhujia|sev|namkeen; 3 Pav bhaji; 3 Mishti doi; 3 Banana chips; 3 Vada|medu vada;
+4 Kalakand; 4 Cham cham; 4 Gujiya; 4 Petha; 4 Ghevar; 4 Shakarpara; 4 Unniyappam; 4 Kozhukattai; 4 Chhena poda
+
+@voyage tavernier | The Diamond Merchant | Jean-Baptiste Tavernier · Isfahan to Golconda · 1640s–1660s
+? Society | Name a role or job at a royal court between 1450 and 1750.
+1 Queen; 1 Advisor|adviser; 1 Guard|bodyguard|royal guard; 1 Servant;
+2 Vizier|grand vizier|wazir; 2 Chancellor; 2 Treasurer; 2 Eunuch; 2 Jester|fool; 2 Court painter|painter|artist; 2 Musician; 2 Poet|court poet; 2 Astrologer; 2 Physician|doctor; 2 Cook|chef; 2 Food taster|taster; 2 Scribe|secretary; 2 Translator|interpreter|dragoman; 2 Ambassador|envoy; 2 Courtier; 2 Concubine;
+3 Page; 3 Lady-in-waiting|lady in waiting; 3 Chamberlain; 3 Steward; 3 Mansabdar; 3 Diwan; 3 Valide sultan|queen mother; 3 Sheikh ul-Islam|sheikh al islam; 3 Qadi|judge; 3 Falconer; 3 Huntsman; 3 Tutor; 3 Wet nurse|nurse; 3 Librarian; 3 Historian|court historian; 3 Calligrapher; 3 Architect; 3 Jeweler|goldsmith; 3 Astronomer; 3 Master of ceremonies; 3 Keeper of the seal|keeper of the privy seal; 3 Janissary;
+4 Mir bakhshi|bakhshi; 4 Khan-i-saman|khan i saman; 4 Kizlar agha|chief black eunuch; 4 Silahdar|sword bearer; 4 Groom of the stool; 4 Cupbearer
+? Geography | Name a mountain range, plateau, or desert in Asia.
+1 Himalayas|himalaya; 1 Gobi Desert|gobi; 1 Ural Mountains|urals;
+2 Hindu Kush; 2 Karakoram; 2 Deccan Plateau|deccan; 2 Tibetan Plateau|tibet plateau; 2 Thar Desert|thar; 2 Taklamakan Desert|taklamakan; 2 Arabian Desert; 2 Zagros Mountains|zagros; 2 Caucasus Mountains|caucasus; 2 Tian Shan|tien shan; 2 Western Ghats; 2 Pamir Mountains|pamirs|pamir;
+3 Alborz|elburz; 3 Eastern Ghats; 3 Vindhya Range|vindhyas; 3 Satpura Range|satpura; 3 Aravalli Range|aravallis|aravalli; 3 Karakum Desert|karakum; 3 Kyzylkum Desert|kyzylkum; 3 Dasht-e Kavir|dasht e kavir; 3 Dasht-e Lut|dasht e lut; 3 Rub' al Khali|rub al khali|empty quarter; 3 Altai Mountains|altai; 3 Kunlun Mountains|kunlun; 3 Taurus Mountains|taurus; 3 Pontic Mountains; 3 Sulaiman Mountains|sulaiman range; 3 Iranian Plateau; 3 Anatolian Plateau; 3 Loess Plateau; 3 Annamite Range|truong son|annamites; 3 Qinling Mountains|qinling; 3 Syrian Desert; 3 Negev; 3 Mongolian Plateau; 3 Nilgiri Hills|nilgiris;
+4 Kirthar Range; 4 Kopet Dag; 4 Greater Khingan|da hinggan; 4 Japanese Alps; 4 Hijaz Mountains|hejaz mountains; 4 Shan Plateau|shan hills; 4 Arakan Mountains|arakan yoma; 4 Chota Nagpur Plateau|chota nagpur; 4 Malwa Plateau; 4 Khasi Hills
+? Culture | Name an art, craft, or luxury product made in the Islamic world or India between 1450 and 1750.
+1 Carpets|rugs|persian carpets|persian rugs; 1 Miniature painting|miniatures|mughal miniatures|persian miniatures; 1 Calligraphy;
+2 Tilework|tiles|iznik tiles; 2 Silk; 2 Cotton textiles|cotton cloth|calico|chintz; 2 Muslin; 2 Jewelry|jewellery; 2 Pottery|ceramics|iznik pottery; 2 Metalwork; 2 Manuscripts|illuminated manuscripts|book illumination; 2 Mosaics; 2 Kashmir shawls|cashmere shawls|shawls; 2 Brocade; 2 Embroidery;
+3 Pietra dura|marble inlay; 3 Damascus steel|damascene; 3 Enamel|enamelwork; 3 Lacquer|lacquerware; 3 Glassware|glass; 3 Ivory carving; 3 Jade carving|mughal jade; 3 Woodcarving; 3 Block printing|block printed textiles; 3 Bidriware|bidri; 3 Kalamkari; 3 Zardozi; 3 Ebru|paper marbling|marbled paper; 3 Perfume|attar|rose water; 3 Astrolabes; 3 Daggers|swords|arms and armor; 3 Kaftans|ottoman kaftans; 3 Mirror work; 3 Inlaid furniture; 3 Bookbinding; 3 Velvet;
+4 Tombak|gilded copper; 4 Koftgari; 4 Jali|carved stone screens; 4 Qalamdan|pen box; 4 Ikat; 4 Patola
+? Trade | Name a coin or currency used somewhere before 1800.
+1 Rupee; 1 Dinar; 1 Dirham; 1 Pound|pound sterling; 1 Peso|piece of eight|spanish dollar;
+2 Ducat; 2 Florin; 2 Real|reales; 2 Thaler|taler; 2 Shilling; 2 Penny|pence; 2 Guilder|gulden; 2 Livre; 2 Akçe|akce|asper; 2 Kuruş|kurus|piastre|piaster; 2 Toman; 2 Mohur; 2 Tael; 2 Cowrie shells|cowries|cowrie; 2 Doubloon; 2 Ruble|rouble; 2 Kopek|kopeck; 2 Lira;
+3 Écu|ecu; 3 Sou; 3 Shahi; 3 Abbasi; 3 Pagoda|hun; 3 Dam; 3 Cash|wen|chinese cash coin; 3 Koban; 3 Ryō|ryo; 3 Mon; 3 Sequin|zecchino; 3 Escudo; 3 Sultani; 3 Cruzado; 3 Rial; 3 Ashrafi; 3 Larin; 3 Mark; 3 Groat; 3 Crown; 3 Sovereign; 3 Scudo; 3 Maravedí|maravedi; 3 Denga; 3 Fanam;
+4 Angel; 4 Daalder|rijksdaalder; 4 Louis d'or|louis dor; 4 Pistole; 4 Altın|altin; 4 Para; 4 Tanka
+? Wild card | Name a wild animal that lives in South Asia (or did within the last 500 years).
+1 Tiger|bengal tiger; 1 Elephant|asian elephant; 1 Cobra|king cobra; 1 Peacock|peafowl;
+2 Rhinoceros|rhino|indian rhinoceros; 2 Leopard; 2 Asiatic lion|lion; 2 Cheetah; 2 Sloth bear; 2 Python; 2 Crocodile|mugger crocodile; 2 Monkey|macaque|rhesus macaque; 2 Langur; 2 Snow leopard; 2 Red panda; 2 Mongoose; 2 Wild boar; 2 Water buffalo; 2 Wolf; 2 Jackal; 2 Hyena|striped hyena;
+3 Gharial; 3 Gaur|indian bison; 3 Nilgai|blue bull; 3 Blackbuck; 3 Chital|spotted deer; 3 Sambar|sambar deer; 3 Dhole|wild dog; 3 Pangolin; 3 Hornbill; 3 Flamingo; 3 Vulture; 3 Kingfisher; 3 Monitor lizard; 3 Himalayan black bear|black bear; 3 Yak; 3 Markhor; 3 Hoolock gibbon|gibbon; 3 Caracal; 3 Fishing cat; 3 Clouded leopard; 3 Barasingha|swamp deer; 3 Indian wild ass|khur; 3 Ganges river dolphin|river dolphin; 3 Krait;
+4 Great Indian bustard; 4 Lion-tailed macaque; 4 Nilgiri tahr; 4 Pygmy hog; 4 Takin; 4 Saltwater crocodile; 4 Russell's viper|russells viper

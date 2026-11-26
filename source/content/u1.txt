@@ -215,3 +215,57 @@
 2 Macaron; 2 Éclair|eclair; 2 Quiche; 2 Ratatouille; 2 Escargot|snails; 2 Brie; 2 Camembert; 2 Crème brûlée|creme brulee; 2 Champagne; 2 Pain au chocolat|chocolate croissant; 2 Soufflé|souffle; 2 French onion soup|onion soup; 2 Croque monsieur;
 3 Bouillabaisse; 3 Coq au vin; 3 Beef bourguignon|boeuf bourguignon; 3 Foie gras; 3 Cassoulet; 3 Roquefort; 3 Brioche; 3 Madeleine; 3 Mille-feuille; 3 Profiterole; 3 Tarte tatin; 3 Niçoise salad|salade nicoise; 3 Crème caramel|flan; 3 Gratin dauphinois|gratin; 3 Fondue; 3 Raclette; 3 Steak frites; 3 Mousse au chocolat|chocolate mousse; 3 Cognac; 3 Dijon mustard|mustard; 3 Duck confit|confit de canard;
 4 Pot-au-feu; 4 Tartiflette; 4 Clafoutis; 4 Galette; 4 Vichyssoise; 4 Béarnaise sauce|bearnaise; 4 Hollandaise; 4 Pâté|pate; 4 Terrine; 4 Rillettes; 4 Blanquette de veau; 4 Socca; 4 Calvados; 4 Pastis; 4 Kir; 4 Canelé|canele; 4 Kouign-amann
+
+@voyage camino | The Way of Saint James | Medieval pilgrims on the Camino · Paris to Santiago de Compostela · c. 1200s
+? Society | Name a person, duty, or institution in the feudal or manorial system of medieval Europe.
+1 Knight|knights; 1 Lord|lords; 1 Serf|serfs|serfdom; 1 King; 1 Vassal|vassals; 1 Peasant|peasants; 1 Manor; 1 Fief;
+2 Noble|nobles|nobility|aristocracy|aristocrat; 2 Castle; 2 Oath of fealty|fealty; 2 Homage; 2 Tithe; 2 Clergy|priest|priests; 2 Baron; 2 Duke; 2 Count; 2 Lady; 2 Squire; 2 Page; 2 Chivalry; 2 Monastery|monks|monk;
+3 Bishop; 3 Abbot; 3 Freeman|free peasant|yeoman; 3 Demesne; 3 Labor service|corvee; 3 Reeve; 3 Bailiff; 3 Earl; 3 Villein|villeins; 3 Military service|feudal levy; 3 Manor house; 3 Common land|commons; 3 Mill|lords mill; 3 Queen; 3 Steward; 3 Manorial court;
+4 Banalities; 4 Seneschal; 4 Scutage; 4 Heriot; 4 Marquis|margrave; 4 Liege lord|liege; 4 Subinfeudation; 4 Castellan
+? Places | Name a city or town in Spain or Portugal today.
+1 Madrid; 1 Barcelona; 1 Lisbon|lisboa; 1 Seville|sevilla; 1 Valencia; 1 Porto|oporto;
+2 Granada; 2 Córdoba|cordoba; 2 Toledo; 2 Bilbao; 2 Málaga|malaga; 2 Santiago de Compostela|santiago; 2 Salamanca; 2 Zaragoza|saragossa; 2 Pamplona; 2 Burgos; 2 San Sebastián|san sebastian|donostia; 2 Cádiz|cadiz; 2 Palma|palma de mallorca; 2 Coimbra; 2 Faro;
+3 León|leon; 3 Segovia; 3 Ávila|avila; 3 Valladolid; 3 Murcia; 3 Alicante; 3 Gijón|gijon; 3 Oviedo; 3 A Coruña|la coruna|coruna; 3 Vigo; 3 Braga; 3 Évora|evora; 3 Girona; 3 Tarragona; 3 Almería|almeria; 3 Logroño|logrono; 3 Mérida|merida; 3 Ronda; 3 Jerez|jerez de la frontera; 3 Ibiza; 3 Sintra; 3 Cuenca;
+4 Aveiro; 4 Guimarães|guimaraes; 4 Huesca; 4 Teruel; 4 Ponferrada; 4 Astorga; 4 Lugo; 4 Cáceres|caceres; 4 Badajoz; 4 Jaén|jaen; 4 Tomar
+? Belief | Name a practice, sacrament, or ritual of medieval Christianity.
+1 Baptism; 1 Prayer|praying; 1 Mass; 1 Communion|holy communion|eucharist; 1 Pilgrimage; 1 Confession|penance;
+2 Fasting|lent; 2 Marriage|matrimony; 2 Confirmation; 2 Last rites|extreme unction|anointing of the sick; 2 Holy orders|ordination; 2 Tithing; 2 Veneration of relics|relics; 2 Indulgences|indulgence; 2 Crusading|crusade; 2 Monasticism|becoming a monk|becoming a nun; 2 Christmas; 2 Easter; 2 Sign of the cross; 2 Rosary;
+3 Feast days|saints days; 3 Processions|procession; 3 Almsgiving|alms|charity; 3 Gregorian chant|chant|hymns; 3 Vow of poverty; 3 Celibacy; 3 Excommunication; 3 Advent; 3 Holy water; 3 Lighting candles|candles; 3 Liturgy of the hours|divine office; 3 Blessing|benediction; 3 Kneeling; 3 Preaching|sermons|sermon; 3 Icons|veneration of icons; 3 Interdict;
+4 Corpus Christi; 4 Rogation days; 4 Mystery plays; 4 Canonization; 4 Tonsure; 4 Lectio divina; 4 Matins; 4 Ash Wednesday
+? Tech | Name a technology or invention used in Europe between 1200 and 1450.
+1 Printing press|gutenberg press; 1 Windmill; 1 Compass; 1 Gunpowder; 1 Cannon;
+2 Mechanical clock|clock; 2 Eyeglasses|spectacles|glasses; 2 Heavy plow|heavy plough|moldboard plow; 2 Horse collar; 2 Watermill|water mill|waterwheel; 2 Crossbow; 2 Longbow; 2 Three-field system|crop rotation; 2 Stained glass; 2 Flying buttress; 2 Paper; 2 Astrolabe; 2 Stirrup; 2 Spinning wheel; 2 Horseshoe;
+3 Sternpost rudder|stern-post rudder|rudder; 3 Hourglass; 3 Blast furnace; 3 Pointed arch|gothic arch; 3 Rib vault|ribbed vault; 3 Trebuchet; 3 Plate armor; 3 Carrack; 3 Cog; 3 Double-entry bookkeeping; 3 Bill of exchange|letters of credit; 3 Arabic numerals|hindu-arabic numerals; 3 Hand cannon; 3 Treadwheel crane|crane; 3 Wheelbarrow; 3 Lateen sail;
+4 Fulling mill; 4 Portolan chart|portolan; 4 Oil painting; 4 Verge escapement|escapement; 4 Harrow; 4 Bombard; 4 Pipe organ
+? Wild card | Name a Spanish food or dish.
+1 Paella; 1 Tapas; 1 Churros; 1 Tortilla española|spanish omelette|tortilla espanola; 1 Gazpacho;
+2 Chorizo; 2 Jamón|jamon|jamon iberico|serrano ham; 2 Sangria; 2 Patatas bravas; 2 Croquetas|croquettes; 2 Flan; 2 Manchego; 2 Empanada|empanadas; 2 Albóndigas|albondigas|meatballs; 2 Pulpo a la gallega|pulpo|octopus; 2 Turrón|turron; 2 Crema catalana;
+3 Fabada|fabada asturiana; 3 Cocido|cocido madrileno; 3 Salmorejo; 3 Pimientos de Padrón|padron peppers; 3 Gambas al ajillo|garlic prawns; 3 Pan con tomate|pan tumaca; 3 Calamares|calamari; 3 Pisto; 3 Tarta de Santiago; 3 Horchata; 3 Migas; 3 Ajo blanco; 3 Morcilla; 3 Pintxos; 3 Escalivada; 3 Membrillo|quince paste; 3 Cava; 3 Sherry; 3 Rioja;
+4 Caldo gallego; 4 Fideuà|fideua; 4 Arroz negro; 4 Torrijas; 4 Ensaïmada|ensaimada; 4 Sobrasada; 4 Polvorones; 4 Marmitako
+
+@voyage conti | The Venetian in Vijayanagara | Niccolò de' Conti · Damascus to Vijayanagara · c. 1420
+? Power | Name a ruler, dynasty, or kingdom of South Asia between 1200 and 1450.
+1 Delhi Sultanate|delhi; 1 Vijayanagara|vijayanagar|vijayanagara empire;
+2 Bahmani Sultanate|bahmani; 2 Rajputs|rajput kingdoms|rajput; 2 Chola|chola dynasty|cholas; 2 Mamluk dynasty|slave dynasty; 2 Khalji dynasty|khilji|khalji; 2 Tughlaq dynasty|tughlaq|tughluq; 2 Muhammad bin Tughluq|muhammad bin tughlaq; 2 Alauddin Khalji|alauddin khilji|ala ud din khalji; 2 Razia Sultana|razia|raziya; 2 Iltutmish;
+3 Qutb ud-Din Aibak|qutb al din aibak|aibak; 3 Firuz Shah Tughlaq|firuz shah|feroz shah tughlaq; 3 Sayyid dynasty; 3 Harihara; 3 Bukka; 3 Deva Raya II|deva raya; 3 Pandya dynasty|pandyas|pandya; 3 Hoysala|hoysalas; 3 Kakatiya|kakatiyas; 3 Yadava|yadavas|seuna; 3 Eastern Ganga dynasty|eastern ganga; 3 Bengal Sultanate; 3 Gujarat Sultanate; 3 Ahom kingdom|ahom; 3 Mewar; 3 Ghurids|ghurid dynasty|muhammad of ghor; 3 Kashmir Sultanate; 3 Jaunpur Sultanate; 3 Malwa Sultanate; 3 Balban|ghiyas ud din balban;
+4 Rudrama Devi|rudramadevi; 4 Prataparudra; 4 Rana Kumbha|kumbha; 4 Jaffna kingdom|kingdom of jaffna; 4 Kingdom of Kotte|kotte; 4 Malla dynasty|malla; 4 Reddi kingdom|reddi
+? Geography | Name a river in South Asia, the Middle East, or Central Asia.
+1 Ganges|ganga; 1 Indus; 1 Tigris; 1 Euphrates;
+2 Brahmaputra; 2 Yamuna|jumna; 2 Jordan River|jordan; 2 Amu Darya|oxus; 2 Syr Darya|jaxartes; 2 Narmada; 2 Godavari; 2 Krishna; 2 Kaveri|cauvery;
+3 Tungabhadra; 3 Jhelum; 3 Chenab; 3 Ravi; 3 Beas; 3 Sutlej; 3 Kabul River; 3 Helmand; 3 Karun; 3 Shatt al-Arab; 3 Mahanadi; 3 Tapti|tapi; 3 Hooghly|hugli; 3 Meghna; 3 Padma; 3 Orontes|asi; 3 Zayandeh River|zayandeh rud; 3 Ili River|ili; 3 Zeravshan|zarafshan; 3 Tarim; 3 Kura; 3 Aras|araxes; 3 Ghaghara; 3 Gomti; 3 Chambal; 3 Kosi; 3 Sabarmati;
+4 Barada; 4 Litani; 4 Murghab; 4 Hari River|hari rud; 4 Son River; 4 Teesta; 4 Penner; 4 Vaigai; 4 Mahi; 4 Luni
+? Trade | Name a way merchants made long-distance trade easier or safer before 1450.
+1 Caravans|caravan; 1 Camels; 1 Compass; 1 Paper money;
+2 Caravanserai|caravanserais|caravansary; 2 Bills of exchange|bill of exchange; 2 Credit|letters of credit; 2 Banks|banking; 2 Astrolabe; 2 Lateen sail; 2 Monsoon winds|monsoons|monsoon; 2 Guilds|guild; 2 Coins|coinage|money; 2 Roads; 2 Dhows|dhow; 2 Junks|junk; 2 Grand Canal; 2 Pax Mongolica; 2 Yam system|yam|mongol postal relay;
+3 Flying cash; 3 Merchant diasporas|diaspora communities; 3 Hanseatic League|hansa; 3 Paiza|passport; 3 Standard weights and measures|weights and measures; 3 Commenda|partnerships; 3 Marine insurance|insurance; 3 Funduq|fondaco|trading posts; 3 Fairs|champagne fairs|trade fairs; 3 Translators|interpreters; 3 Saddles|camel saddle; 3 Convoys; 3 Maps|portolan charts; 3 Treaties|trade agreements; 3 Double-entry bookkeeping; 3 Checks|sakk;
+4 Hawala; 4 Lighthouses; 4 Escorts|armed guards; 4 Islamic commercial law|sharia; 4 Ribat
+? Belief | Name a holy day or festival of Islam, Hinduism, Christianity, Judaism, or Buddhism.
+1 Ramadan; 1 Eid al-Fitr|eid ul fitr|eid; 1 Christmas; 1 Easter; 1 Diwali|deepavali;
+2 Eid al-Adha|eid ul adha|bakr eid; 2 Holi; 2 Passover|pesach; 2 Hanukkah|chanukah; 2 Yom Kippur; 2 Rosh Hashanah; 2 Vesak|wesak|buddha day|buddha purnima; 2 Navratri; 2 Lent; 2 Good Friday; 2 Durga Puja; 2 Ganesh Chaturthi;
+3 Mawlid|mawlid al nabi|prophet's birthday; 3 Ashura; 3 Laylat al-Qadr|night of power; 3 Pentecost; 3 Epiphany; 3 All Saints' Day|all saints day; 3 Sukkot; 3 Purim; 3 Shavuot; 3 Shabbat|sabbath; 3 Janmashtami; 3 Ram Navami; 3 Dussehra|dasara|vijayadashami; 3 Pongal; 3 Onam; 3 Makar Sankranti; 3 Raksha Bandhan; 3 Maha Shivaratri|shivaratri; 3 Palm Sunday; 3 Ash Wednesday; 3 Islamic New Year|muharram; 3 Obon|bon festival;
+4 Losar; 4 Magha Puja; 4 Asalha Puja; 4 Kathina; 4 Isra and Mi'raj|isra and miraj; 4 Kumbh Mela; 4 Tisha B'Av|tisha bav; 4 Candlemas
+? Wild card | Name a gemstone or other precious stone.
+1 Diamond; 1 Ruby; 1 Emerald; 1 Sapphire; 1 Pearl;
+2 Amethyst; 2 Topaz; 2 Opal; 2 Jade; 2 Garnet; 2 Turquoise; 2 Lapis lazuli|lapis; 2 Aquamarine; 2 Amber; 2 Coral;
+3 Onyx; 3 Agate; 3 Carnelian; 3 Peridot; 3 Tourmaline; 3 Moonstone; 3 Citrine; 3 Jasper; 3 Spinel; 3 Beryl; 3 Zircon; 3 Malachite; 3 Obsidian; 3 Tanzanite; 3 Quartz|rose quartz; 3 Chalcedony; 3 Chrysoberyl|cats eye; 3 Jet;
+4 Alexandrite; 4 Bloodstone; 4 Tiger's eye|tigers eye; 4 Sardonyx; 4 Hematite; 4 Kunzite; 4 Morganite; 4 Labradorite; 4 Sunstone

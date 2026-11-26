@@ -213,3 +213,57 @@
 2 Dhoti; 2 Salwar kameez|shalwar kameez; 2 Lungi; 2 Sherwani; 2 Dupatta; 2 Lehenga; 2 Bangles; 2 Pashmina|cashmere; 2 Silk; 2 Cotton; 2 Muslin; 2 Nehru jacket;
 3 Choli; 3 Kurta pajama; 3 Achkan; 3 Paisley; 3 Khadi; 3 Madras|madras cloth; 3 Chintz; 3 Calico; 3 Bandhani|tie-dye; 3 Ikat; 3 Block print|block printing; 3 Kanjeevaram silk|kanchipuram silk; 3 Banarasi silk|banarasi; 3 Phulkari; 3 Mundu; 3 Veshti; 3 Gandhi cap|topi; 3 Jootis|mojari; 3 Chappals|sandals; 3 Jamdani;
 4 Mekhela chador; 4 Gamcha; 4 Angarkha; 4 Patola; 4 Chikankari; 4 Kalamkari; 4 Pheran; 4 Ghagra
+
+@voyage plata | Bound for the River Plate | Italian emigrants · Genoa to Buenos Aires · 1880s–1910s
+? Places | Name a city in Argentina, Chile, Uruguay, or Paraguay.
+1 Buenos Aires; 1 Santiago; 1 Montevideo;
+2 Córdoba|cordoba; 2 Rosario; 2 Mendoza; 2 La Plata; 2 Mar del Plata; 2 Ushuaia; 2 Valparaíso|valparaiso; 2 Asunción|asuncion; 2 Punta del Este; 2 Bariloche|san carlos de bariloche; 2 Salta; 2 Concepción|concepcion;
+3 Tucumán|tucuman|san miguel de tucuman; 3 Santa Fe; 3 Bahía Blanca|bahia blanca; 3 Neuquén|neuquen; 3 Colonia del Sacramento|colonia; 3 Salto; 3 Paysandú|paysandu; 3 Antofagasta; 3 Iquique; 3 Punta Arenas; 3 Valdivia; 3 Viña del Mar|vina del mar; 3 La Serena; 3 Arica; 3 Temuco; 3 Puerto Montt; 3 Ciudad del Este; 3 Encarnación|encarnacion; 3 Comodoro Rivadavia; 3 San Juan; 3 Posadas; 3 Corrientes; 3 Paraná|parana; 3 Rancagua; 3 Talca;
+4 Resistencia; 4 Rivera; 4 Maldonado; 4 Trelew; 4 Puerto Madryn; 4 El Calafate; 4 Calama; 4 Chillán|chillan; 4 Pedro Juan Caballero; 4 Villarrica
+? Society | Name a sport that spread to many countries between 1850 and 1950.
+1 Football|soccer|association football; 1 Basketball; 1 Tennis|lawn tennis; 1 Cricket; 1 Baseball;
+2 Rugby|rugby union|rugby league; 2 Volleyball; 2 Golf; 2 Boxing; 2 Cycling; 2 Swimming; 2 Athletics|track and field; 2 Badminton; 2 Table tennis|ping pong; 2 Ice hockey; 2 Field hockey|hockey; 2 Polo; 2 Horse racing; 2 Rowing; 2 Skiing;
+3 Fencing; 3 Wrestling; 3 Judo; 3 Handball; 3 Water polo; 3 Lacrosse; 3 Squash; 3 Softball; 3 Netball; 3 American football; 3 Gymnastics; 3 Sailing|yachting; 3 Mountaineering; 3 Motor racing|auto racing; 3 Weightlifting; 3 Archery; 3 Figure skating|skating; 3 Shooting;
+4 Croquet; 4 Australian rules football; 4 Bandy; 4 Speed skating; 4 Bobsleigh; 4 Jai alai|pelota; 4 Canoeing
+? Economy | Name a product that Latin American countries exported around 1900.
+1 Coffee; 1 Beef|meat; 1 Sugar; 1 Bananas; 1 Rubber;
+2 Wheat|grain; 2 Wool; 2 Hides|leather; 2 Silver; 2 Copper; 2 Nitrates|saltpeter|nitrate; 2 Tin; 2 Cacao|cocoa; 2 Tobacco; 2 Cotton; 2 Corn|maize;
+3 Henequen|sisal; 3 Mutton|lamb; 3 Linseed|flax; 3 Quebracho|tannin; 3 Yerba mate|mate; 3 Chicle; 3 Gold; 3 Oil|petroleum; 3 Lead; 3 Zinc; 3 Cattle; 3 Vanilla; 3 Mahogany|timber; 3 Brazil nuts; 3 Iodine; 3 Coca;
+4 Tallow; 4 Hats|panama hats|toquilla straw hats; 4 Cinchona bark|quinine
+? Tech | Name something that made ocean travel faster, safer, or cheaper in the 1800s.
+1 Steamships|steamship|steamboat; 1 Steam engine; 1 Suez Canal;
+2 Iron hulls|iron ships; 2 Steel hulls|steel ships; 2 Screw propeller|propeller; 2 Telegraph; 2 Lighthouses|lighthouse; 2 Refrigeration|refrigerated ships; 2 Canned food; 2 Coaling stations; 2 Clipper ships|clippers; 2 Lifeboats; 2 Weather forecasting; 2 Paddle wheel|paddle steamer;
+3 Triple-expansion engine|compound engine; 3 Steam turbine; 3 Marine chronometer|chronometer; 3 Nautical charts|charts|maps; 3 Plimsoll line|load line; 3 Buoys; 3 Docks|harbors|ports; 3 Dredging; 3 Surface condenser|condenser; 3 Morse code; 3 Signal flags; 3 Wireless telegraphy|radio; 3 Undersea telegraph cable|submarine cable; 3 Life jackets|cork life jackets; 3 Kiel Canal; 3 Steerage class|cheap tickets; 3 Shipping lines|steamship companies;
+4 Lightships; 4 Foghorn; 4 Double bottom hulls|watertight compartments; 4 Sounding machine; 4 Electric lighting
+? Wild card | Name a dance or music style that began or became popular between 1800 and 1950.
+1 Tango; 1 Jazz; 1 Blues; 1 Waltz; 1 Samba;
+2 Polka; 2 Ragtime; 2 Flamenco; 2 Swing; 2 Foxtrot; 2 Charleston; 2 Rumba; 2 Son cubano|son; 2 Bolero; 2 Mambo; 2 Calypso; 2 Fado; 2 Gospel; 2 Country music|country; 2 Tap dance|tap; 2 Lindy hop;
+3 Habanera; 3 Mazurka; 3 Can-can|cancan; 3 Highlife; 3 Danzón|danzon; 3 Choro; 3 Maxixe; 3 Merengue; 3 Operetta; 3 Cumbia; 3 Rebetiko; 3 Vaudeville|music hall; 3 Cakewalk; 3 Quickstep; 3 Paso doble; 3 Barbershop; 3 Bluegrass; 3 Boogie-woogie|boogie woogie; 3 Bebop; 3 Chanson; 3 Milonga; 3 Cải lương|cai luong; 3 Kroncong|keroncong; 3 Marabi;
+4 Galop; 4 Schottische; 4 Two-step; 4 Big band; 4 Dixieland
+
+@voyage uganda | The Lunatic Express | The Uganda Railway · Mombasa to Kisumu · 1896–1901
+? Peoples | Name an ethnic group or people of Africa.
+1 Zulu; 1 Maasai|masai; 1 Yoruba; 1 Igbo|ibo; 1 Hausa; 1 Swahili;
+2 Kikuyu|gikuyu; 2 Luo; 2 Fulani|fula|peul; 2 Ashanti|asante|akan; 2 Amhara; 2 Oromo; 2 Somali; 2 Tutsi; 2 Hutu; 2 Berbers|amazigh|berber; 2 Tuareg; 2 Xhosa; 2 Shona; 2 Ganda|baganda; 2 San|bushmen; 2 Wolof; 2 Mandinka|mande|malinke;
+3 Kamba; 3 Luhya; 3 Kalenjin; 3 Khoikhoi|khoekhoe|khoi; 3 Herero; 3 Nama; 3 Ndebele; 3 Sotho|basotho; 3 Tswana; 3 Bemba; 3 Kongo|bakongo; 3 Luba; 3 Fang; 3 Dinka; 3 Nuer; 3 Tigrayans|tigray|tigrinya; 3 Afar; 3 Turkana; 3 Samburu; 3 Chagga; 3 Sukuma; 3 Nyamwezi; 3 Hadza; 3 Mbuti; 3 Bambara; 3 Songhai; 3 Kanuri; 3 Ewe; 3 Fon; 3 Tiv; 3 Edo|bini; 3 Malagasy|merina; 3 Nubians|nubian; 3 Himba; 3 Dogon; 3 Copts; 3 Twa;
+4 Mijikenda; 4 Kisii|gusii; 4 Meru; 4 Embu; 4 Pokot; 4 Teso|iteso; 4 Acholi; 4 Lango; 4 Soga|basoga; 4 Ibibio; 4 Ijaw; 4 Senufo; 4 Mossi; 4 Ovambo; 4 Venda; 4 Tsonga
+? Economy | Name a crop grown in East Africa today.
+1 Coffee; 1 Tea; 1 Maize|corn; 1 Bananas|banana|matoke; 1 Sugarcane|sugar;
+2 Cotton; 2 Sisal; 2 Cloves; 2 Cashews|cashew nuts; 2 Tobacco; 2 Cut flowers|flowers|roses; 2 Avocados|avocado; 2 Pineapples|pineapple; 2 Mangoes|mango; 2 Sorghum; 2 Millet; 2 Cassava; 2 Beans; 2 Rice; 2 Wheat; 2 Potatoes|irish potatoes; 2 Sweet potatoes|sweet potato;
+3 Teff; 3 Pyrethrum; 3 Vanilla; 3 Coconuts|coconut; 3 Macadamia nuts|macadamia; 3 Sesame; 3 Sunflowers|sunflower; 3 Groundnuts|peanuts; 3 Passion fruit; 3 Cocoa|cacao; 3 Barley; 3 Peas|pigeon peas; 3 Kale|sukuma wiki; 3 Tomatoes; 3 Onions; 3 Papaya|pawpaw; 3 Oranges|citrus; 3 Ginger; 3 Cardamom; 3 Black pepper;
+4 Enset|false banana; 4 Khat|miraa; 4 Plantains; 4 Yams; 4 Cowpeas; 4 Green grams|mung beans
+? Language | Name an English word that came from a language of India, Africa, or another part of the British Empire.
+1 Safari; 1 Shampoo; 1 Pajamas|pyjamas; 1 Jungle; 1 Yoga;
+2 Bungalow; 2 Thug; 2 Loot; 2 Guru; 2 Avatar; 2 Karma; 2 Khaki; 2 Bandana|bandanna; 2 Chutney; 2 Curry; 2 Cot; 2 Veranda|verandah; 2 Jodhpurs; 2 Pundit; 2 Mantra; 2 Nirvana; 2 Kangaroo; 2 Boomerang; 2 Koala; 2 Kiwi;
+3 Juggernaut; 3 Dinghy; 3 Punch; 3 Shawl; 3 Cushy; 3 Chit; 3 Dungarees; 3 Cheetah; 3 Mongoose; 3 Amok|amuck; 3 Gingham; 3 Catamaran; 3 Mango; 3 Pariah; 3 Cheroot; 3 Polo; 3 Gymkhana; 3 Bangle; 3 Calico; 3 Cashmere; 3 Kedgeree; 3 Tsetse; 3 Impala; 3 Okra; 3 Kowtow; 3 Typhoon; 3 Ketchup;
+4 Mulligatawny; 4 Pukka; 4 Dekko; 4 Blighty; 4 Wallah; 4 Teapoy; 4 Sepoy; 4 Wombat; 4 Dingo
+? Power | Name a treaty, conference, or international agreement signed between 1800 and 1900.
+1 Berlin Conference; 1 Treaty of Nanjing|treaty of nanking; 1 Congress of Vienna;
+2 Treaty of Shimonoseki; 2 Treaty of Kanagawa; 2 Treaty of Tianjin|treaty of tientsin; 2 Treaty of Paris (1898)|treaty of paris; 2 Treaty of Guadalupe Hidalgo|guadalupe hidalgo; 2 Treaty of Waitangi|waitangi; 2 Louisiana Purchase; 2 Treaty of Frankfurt; 2 Congress of Berlin|treaty of berlin; 2 Treaty of Wuchale|treaty of wichale; 2 Convention of Peking|convention of beijing; 2 Treaty of Ghent;
+3 Treaty of San Stefano; 3 Treaty of Aigun; 3 Harris Treaty|treaty of amity and commerce; 3 Treaty of Ganghwa|ganghwa treaty; 3 Heligoland–Zanzibar Treaty|heligoland zanzibar treaty; 3 Anglo-German Agreement of 1886; 3 Treaty of Amiens; 3 Treaty of London (1839)|treaty of london; 3 Treaty of the Bogue; 3 Treaty of Whampoa; 3 Treaty of Wangxia; 3 Treaty of Saigon; 3 Treaty of Huế|treaty of hue|patenotre treaty; 3 Treaty of Bardo; 3 Treaty of Turkmenchay; 3 Treaty of Adrianople; 3 Gadsden Purchase; 3 Treaty of Fort Laramie|fort laramie; 3 Burlingame Treaty; 3 Treaty of Tilsit; 3 Geneva Convention (1864)|geneva convention; 3 Treaty of Paris (1856)|congress of paris; 3 Adams–Onís Treaty|adams onis treaty; 3 Treaty of Washington (1871)|treaty of washington; 3 Alaska Purchase;
+4 Treaty of Kiel; 4 Treaty of Bucharest (1812)|treaty of bucharest; 4 Treaty of Livadia; 4 Treaty of Saint Petersburg (1875)|treaty of saint petersburg; 4 Treaty of Tientsin (1885); 4 Brussels Conference Act of 1890|brussels conference; 4 Treaty of Lisbon (1887); 4 Treaty of Pretoria
+? Wild card | Name an animal you might see on an African safari.
+1 Lion; 1 Elephant; 1 Giraffe; 1 Zebra; 1 Rhinoceros|rhino; 1 Hippopotamus|hippo; 1 Cheetah; 1 Leopard;
+2 Buffalo|cape buffalo; 2 Wildebeest|gnu; 2 Gazelle|thomson's gazelle; 2 Impala; 2 Hyena; 2 Crocodile; 2 Ostrich; 2 Warthog; 2 Baboon; 2 Antelope; 2 Flamingo; 2 Vulture; 2 Chimpanzee; 2 Gorilla; 2 Meerkat;
+3 Eland; 3 Kudu; 3 Oryx|gemsbok; 3 Gerenuk; 3 Topi; 3 Hartebeest; 3 Dik-dik|dik dik; 3 Jackal; 3 African wild dog|painted dog|wild dog; 3 Serval; 3 Caracal; 3 Mongoose; 3 Aardvark; 3 Pangolin; 3 Honey badger; 3 Secretary bird; 3 Marabou stork; 3 African fish eagle|fish eagle|eagle; 3 Hornbill; 3 Lilac-breasted roller; 3 Weaver bird|weaver; 3 Monitor lizard|nile monitor; 3 Python; 3 Vervet monkey; 3 Colobus monkey|colobus; 3 Waterbuck; 3 Springbok; 3 Okapi; 3 Black mamba;
+4 Bushbuck; 4 Sable antelope; 4 Klipspringer; 4 Bat-eared fox; 4 Aardwolf; 4 Grey crowned crane|crowned crane; 4 Kori bustard; 4 Rock hyrax|hyrax; 4 Sitatunga; 4 Bongo

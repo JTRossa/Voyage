@@ -294,3 +294,56 @@
 2 Dodo; 2 Kiwi; 2 Emu; 2 Flamingo; 2 Peacock|peafowl; 2 Swan; 2 Duck; 2 Goose; 2 Crow; 2 Hawk; 2 Falcon; 2 Robin; 2 Hummingbird; 2 Seagull|gull; 2 Pelican; 2 Toucan; 2 Woodpecker; 2 Turkey;
 3 Crane; 3 Heron; 3 Stork; 3 Kingfisher; 3 Vulture; 3 Condor; 3 Albatross; 3 Puffin; 3 Cassowary; 3 Quail; 3 Magpie; 3 Raven; 3 Blackbird; 3 Starling; 3 Swallow; 3 Wren; 3 Cardinal; 3 Blue jay; 3 Canary; 3 Budgerigar|budgie; 3 Cockatoo; 3 Macaw; 3 Kookaburra; 3 Ibis; 3 Egret; 3 Cormorant; 3 Osprey; 3 Nightingale; 3 Finch; 3 Myna|mynah; 3 Hornbill; 3 Pheasant; 3 Moa;
 4 Lyrebird; 4 Kea; 4 Kakapo; 4 Tui; 4 Kestrel; 4 Lark; 4 Bulbul; 4 Roadrunner; 4 Partridge; 4 Grouse; 4 Sandpiper; 4 Plover; 4 Gannet; 4 Booby; 4 Frigatebird; 4 Tern; 4 Bird of paradise; 4 Sunbird; 4 Weaver; 4 Secretary bird; 4 Shoebill; 4 Passenger pigeon; 4 Great auk; 4 Takahe
+
+@voyage sugar | The Sugar Frontier | Portuguese sugar planters · Lisbon to Salvador da Bahia · 1450s–1600s
+? Power | Name a West or Central African kingdom or state that existed between 1450 and 1750.
+1 Kingdom of Kongo|kongo; 1 Songhai Empire|songhai; 1 Kingdom of Benin|benin;
+2 Ndongo; 2 Oyo Empire|oyo; 2 Dahomey; 2 Asante Empire|ashanti|asante; 2 Kanem-Bornu|bornu|kanem; 2 Hausa city-states|hausa states|hausa kingdoms; 2 Kano; 2 Mali Empire|mali; 2 Matamba;
+3 Katsina; 3 Zazzau|zaria; 3 Mossi kingdoms|mossi; 3 Jolof Empire|jolof|wolof states; 3 Kaabu; 3 Loango; 3 Kuba Kingdom|kuba; 3 Luba Empire|luba; 3 Lunda Empire|lunda; 3 Akwamu; 3 Denkyira; 3 Futa Jallon|fouta djallon; 3 Futa Toro; 3 Bambara Empire|segou|segu; 3 Kaarta; 3 Ife; 3 Nupe; 3 Igala; 3 Aro Confederacy|aro; 3 Bamum; 3 Wadai; 3 Baguirmi|bagirmi; 3 Kingdom of Allada|allada; 3 Whydah|ouidah;
+4 Kwararafa|jukun; 4 Kakongo; 4 Ngoyo; 4 Cayor; 4 Sine|kingdom of sine; 4 Saloum; 4 Kong Empire|kong; 4 Gonja; 4 Dagbon
+? Places | Name a country or territory in Africa with a coast on the Atlantic Ocean.
+1 Morocco; 1 Nigeria; 1 Ghana; 1 Senegal; 1 South Africa; 1 Angola;
+2 Mauritania; 2 Gambia|the gambia; 2 Guinea; 2 Sierra Leone; 2 Liberia; 2 Ivory Coast|cote divoire; 2 Togo; 2 Benin; 2 Cameroon; 2 Gabon; 2 Namibia; 2 Democratic Republic of the Congo|drc|congo kinshasa; 2 Republic of the Congo|congo brazzaville|congo; 2 Cape Verde|cabo verde;
+3 Guinea-Bissau|guinea bissau; 3 Equatorial Guinea; 3 São Tomé and Príncipe|sao tome and principe|sao tome; 3 Western Sahara; 3 Saint Helena|st helena; 3 Canary Islands; 3 Madeira; 3 Ascension Island
+? Geography | Name a wind, ocean current, or weather pattern that mattered to sailors.
+1 Trade winds; 1 Monsoon|monsoons; 1 Gulf Stream; 1 Hurricane|hurricanes;
+2 Westerlies; 2 Doldrums; 2 Typhoon|typhoons; 2 Cyclone|cyclones; 2 Horse latitudes; 2 Roaring Forties; 2 Canary Current; 2 Benguela Current; 2 Humboldt Current|peru current; 2 Kuroshio|kuroshio current|japan current; 2 El Niño|el nino; 2 Storms|gales|gale; 2 Tides;
+3 Brazil Current; 3 Agulhas Current; 3 North Equatorial Current; 3 South Equatorial Current; 3 Equatorial Counter Current; 3 Antarctic Circumpolar Current; 3 Labrador Current; 3 North Atlantic Drift|north atlantic current; 3 California Current; 3 Oyashio; 3 East Australian Current; 3 Volta do mar; 3 Mistral; 3 Sirocco; 3 Bora; 3 Harmattan; 3 Squalls|squall; 3 Calm|becalmed; 3 Fog; 3 Waterspout; 3 Furious Fifties;
+4 Leeuwin Current; 4 Levanter; 4 Meltemi|etesian winds; 4 Mozambique Current; 4 Somali Current; 4 Sea breeze|land breeze
+? Resistance | Name a revolt or act of resistance against European colonizers between 1450 and 1750.
+1 Pueblo Revolt|pueblo rebellion|pope's rebellion|popé; 1 Maroon communities|maroons;
+2 Palmares|quilombo dos palmares|quilombos; 2 Queen Nanny|nanny of the maroons|jamaican maroons; 2 Queen Nzinga|nzinga|njinga; 2 King Philip's War|metacom's war|metacom; 2 Arauco War|mapuche resistance|mapuche; 2 Manco Inca's rebellion|manco inca; 2 Túpac Amaru I|tupac amaru i; 2 Stono Rebellion|stono;
+3 Enriquillo's revolt|enriquillo; 3 Hatuey; 3 Mixtón War|mixton war; 3 Lautaro; 3 Powhatan Wars|anglo powhatan wars|opechancanough; 3 Pequot War; 3 Yamasee War; 3 Tuscarora War; 3 Beatriz Kimpa Vita|antonian movement|kimpa vita; 3 Chichimeca War; 3 Neo-Inca State|vilcabamba; 3 Gaspar Yanga|yanga; 3 Siege of Fort Jesus|fort jesus; 3 Zumbi dos Palmares|zumbi; 3 Benkos Biohó|benkos bioho|san basilio de palenque; 3 Tepehuán Revolt|tepehuan revolt; 3 Lapu-Lapu|lapulapu|battle of mactan;
+4 Taki Onqoy; 4 Tzeltal Rebellion; 4 Juan Santos Atahualpa; 4 New York Slave Revolt of 1712|1712 new york revolt; 4 Dagohoy rebellion|dagohoy
+? Wild card | Name something made with sugar or sugarcane.
+1 Candy|sweets; 1 Cake; 1 Chocolate; 1 Ice cream; 1 Cookies|biscuits; 1 Rum; 1 Soda|soft drinks|cola;
+2 Molasses; 2 Jam|jelly|marmalade; 2 Caramel; 2 Toffee; 2 Fudge; 2 Marzipan; 2 Lemonade; 2 Cotton candy|candy floss|fairy floss; 2 Lollipop; 2 Doughnut|donut; 2 Meringue; 2 Syrup; 2 Brown sugar; 2 Icing|frosting; 2 Custard; 2 Pudding; 2 Flan; 2 Chewing gum|gum;
+3 Brigadeiro; 3 Cachaça|cachaca; 3 Jaggery|panela|rapadura; 3 Nougat; 3 Fondant; 3 Brittle|peanut brittle; 3 Sugar cube|sugar cubes; 3 Candied fruit; 3 Halva|halwa; 3 Baklava; 3 Turkish delight; 3 Gulab jamun; 3 Sugarcane juice|nuoc mia; 3 Ethanol|biofuel; 3 Bagasse; 3 Kombucha; 3 Sorbet; 3 Pastries|pastry; 3 Macarons|macaron; 3 Pie;
+4 Falernum; 4 Rock candy; 4 Treacle; 4 Dulce de leche; 4 Alfeñique|alfenique; 4 Pastel de nata|egg tart
+
+@voyage xavier | The Apostle of the Indies | Francis Xavier · Lisbon to Kagoshima · 1541–1549
+? Places | Name a city, island, or region of Japan.
+1 Tokyo|edo; 1 Kyoto; 1 Osaka; 1 Hiroshima; 1 Nagasaki; 1 Okinawa;
+2 Kagoshima; 2 Yokohama; 2 Kobe; 2 Nara; 2 Sapporo; 2 Fukuoka|hakata; 2 Nagoya; 2 Sendai; 2 Kamakura; 2 Hokkaido; 2 Honshu; 2 Kyushu; 2 Shikoku; 2 Hirado; 2 Dejima|deshima;
+3 Yamaguchi; 3 Sakai; 3 Kanazawa; 3 Nikko; 3 Himeji; 3 Kumamoto; 3 Okayama; 3 Niigata; 3 Hakodate; 3 Kawasaki; 3 Shimonoseki; 3 Matsue; 3 Matsuyama; 3 Takamatsu; 3 Kochi; 3 Shizuoka; 3 Gifu; 3 Ise; 3 Uraga; 3 Tanegashima; 3 Ryukyu Islands|ryukyu; 3 Oita|funai; 3 Sado Island|sado; 3 Kanto; 3 Kansai; 3 Mount Fuji|fuji;
+4 Fukui; 4 Kitakyushu; 4 Aizu; 4 Satsuma; 4 Choshu; 4 Tosa; 4 Owari; 4 Mikawa; 4 Hizen; 4 Amakusa
+? Tech | Name a gun, cannon, or other gunpowder weapon used before 1750.
+1 Cannon; 1 Musket; 1 Pistol; 1 Grenade;
+2 Arquebus|harquebus|hackbut; 2 Matchlock; 2 Flintlock; 2 Wheellock|wheel lock; 2 Mortar; 2 Bombard; 2 Blunderbuss; 2 Hand cannon; 2 Fire lance; 2 Rockets|fire arrows; 2 Bomb|bombs;
+3 Culverin; 3 Swivel gun; 3 Falconet; 3 Saker; 3 Demi-culverin|demi culverin; 3 Tanegashima; 3 Carbine; 3 Caliver; 3 Petard; 3 Land mine|mines; 3 Jingal|jezail; 3 Zamburak|camel gun; 3 Organ gun|ribauldequin; 3 Basilisk; 3 Bayonet; 3 Grapeshot|canister shot; 3 Cannonball|cannonballs; 3 Dardanelles Gun|great turkish bombard|urban's cannon|orban's cannon; 3 Tsar Cannon; 3 Fire ship|fireships; 3 Hand mortar;
+4 Serpentine; 4 Breech-loading swivel gun|lantaka; 4 Hu dun pao|crouching tiger cannon; 4 Hongyipao|red barbarian cannon; 4 Folangji|frankish cannon; 4 Fowler
+? Trade | Name a European city that was an important port or trading center between 1450 and 1750.
+1 Lisbon; 1 Amsterdam; 1 London; 1 Venice; 1 Seville;
+2 Antwerp; 2 Genoa; 2 Cádiz|cadiz; 2 Bristol; 2 Liverpool; 2 Nantes; 2 Bordeaux; 2 Marseille|marseilles; 2 Hamburg; 2 Lübeck|lubeck; 2 Bruges; 2 Rotterdam; 2 Naples; 2 Barcelona; 2 Istanbul|constantinople; 2 Porto|oporto;
+3 La Rochelle; 3 Le Havre; 3 Saint-Malo|st malo; 3 Danzig|gdansk; 3 Riga; 3 Stockholm; 3 Copenhagen; 3 Bergen; 3 Valencia; 3 Lagos; 3 Dieppe; 3 Plymouth; 3 Southampton; 3 Livorno|leghorn; 3 Ragusa|dubrovnik; 3 Smyrna|izmir; 3 Archangel|arkhangelsk; 3 Glasgow; 3 Middelburg; 3 Sanlúcar de Barrameda|sanlucar; 3 Palos|palos de la frontera; 3 Flushing|vlissingen; 3 Dublin; 3 Cork; 3 Leith|edinburgh; 3 Saint Petersburg|st petersburg;
+4 Emden; 4 Ostend; 4 Honfleur; 4 Lorient; 4 Hull; 4 Königsberg|konigsberg; 4 Reval|tallinn; 4 Viana do Castelo
+? Society | Name a group, rank, or role in Japanese society between 1450 and 1750.
+1 Samurai|bushi; 1 Shogun; 1 Emperor; 1 Ninja|shinobi;
+2 Daimyo; 2 Peasants|farmers; 2 Artisans|craftsmen; 2 Merchants; 2 Ronin; 2 Geisha; 2 Monks|buddhist monks|buddhist priests; 2 Kabuki actors|kabuki; 2 Sumo wrestlers|sumo; 2 Ashigaru|foot soldiers;
+3 Kuge|court nobles|courtiers; 3 Chonin|townspeople; 3 Hatamoto; 3 Kirishitan|japanese christians; 3 Dutch traders|dutch at dejima; 3 Ainu; 3 Ryukyuans; 3 Chinese merchants; 3 Tea masters|tea master; 3 Ukiyo-e artists|ukiyo e artist; 3 Haiku poets|haiku poet; 3 Shinto priests|kannushi; 3 Nuns; 3 Retainers|vassals; 3 Rangaku scholars|rangaku; 3 Wako|pirates; 3 Courtesans|oiran; 3 Monk warriors|sohei; 3 Jesuits|missionaries; 3 Village headmen|village headman;
+4 Hinin; 4 Karo; 4 Bugyo|magistrates; 4 Metsuke|inspectors; 4 Ama divers|ama; 4 Yamabushi; 4 Komuso; 4 Okappiki
+? Wild card | Name a Japanese food or drink.
+1 Sushi; 1 Ramen; 1 Sashimi; 1 Tempura; 1 Miso soup|miso; 1 Mochi; 1 Green tea|matcha;
+2 Udon; 2 Soba; 2 Sake; 2 Wasabi; 2 Edamame; 2 Teriyaki; 2 Yakitori; 2 Onigiri|rice ball; 2 Takoyaki; 2 Okonomiyaki; 2 Gyoza; 2 Bento; 2 Tofu; 2 Tonkatsu|katsu; 2 Wagyu|kobe beef; 2 Soy sauce|shoyu; 2 Curry rice|japanese curry;
+3 Natto; 3 Sukiyaki; 3 Shabu-shabu|shabu shabu; 3 Dorayaki; 3 Dango; 3 Castella|kasutera; 3 Umeboshi; 3 Nori; 3 Ponzu; 3 Dashi; 3 Unagi; 3 Tamagoyaki; 3 Karaage; 3 Donburi|gyudon|katsudon; 3 Oden; 3 Yakisoba; 3 Taiyaki; 3 Wagashi; 3 Mirin; 3 Kaiseki; 3 Chawanmushi; 3 Shochu; 3 Konpeito|konpeito candy;
+4 Mentaiko; 4 Tsukemono; 4 Nabe; 4 Hojicha; 4 Genmaicha; 4 Amazake; 4 Yokan

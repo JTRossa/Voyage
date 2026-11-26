@@ -215,3 +215,56 @@
 2 Lute; 2 Harp; 2 Organ; 2 Bagpipes; 2 Recorder; 2 Cello; 2 Saxophone; 2 Clarinet; 2 Trombone; 2 Ukulele; 2 Xylophone; 2 Harmonica; 2 Accordion; 2 Tambourine;
 3 Oboe; 3 Bassoon; 3 Tuba; 3 French horn|horn; 3 Viola; 3 Double bass; 3 Harpsichord; 3 Banjo; 3 Sitar; 3 Tabla; 3 Erhu; 3 Guzheng; 3 Pipa; 3 Koto; 3 Shamisen; 3 Oud; 3 Kora; 3 Djembe; 3 Didgeridoo; 3 Marimba; 3 Triangle; 3 Cymbals; 3 Gong; 3 Lyre; 3 Mandolin; 3 Balalaika; 3 Synthesizer|keyboard; 3 Castanets; 3 Steelpan|steel drum; 3 Panpipes|pan flute; 3 Đàn bầu|dan bau; 3 Đàn tranh|dan tranh;
 4 Sackbut; 4 Shawm; 4 Hurdy-gurdy; 4 Ocarina; 4 Kalimba|mbira; 4 Shakuhachi; 4 Rebab; 4 Santur; 4 Gayageum; 4 Bandoneon; 4 Vihuela; 4 Theremin; 4 Đàn nguyệt|dan nguyet; 4 Talking drum
+
+@voyage muda | The Spice Galleys | Venetian merchant galleys · Venice to Alexandria · c. 1400
+? Trade | Name a good that Venetian or Genoese merchants bought or sold between 1200 and 1450.
+1 Spices|spice; 1 Pepper|black pepper; 1 Silk; 1 Salt; 1 Glass|murano glass;
+2 Cinnamon; 2 Cloves; 2 Nutmeg; 2 Ginger; 2 Sugar; 2 Cotton; 2 Wool|woolen cloth|wool cloth; 2 Wine; 2 Grain|wheat; 2 Gold; 2 Silver; 2 Olive oil; 2 Dyes|dye; 2 Pearls; 2 Incense|frankincense;
+3 Alum; 3 Timber|wood; 3 Furs|fur; 3 Wax|beeswax; 3 Indigo; 3 Saffron; 3 Porcelain; 3 Copper; 3 Tin; 3 Soap; 3 Paper; 3 Books; 3 Carpets|rugs; 3 Mastic; 3 Honey; 3 Linen; 3 Velvet; 3 Brocade|damask; 3 Gems|precious stones|jewels; 3 Ivory; 3 Iron; 3 Leather|hides;
+4 Lead; 4 Myrrh; 4 Rhubarb; 4 Camphor; 4 Malmsey; 4 Brazilwood; 4 Lac
+? Places | Name a port city on the Mediterranean or Adriatic Sea (past or present).
+1 Venice; 1 Genoa; 1 Marseille|marseilles; 1 Barcelona; 1 Alexandria; 1 Naples; 1 Istanbul|constantinople;
+2 Athens|piraeus; 2 Tunis; 2 Algiers; 2 Beirut; 2 Tripoli; 2 Acre; 2 Jaffa; 2 Haifa; 2 Dubrovnik|ragusa; 2 Split; 2 Trieste; 2 Palermo; 2 Valencia; 2 Pisa; 2 Nice; 2 Thessaloniki|salonica; 2 Izmir|smyrna;
+3 Ancona; 3 Bari; 3 Messina; 3 Málaga|malaga; 3 Cartagena; 3 Livorno|leghorn; 3 Toulon; 3 Antalya; 3 Heraklion|candia; 3 Famagusta; 3 Limassol; 3 Valletta; 3 Ceuta; 3 Oran; 3 Benghazi; 3 Port Said; 3 Tyre; 3 Sidon; 3 Latakia; 3 Mersin; 3 Rhodes; 3 Corfu; 3 Durrës|durres|durazzo; 3 Brindisi; 3 Rijeka|fiume; 3 Zadar; 3 Ravenna; 3 Tarragona; 3 Palma; 3 Cagliari; 3 Ajaccio; 3 Alicante; 3 Monaco|monte carlo; 3 Syracuse; 3 Catania;
+4 Almería|almeria; 4 Koper|capodistria; 4 La Spezia; 4 Taranto; 4 Bastia; 4 Amalfi; 4 Mahdia; 4 Bejaia|bougie; 4 Sfax; 4 Kotor
+? Power | Name an Italian city-state, or a powerful Italian family or ruler, between 1200 and 1450.
+1 Venice|republic of venice; 1 Florence; 1 Genoa; 1 Medici|medici family;
+2 Milan|duchy of milan; 2 Pisa; 2 Siena; 2 Papal States|rome|the pope; 2 Kingdom of Naples|naples; 2 Visconti; 2 Sforza|francesco sforza; 2 Doge of Venice|doge; 2 Cosimo de' Medici|cosimo de medici;
+3 Este|house of este; 3 Gonzaga; 3 Montefeltro; 3 Lucca; 3 Bologna; 3 Mantua; 3 Ferrara; 3 Urbino; 3 Verona; 3 Padua; 3 Kingdom of Sicily|sicily; 3 Amalfi; 3 Giovanni di Bicci de' Medici|giovanni di bicci; 3 Enrico Dandolo|dandolo; 3 Gian Galeazzo Visconti; 3 Frederick II|emperor frederick ii; 3 Della Scala|scaligeri|scala family; 3 Doria|doria family; 3 Savoy|house of savoy;
+4 Carrara|da carrara; 4 Malatesta; 4 Orsini; 4 Colonna; 4 Robert of Naples|robert the wise; 4 Joanna I of Naples|joanna i; 4 Angevins|house of anjou; 4 Montferrat; 4 Bardi; 4 Peruzzi
+? Belief | Name a place that has been a pilgrimage destination for Christians, Muslims, Jews, Hindus, Sikhs, or Buddhists.
+1 Jerusalem; 1 Mecca|makkah; 1 Rome|vatican; 1 Medina;
+2 Santiago de Compostela|santiago; 2 Canterbury; 2 Varanasi|benares; 2 Bodh Gaya; 2 Lumbini; 2 Bethlehem; 2 Karbala; 2 Najaf; 2 Mashhad; 2 Lourdes; 2 Western Wall|wailing wall; 2 Amritsar|golden temple; 2 Kaaba;
+3 Nazareth; 3 Mount Sinai; 3 Hagia Sophia; 3 Kairouan; 3 Fátima|fatima; 3 Guadalupe|basilica of guadalupe; 3 Prayagraj|allahabad; 3 Haridwar; 3 Puri; 3 Mount Kailash|kailash; 3 Lhasa; 3 Sarnath; 3 Kushinagar; 3 Mount Athos; 3 Assisi; 3 Częstochowa|czestochowa; 3 Ise Grand Shrine|ise; 3 Hebron; 3 Mount Tai|tai shan; 3 Wutai Shan|mount wutai; 3 Temple of the Tooth|kandy; 3 Adam's Peak|adams peak|sri pada; 3 Ajmer; 3 Konya; 3 Mount Arafat|arafat; 3 Church of the Holy Sepulchre|holy sepulchre; 3 Dome of the Rock|al aqsa;
+4 Walsingham; 4 Touba; 4 Shikoku pilgrimage|shikoku; 4 Tirupati; 4 Sabarimala; 4 Iona; 4 Mount Emei|emei shan; 4 Qom
+? Wild card | Name a game or sport that people played somewhere in the world before 1500.
+1 Chess; 1 Wrestling; 1 Archery; 1 Football|mob football;
+2 Backgammon; 2 Go|weiqi|baduk; 2 Mancala; 2 Polo; 2 Jousting; 2 Dice; 2 Playing cards|cards; 2 Horse racing; 2 Sumo; 2 Cuju; 2 Mesoamerican ballgame|ulama|pok ta pok; 2 Checkers|draughts; 2 Hunting; 2 Falconry;
+3 Xiangqi|chinese chess; 3 Shogi; 3 Nine men's morris|nine mens morris; 3 Kemari; 3 Buzkashi; 3 Pachisi|chaupar; 3 Tarot; 3 Hnefatafl|tafl; 3 Real tennis|jeu de paume; 3 Golf; 3 Bowls|lawn bowls; 3 Fencing|swordsmanship; 3 Hurling; 3 Lacrosse|stickball; 3 Dominoes; 3 Kite flying|kites; 3 Board games; 3 Boxing; 3 Swimming;
+4 Senet; 4 Royal Game of Ur; 4 Shuttlecock|jianzi; 4 Knattleikr
+
+@voyage saltroad | The Salt Road | A trans-Saharan caravan · Sijilmasa to Gao · c. 1350
+? Society | Name something a caravan needed to cross a desert.
+1 Camels|camel; 1 Water; 1 Food; 1 Guide|guides;
+2 Water skins|waterskins|goatskins; 2 Dates; 2 Tents|tent; 2 Saddles|saddle; 2 Rope|ropes; 2 Oasis|oases; 2 Wells|well; 2 Camel drivers|cameleers; 2 Guards|armed guards; 2 Merchants; 2 Trade goods|goods to trade; 2 Stars|navigating by the stars; 2 Blankets; 2 Turban|head scarf|veil|tagelmust;
+3 Robes|loose clothing; 3 Dried meat; 3 Millet; 3 Camel milk|milk; 3 Fodder; 3 Salt; 3 Compass; 3 Money|gold|coins; 3 Leader|caravan leader; 3 Interpreter|translator; 3 Sandals; 3 Bags|saddlebags; 3 Firewood|fuel; 3 Cooking pots|pots; 3 Weapons|swords|spears;
+4 Scouts|scout sent ahead|tak shif; 4 Permission from local rulers|safe conduct; 4 Tuareg escort|tuareg guides; 4 Grain; 4 Spare camels
+? Geography | Name a desert anywhere in the world.
+1 Sahara; 1 Gobi; 1 Kalahari; 1 Arabian Desert|arabian; 1 Atacama; 1 Antarctica|antarctic desert;
+2 Namib; 2 Mojave; 2 Sonoran; 2 Thar|great indian desert; 2 Taklamakan|taklimakan; 2 Syrian Desert; 2 Negev; 2 Sinai; 2 Rub' al Khali|rub al khali|empty quarter; 2 Great Victoria Desert; 2 Arctic|arctic desert; 2 Death Valley;
+3 Great Sandy Desert; 3 Simpson Desert; 3 Gibson Desert; 3 Tanami Desert; 3 Karakum|kara kum; 3 Kyzylkum|kyzyl kum; 3 Nubian Desert; 3 Libyan Desert; 3 Western Desert; 3 Eastern Desert; 3 Chihuahuan Desert|chihuahuan; 3 Great Basin Desert|great basin; 3 Patagonian Desert|patagonia; 3 Danakil Desert|danakil; 3 Dasht-e Kavir|dasht e kavir|great salt desert; 3 Dasht-e Lut|dasht e lut|lut desert; 3 Judean Desert; 3 Tenere; 3 Painted Desert; 3 Colorado Desert; 3 Nefud|an nafud; 3 Badain Jaran; 3 Tengger Desert;
+4 Strzelecki Desert; 4 Black Rock Desert; 4 Chalbi Desert; 4 Sechura Desert; 4 Monte Desert; 4 Dahna; 4 Mu Us Desert; 4 Kumtag Desert
+? Tech | Name a way people have preserved food.
+1 Salting|salt; 1 Drying|sun drying; 1 Smoking; 1 Refrigeration|fridge|refrigerator; 1 Freezing;
+2 Pickling; 2 Fermenting|fermentation; 2 Canning|tins|cans; 2 Curing; 2 Brining; 2 Sugar|candying; 2 Honey; 2 Vinegar; 2 Ice|ice house; 2 Jam|jam making|preserves;
+3 Root cellar|cellar; 3 Oil|preserving in oil; 3 Jerky; 3 Salt fish|salted fish|bacalao|stockfish; 3 Pemmican; 3 Cheese making|cheese; 3 Yogurt; 3 Freeze-drying|freeze drying|chuno; 3 Pasteurization; 3 Vacuum sealing; 3 Burying|burying in the ground; 3 Snow; 3 Alcohol|preserving in alcohol; 3 Spices; 3 Kimchi; 3 Dried fruit|raisins; 3 Fish sauce;
+4 Confit; 4 Lye|lutefisk; 4 Irradiation; 4 Preservatives|chemical preservatives; 4 Dehydrator|dehydrating; 4 Ghee|clarified butter
+? Power | Name an official or office in a government between 1200 and 1450 (other than the ruler).
+1 Vizier|wazir|grand vizier; 1 Governor; 1 General; 1 Tax collector; 1 Judge;
+2 Qadi; 2 Emir|amir; 2 Scribe; 2 Scholar-official|mandarin|scholar official; 2 Chancellor; 2 Treasurer; 2 Sheriff; 2 Minister; 2 Ambassador|envoy; 2 Admiral; 2 Mayor; 2 Bailiff; 2 Eunuch|court eunuch;
+3 Mufti; 3 Darughachi|darugha; 3 Chamberlain|hajib; 3 Constable; 3 Marshal; 3 Steward; 3 Seneschal; 3 Censor; 3 Magistrate; 3 Consul; 3 Alderman; 3 Podestà|podesta; 3 Regent; 3 Atabeg; 3 Beylerbey; 3 Muhtasib|market inspector; 3 Shugo; 3 Jito; 3 Farba; 3 Justiciar; 3 Grand secretary|grand secretariat; 3 Bey;
+4 Sheikh ul-Islam|sheikh al islam; 4 Sahib al-shurta|chief of police
+? Wild card | Name a landlocked country in the world today.
+1 Switzerland; 1 Austria; 1 Mongolia; 1 Nepal; 1 Afghanistan; 1 Laos;
+2 Bolivia; 2 Paraguay; 2 Hungary; 2 Czech Republic|czechia; 2 Slovakia; 2 Kazakhstan; 2 Uzbekistan; 2 Mali; 2 Niger; 2 Chad; 2 Ethiopia; 2 Uganda; 2 Rwanda; 2 Zambia; 2 Zimbabwe; 2 Botswana; 2 Bhutan; 2 Belarus; 2 Serbia; 2 Luxembourg; 2 Vatican City|vatican|holy see;
+3 Kyrgyzstan; 3 Tajikistan; 3 Turkmenistan; 3 Azerbaijan; 3 Armenia; 3 Moldova; 3 North Macedonia|macedonia; 3 Kosovo; 3 Liechtenstein; 3 Andorra; 3 San Marino; 3 Burkina Faso; 3 Central African Republic|car; 3 South Sudan; 3 Burundi; 3 Malawi; 3 Lesotho; 3 Eswatini|swaziland
