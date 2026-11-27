@@ -268,3 +268,57 @@
 1 Switzerland; 1 Austria; 1 Mongolia; 1 Nepal; 1 Afghanistan; 1 Laos;
 2 Bolivia; 2 Paraguay; 2 Hungary; 2 Czech Republic|czechia; 2 Slovakia; 2 Kazakhstan; 2 Uzbekistan; 2 Mali; 2 Niger; 2 Chad; 2 Ethiopia; 2 Uganda; 2 Rwanda; 2 Zambia; 2 Zimbabwe; 2 Botswana; 2 Bhutan; 2 Belarus; 2 Serbia; 2 Luxembourg; 2 Vatican City|vatican|holy see;
 3 Kyrgyzstan; 3 Tajikistan; 3 Turkmenistan; 3 Azerbaijan; 3 Armenia; 3 Moldova; 3 North Macedonia|macedonia; 3 Kosovo; 3 Liechtenstein; 3 Andorra; 3 San Marino; 3 Burkina Faso; 3 Central African Republic|car; 3 South Sudan; 3 Burundi; 3 Malawi; 3 Lesotho; 3 Eswatini|swaziland
+
+
+@voyage monsoon | Riding the Monsoon | Gujarati merchants · Cambay to Malacca · c. 1400
+? Trade | Name a good produced in South Asia and traded abroad before 1450.
+1 Cotton cloth|cotton|cotton textiles|textiles|cloth; 1 Pepper|black pepper; 1 Spices;
+2 Cinnamon; 2 Cardamom; 2 Ginger; 2 Turmeric; 2 Indigo; 2 Sugar; 2 Rice; 2 Diamonds|diamond; 2 Pearls|pearl;
+3 Gemstones|gems|precious stones|rubies|sapphires; 3 Teak|timber; 3 Ivory; 3 Sandalwood; 3 Steel|wootz steel|wootz|iron; 3 Calico; 3 Muslin; 3 Chintz; 3 Coconuts|coconut|coir|copra; 3 Betel|betel nut|areca|paan; 3 Lac|shellac;
+4 Long pepper|pippali; 4 Spikenard|nard; 4 Costus; 4 Elephants; 4 Carnelian beads|carnelian|agate|agate beads; 4 Tamarind; 4 Cumin
+? Geography | Name a sea, gulf, bay, or strait that is part of the Indian Ocean.
+1 Arabian Sea; 1 Bay of Bengal; 1 Red Sea; 1 Persian Gulf|arabian gulf;
+2 Strait of Malacca|straits of malacca; 2 Gulf of Aden; 2 Andaman Sea; 2 Gulf of Oman; 2 Strait of Hormuz|hormuz; 2 Mozambique Channel; 2 Bab-el-Mandeb|bab el mandeb;
+3 Laccadive Sea|lakshadweep sea; 3 Gulf of Mannar; 3 Palk Strait|palk bay; 3 Gulf of Khambhat|gulf of cambay; 3 Gulf of Kutch; 3 Timor Sea; 3 Great Australian Bight; 3 Gulf of Suez; 3 Gulf of Aqaba; 3 Somali Sea; 3 Sunda Strait; 3 Gulf of Martaban|gulf of mottama;
+4 Shark Bay; 4 Spencer Gulf; 4 Exmouth Gulf; 4 Zanzibar Channel; 4 Ten Degree Channel; 4 Eight Degree Channel; 4 Nine Degree Channel; 4 Maputo Bay|delagoa bay; 4 Algoa Bay
+? Society | Name a merchant community or trading group from history.
+1 Hanseatic League|hansa|hanseatic merchants; 1 Phoenicians|phoenician; 1 Venetians|venetian merchants;
+2 Gujaratis|gujarati merchants; 2 Swahili merchants|swahili; 2 Sogdians|sogdian; 2 Armenian merchants|armenians; 2 Genoese|genoese merchants; 2 Radhanites|jewish merchants; 2 Dutch East India Company|voc; 2 British East India Company|east india company|eic; 2 Arab merchants|arabs; 2 Pochteca;
+3 Medici|medici bank; 3 Chettiars|chettiar; 3 Marwaris|marwari; 3 Parsis|parsi; 3 Bohras|bohra; 3 Multanis|multani; 3 Banias|bania|baniya; 3 Dyula|juula|wangara; 3 Hausa traders|hausa; 3 Chinese merchants|overseas chinese|hokkien merchants; 3 Persian merchants|persians; 3 Malay merchants|malays; 3 Bugis; 3 Karimi merchants|karimi|kharimi; 3 Ortoq|ortogh; 3 Fuggers|fugger; 3 Lombards; 3 Florentine merchants|florentines; 3 Tamil merchant guilds|tamil merchants|ainnurruvar; 3 Cohong|hong merchants; 3 Hudson's Bay Company; 3 Muscovy Company; 3 Levant Company;
+4 Nabataeans; 4 Carthaginians|carthage; 4 Maghribi traders; 4 Huizhou merchants|hui merchants; 4 Shanxi merchants; 4 Aro Confederacy|aro; 4 Varangians|vikings; 4 Frisians
+? Places | Name a city in India today.
+1 Mumbai|bombay; 1 Delhi|new delhi; 1 Kolkata|calcutta; 1 Chennai|madras; 1 Bangalore|bengaluru; 1 Agra; 1 Hyderabad;
+2 Jaipur; 2 Ahmedabad; 2 Pune|poona; 2 Varanasi|benares|banaras; 2 Lucknow; 2 Amritsar; 2 Kochi|cochin; 2 Surat; 2 Mysore|mysuru; 2 Kanpur;
+3 Kozhikode|calicut; 3 Udaipur; 3 Jodhpur; 3 Chandigarh; 3 Bhopal; 3 Indore; 3 Patna; 3 Nagpur; 3 Madurai; 3 Visakhapatnam|vizag; 3 Thiruvananthapuram|trivandrum; 3 Coimbatore; 3 Puducherry|pondicherry; 3 Srinagar; 3 Shimla|simla; 3 Darjeeling; 3 Vadodara|baroda; 3 Guwahati; 3 Bhubaneswar; 3 Rishikesh; 3 Haridwar; 3 Ayodhya; 3 Mangalore|mangaluru; 3 Prayagraj|allahabad; 3 Jaisalmer;
+4 Khambhat|cambay; 4 Kollam|quilon; 4 Bodh Gaya; 4 Panaji|panjim; 4 Bikaner; 4 Ajmer; 4 Gwalior; 4 Jhansi; 4 Mathura; 4 Pushkar; 4 Shillong; 4 Imphal; 4 Leh; 4 Gangtok; 4 Ranchi; 4 Raipur; 4 Dehradun; 4 Thanjavur|tanjore; 4 Kanchipuram; 4 Tirupati; 4 Vijayawada; 4 Aurangabad; 4 Nashik; 4 Ujjain; 4 Bharuch|broach; 4 Kannur|cannanore; 4 Murshidabad; 4 Diu; 4 Daman
+? Wild card | Name a food or drink made from rice.
+1 Sushi; 1 Fried rice; 1 Risotto; 1 Paella; 1 Biryani;
+2 Congee|rice porridge|chao|jook; 2 Mochi; 2 Pho|phở; 2 Bibimbap; 2 Onigiri|rice ball|rice balls; 2 Rice pudding|arroz con leche; 2 Sake; 2 Pilaf|pilau|plov|pulao; 2 Jollof rice|jollof; 2 Nasi goreng; 2 Rice paper rolls|spring rolls|goi cuon|summer rolls; 2 Rice cakes;
+3 Nasi lemak; 3 Kimbap|gimbap; 3 Tteokbokki|tteok; 3 Idli; 3 Dosa; 3 Kheer; 3 Horchata; 3 Arancini; 3 Jambalaya; 3 Cơm tấm|com tam|broken rice; 3 Bánh chưng|banh chung; 3 Bánh cuốn|banh cuon; 3 Bún chả|bun cha|bun; 3 Sticky rice|xôi|xoi|mango sticky rice; 3 Rice wine; 3 Makgeolli; 3 Puffed rice|rice krispies|murmura; 3 Dolma|dolmas|stuffed grape leaves; 3 Pad thai; 3 Hủ tiếu|hu tieu; 3 Ketupat; 3 Lontong;
+4 Amazake; 4 Appam|hoppers; 4 Puttu; 4 Poha; 4 Arroz con pollo; 4 Gallo pinto; 4 Rice vinegar; 4 Senbei|rice crackers; 4 Shochu; 4 Bánh xèo|banh xeo; 4 Bánh bèo|banh beo; 4 Zongzi; 4 Tangyuan; 4 Dango; 4 Kedgeree; 4 Risi e bisi; 4 Chicken rice|hainanese chicken rice|khao man gai; 4 Omurice; 4 Donburi|katsudon|gyudon
+
+@voyage odoric | The Friar's Long Road East | Odoric of Pordenone · Trebizond to Khanbaliq · 1318–1325
+? Places | Name a country in the Middle East today.
+1 Iran; 1 Iraq; 1 Saudi Arabia; 1 Turkey|turkiye; 1 Israel; 1 Egypt;
+2 Syria; 2 Jordan; 2 Lebanon; 2 United Arab Emirates|uae|emirates; 2 Qatar; 2 Kuwait; 2 Yemen; 2 Oman; 2 Palestine|state of palestine|palestinian territories;
+3 Bahrain; 3 Cyprus
+? Belief | Name the founder or a major leader of a religion or religious movement.
+1 Muhammad|prophet muhammad|mohammed; 1 Jesus|jesus christ|christ; 1 Buddha|siddhartha gautama|gautama buddha|siddhartha; 1 Confucius|kongzi; 1 Martin Luther|luther;
+2 Moses; 2 Abraham; 2 Laozi|lao tzu|lao-tzu; 2 Guru Nanak|nanak; 2 Zoroaster|zarathustra; 2 Mahavira; 2 John Calvin|calvin; 2 Dalai Lama; 2 Pope Francis; 2 Saint Paul|paul|apostle paul;
+3 Ali|ali ibn abi talib; 3 Mani; 3 Bodhidharma; 3 Shinran; 3 Nichiren; 3 Honen; 3 Dogen; 3 Adi Shankara|shankara|shankaracharya; 3 Ramanuja; 3 Kabir; 3 Chaitanya|chaitanya mahaprabhu; 3 John Wesley|wesley; 3 Henry VIII; 3 Baha'u'llah|bahaullah; 3 Joseph Smith; 3 Guru Gobind Singh; 3 Ignatius of Loyola|ignatius loyola|loyola; 3 Francis of Assisi|saint francis; 3 Rumi; 3 Huldrych Zwingli|zwingli; 3 Hong Xiuquan; 3 Mencius; 3 Zhu Xi; 3 Huỳnh Phú Sổ|huynh phu so; 3 Ngô Văn Chiêu|ngo van chieu;
+4 Mary Baker Eddy; 4 George Fox; 4 John Knox; 4 Menno Simons; 4 Jan Hus|hus; 4 John Wycliffe|wycliffe; 4 Saint Dominic|dominic; 4 Saint Benedict|benedict; 4 Ann Lee; 4 Baal Shem Tov; 4 Maimonides; 4 Al-Ghazali|ghazali; 4 Wovoka; 4 Handsome Lake; 4 Kimpa Vita; 4 Ellen G. White|ellen white; 4 The Bab|bab; 4 Thich Nhat Hanh; 4 Huineng; 4 Padmasambhava; 4 Tsongkhapa; 4 Ramakrishna; 4 Swami Vivekananda|vivekananda; 4 Dayananda Saraswati; 4 Ram Mohan Roy; 4 Muhammad ibn Abd al-Wahhab|abd al-wahhab
+? Society | Name a piece of clothing or jewelry worn somewhere in the world before 1500.
+1 Robe|robes; 1 Turban; 1 Sandals; 1 Crown; 1 Tunic;
+2 Sari|saree; 2 Toga; 2 Veil; 2 Cloak|cape|mantle; 2 Boots; 2 Necklace; 2 Earrings; 2 Bracelet|bangles|bangle; 2 Ring|rings; 2 Kimono|kosode; 2 Dhoti; 2 Hanfu;
+3 Deel|del|mongolian robe; 3 Feather headdress|headdress; 3 Loincloth|maxtlatl|breechcloth; 3 Huipil; 3 Tilma; 3 Hose|stockings|tights; 3 Doublet; 3 Wimple; 3 Hood; 3 Belt|girdle; 3 Brooch|fibula; 3 Anklet|anklets; 3 Amulet|amulets|charms; 3 Beads; 3 Headscarf|hijab; 3 Kaftan|caftan; 3 Shoes; 3 Gloves; 3 Hat|hats; 3 Sash; 3 Nose ring|nose rings; 3 Lip plug|labret; 3 Sarong; 3 Shawl; 3 Tabard; 3 Surcoat;
+4 Boqta|boghta|gugu hat; 4 Jeogori; 4 Poulaines|pointed shoes; 4 Jade jewelry|jade; 4 Ear spools|ear plugs; 4 Chainse
+? Wild card | Name a famous palace anywhere in the world.
+1 Buckingham Palace; 1 Palace of Versailles|versailles; 1 Forbidden City; 1 Topkapi Palace|topkapi;
+2 Alhambra; 2 Winter Palace|hermitage; 2 Potala Palace|potala; 2 Kremlin; 2 Gyeongbokgung; 2 Hampton Court Palace|hampton court; 2 Louvre Palace|louvre; 2 Schönbrunn Palace|schonbrunn|schoenbrunn; 2 Summer Palace; 2 Grand Palace|grand palace bangkok; 2 Independence Palace|reunification palace;
+3 Doge's Palace|doges palace|palazzo ducale; 3 Peterhof; 3 Dolmabahçe Palace|dolmabahce; 3 Red Fort|lal qila; 3 Mysore Palace; 3 Hawa Mahal; 3 City Palace; 3 Imperial City of Huế|imperial city of hue|hue imperial city|hue citadel; 3 Palace of Westminster|houses of parliament; 3 Neuschwanstein|neuschwanstein castle; 3 Sanssouci; 3 Changdeokgung; 3 Golestan Palace; 3 Palace of Knossos|knossos; 3 Persepolis; 3 Royal Palace of Madrid|palacio real; 3 El Escorial|escorial; 3 Fontainebleau; 3 Hofburg; 3 Kensington Palace; 3 Holyrood Palace|holyroodhouse; 3 Tokyo Imperial Palace|imperial palace;
+4 Ali Qapu; 4 Chehel Sotoun; 4 Shuri Castle; 4 Iolani Palace; 4 Pitti Palace|palazzo pitti; 4 Linlithgow Palace; 4 Fatehpur Sikri; 4 Amber Fort|amer fort; 4 Lake Palace; 4 Umaid Bhawan; 4 Mafra Palace; 4 Pena Palace; 4 Palais des Papes|papal palace; 4 Catherine Palace; 4 Charlottenburg; 4 Drottningholm; 4 Het Loo; 4 Wilanów|wilanow; 4 Blenheim Palace; 4 Kyoto Imperial Palace; 4 Mandalay Palace; 4 Istana Nurul Iman; 4 Rashtrapati Bhavan; 4 National Palace|palacio nacional; 4 Casa Rosada; 4 Malacañang Palace|malacanang
+? Trade | Name a good that China exported between 1200 and 1450.
+1 Silk; 1 Porcelain|china|chinaware; 1 Tea;
+2 Paper; 2 Copper coins|coins|chinese coins; 2 Ceramics|pottery|celadon; 2 Lacquerware|lacquer; 2 Iron goods|iron|iron pots|ironware; 2 Books;
+3 Rhubarb; 3 Musk; 3 Ginger; 3 Camphor; 3 Sugar; 3 Satin; 3 Brocade; 3 Umbrellas|parasols; 3 Fans; 3 Cassia|chinese cinnamon; 3 Copper|copperware;
+4 Star anise; 4 Galangal; 4 Gold and silver thread; 4 Ink|ink sticks; 4 Medicinal herbs|herbal medicine

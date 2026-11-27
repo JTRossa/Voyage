@@ -269,3 +269,58 @@
 2 Amethyst; 2 Topaz; 2 Opal; 2 Jade; 2 Garnet; 2 Turquoise; 2 Lapis lazuli|lapis; 2 Aquamarine; 2 Amber; 2 Coral;
 3 Onyx; 3 Agate; 3 Carnelian; 3 Peridot; 3 Tourmaline; 3 Moonstone; 3 Citrine; 3 Jasper; 3 Spinel; 3 Beryl; 3 Zircon; 3 Malachite; 3 Obsidian; 3 Tanzanite; 3 Quartz|rose quartz; 3 Chalcedony; 3 Chrysoberyl|cats eye; 3 Jet;
 4 Alexandrite; 4 Bloodstone; 4 Tiger's eye|tigers eye; 4 Sardonyx; 4 Hematite; 4 Kunzite; 4 Morganite; 4 Labradorite; 4 Sunstone
+
+
+@voyage cahokia | The River City | Mississippian traders · Gulf Coast to Lake Superior · c. 1200
+? Trade | Name a good or material that was traded across North America before 1450.
+1 Copper; 1 Shells|seashells|shell|conch shells|whelk shells; 1 Corn|maize;
+2 Obsidian; 2 Furs|fur|animal skins|hides|deerskins; 2 Salt; 2 Pottery|ceramics; 2 Turquoise; 2 Flint|chert;
+3 Mica; 3 Galena|lead; 3 Pipestone|catlinite; 3 Tobacco; 3 Dried fish|fish; 3 Bison hides|buffalo hides|bison robes; 3 Shell beads|beads|wampum; 3 Feathers|macaw feathers; 3 Cacao|chocolate; 3 Cotton cloth|cotton;
+4 Red ochre|ochre|hematite; 4 Shark teeth|sharks teeth; 4 Freshwater pearls|pearls; 4 Bow wood|osage orange|bows; 4 Dried meat|pemmican|jerky; 4 Wild rice; 4 Quartz crystals|quartz; 4 Stone hoes|hoes|mill creek hoes; 4 Macaws|parrots; 4 Yaupon|black drink
+? Places | Name a city or large settlement in the Americas that existed between 1200 and 1450.
+1 Tenochtitlan|tenochtitlán; 1 Cusco|cuzco|qosqo; 1 Cahokia;
+2 Chan Chan; 2 Tlatelolco; 2 Mayapan|mayapán; 2 Texcoco; 2 Mesa Verde|cliff palace;
+3 Moundville; 3 Etowah; 3 Spiro; 3 Tlacopan|tacuba; 3 Azcapotzalco; 3 Cholula; 3 Tzintzuntzan; 3 Paquimé|paquime|casas grandes; 3 Taos Pueblo|taos; 3 Acoma Pueblo|acoma|sky city; 3 Pachacamac; 3 Tulum; 3 Mitla; 3 Oraibi|old oraibi;
+4 Aztalan; 4 Kincaid Mounds|kincaid; 4 Zaachila; 4 Cempoala|zempoala; 4 Q'umarkaj|utatlan|kumarcaaj; 4 Winterville; 4 Coixtlahuaca; 4 Túcume|tucume; 4 Casa Grande; 4 Pueblo Grande
+? Tech | Name a material that people used for building before 1450.
+1 Stone; 1 Wood|timber; 1 Brick|bricks;
+2 Mud brick|adobe|mud bricks; 2 Clay; 2 Thatch|straw|reeds; 2 Marble; 2 Bamboo;
+3 Limestone; 3 Granite; 3 Sandstone; 3 Mortar|lime mortar|lime; 3 Concrete|roman concrete; 3 Earth|rammed earth|packed earth|mud; 3 Plaster|stucco; 3 Tiles|roof tiles|ceramic tiles; 3 Wattle and daub|wattle|daub; 3 Animal hides|skins|leather; 3 Felt; 3 Glass|stained glass;
+4 Coral stone|coral|coral rag; 4 Sod|turf; 4 Snow blocks|snow|ice; 4 Basalt; 4 Volcanic stone|tezontle|tuff|pumice; 4 Bark|birch bark; 4 Palm leaves|palm fronds; 4 Lead; 4 Iron; 4 Bronze; 4 Copper; 4 Slate; 4 Bone|whale bone|mammoth bone; 4 Gold leaf|gold; 4 Laterite; 4 Teak; 4 Cedar
+? Culture | Name a U.S. state whose name comes from a Native American or other Indigenous language.
+1 Texas; 1 Mississippi; 1 Ohio; 1 Michigan; 1 Hawaii;
+2 Alaska; 2 Illinois; 2 Kansas; 2 Kentucky; 2 Massachusetts; 2 Minnesota; 2 Missouri; 2 Oklahoma; 2 Tennessee; 2 Wisconsin; 2 Utah;
+3 Alabama; 3 Arkansas; 3 Connecticut; 3 Iowa; 3 Nebraska; 3 Wyoming; 3 North Dakota|dakota; 3 South Dakota;
+4 New Mexico
+? Wild card | Name a food or drink made from corn (maize).
+1 Tortilla|tortillas; 1 Popcorn; 1 Tacos|taco; 1 Cornbread|corn bread;
+2 Tamales|tamale; 2 Nachos|tortilla chips|corn chips; 2 Corn on the cob; 2 Grits; 2 Polenta; 2 Cornflakes|corn flakes; 2 Arepa|arepas; 2 Enchiladas|enchilada; 2 Corn dog|corndog;
+3 Hominy; 3 Masa; 3 Pozole|posole; 3 Atole; 3 Chicha|chicha morada; 3 Pupusa|pupusas; 3 Elote|esquites; 3 Tostada|tostadas; 3 Quesadilla; 3 Corn syrup|high fructose corn syrup; 3 Corn oil; 3 Cornmeal|corn flour; 3 Bourbon|corn whiskey; 3 Hush puppies|hushpuppies; 3 Succotash; 3 Johnnycake|johnny cake|johnnycakes;
+4 Pinole; 4 Tejuino; 4 Humitas|humita; 4 Mote; 4 Tlayuda|tlayudas; 4 Corn chowder; 4 Cornstarch|corn starch; 4 Tlacoyo|tlacoyos; 4 Sopes|sope; 4 Gorditas|gordita; 4 Chilaquiles; 4 Corn tea|oksusu cha; 4 Ugali; 4 Sadza|nshima|pap|mealie pap; 4 Sweet corn soup|corn soup; 4 Mamaliga|mămăligă
+
+@voyage zion | The Pilgrims of Zion | Ethiopian pilgrims · Lalibela to Jerusalem · c. 1400
+? Belief | Name a person from the Bible (the Hebrew Bible or the New Testament).
+1 Jesus|jesus christ|christ; 1 Moses; 1 Abraham; 1 Noah; 1 Adam; 1 Eve; 1 David|king david; 1 Mary|virgin mary;
+2 Solomon|king solomon; 2 Paul|saint paul|apostle paul; 2 Peter|saint peter|simon peter; 2 John the Baptist; 2 Joseph; 2 Isaac; 2 Jacob; 2 Goliath; 2 Judas|judas iscariot; 2 Cain; 2 Abel; 2 Samson; 2 Daniel; 2 Jonah;
+3 Queen of Sheba|sheba|makeda; 3 Sarah; 3 Ruth; 3 Esther; 3 Elijah; 3 Isaiah; 3 Jeremiah; 3 Joshua; 3 Aaron; 3 Saul|king saul; 3 Mary Magdalene; 3 Pontius Pilate|pilate; 3 John the Apostle|saint john|john; 3 Matthew; 3 Mark; 3 Luke; 3 Thomas|doubting thomas; 3 Lazarus; 3 Rebecca|rebekah; 3 Rachel; 3 Delilah; 3 Herod|king herod; 3 Job;
+4 Methuselah; 4 Deborah; 4 Gideon; 4 Samuel; 4 Ezekiel; 4 Nebuchadnezzar; 4 Bathsheba; 4 Absalom; 4 Leah; 4 Miriam; 4 Ishmael; 4 Esau; 4 Nehemiah; 4 Ezra; 4 Stephen|saint stephen; 4 Barnabas; 4 Philip; 4 Andrew; 4 Timothy; 4 Nicodemus; 4 Zacchaeus; 4 Melchizedek; 4 Boaz; 4 Naomi; 4 Hagar; 4 Jezebel; 4 Elisha; 4 Hosea; 4 Micah; 4 Caiaphas; 4 Martha
+? Society | Name a crop, food, or dish that comes from Africa.
+1 Coffee; 1 Couscous; 1 Jollof rice|jollof; 1 Injera;
+2 Teff; 2 Fufu; 2 Ugali; 2 Yams|yam; 2 Millet; 2 Sorghum; 2 Tagine|tajine; 2 Okra; 2 Watermelon;
+3 Kola nuts|kola nut|cola nut; 3 Shea butter|shea; 3 Palm oil|oil palm; 3 Black-eyed peas|cowpeas|cowpea; 3 African rice; 3 Biltong; 3 Bobotie; 3 Bunny chow; 3 Suya; 3 Egusi|egusi soup; 3 Doro wat|doro wot; 3 Berbere; 3 Shakshuka; 3 Ful medames|ful; 3 Koshari|koshary; 3 Pap|mealie pap|sadza|nshima; 3 Chakalaka; 3 Thieboudienne|ceebu jen; 3 Harissa; 3 Mafe|peanut stew|groundnut stew; 3 Plantain|plantains|fried plantain;
+4 Enset|ensete|false banana; 4 Fonio; 4 Tej|honey wine; 4 Rooibos|rooibos tea; 4 Baobab fruit|baobab; 4 Kenkey; 4 Banku; 4 Moi moi|moin moin; 4 Kitfo; 4 Tibs; 4 Bambara groundnut; 4 Pastilla|bastilla; 4 Brik; 4 Molokhia|mulukhiyah; 4 Matoke; 4 Mandazi; 4 Nyama choma; 4 Piri piri|peri peri; 4 Grains of paradise|melegueta pepper; 4 Sukuma wiki
+? Power | Name a kingdom, empire, or state ruled by Christians between 1200 and 1450.
+1 Byzantine Empire|byzantium|byzantine|eastern roman empire; 1 Holy Roman Empire|hre; 1 England; 1 France;
+2 Ethiopia|abyssinia|ethiopian empire|solomonic dynasty|zagwe dynasty|zagwe; 2 Kingdom of Jerusalem|jerusalem; 2 Castile; 2 Aragon; 2 Portugal; 2 Scotland; 2 Papal States; 2 Republic of Venice|venice; 2 Poland; 2 Hungary; 2 Kievan Rus|kyivan rus|rus;
+3 Kingdom of Georgia|georgia; 3 Republic of Genoa|genoa; 3 Kingdom of Sicily|sicily; 3 Kingdom of Naples|naples; 3 Muscovy|grand duchy of moscow; 3 Novgorod Republic|novgorod; 3 Serbia|serbian empire; 3 Bulgaria|second bulgarian empire; 3 Lithuania|grand duchy of lithuania; 3 Denmark; 3 Norway; 3 Sweden; 3 Bohemia; 3 Navarre; 3 Latin Empire; 3 Kingdom of Cyprus|cyprus; 3 Teutonic Order|teutonic knights;
+4 Makuria; 4 Alodia|alwa; 4 Armenian Kingdom of Cilicia|cilicia|cilician armenia; 4 Empire of Trebizond|trebizond; 4 Empire of Nicaea|nicaea; 4 Despotate of Epirus|epirus; 4 Kalmar Union; 4 Wallachia; 4 Moldavia; 4 Duchy of Burgundy|burgundy; 4 Republic of Florence|florence; 4 Duchy of Milan|milan; 4 County of Tripoli; 4 Principality of Antioch|antioch; 4 Gwynedd|wales; 4 Kingdom of Bosnia|bosnia; 4 Livonian Order|livonia
+? Culture | Name a writing system or script used somewhere between 1200 and 1450.
+1 Arabic script|arabic|arabic alphabet; 1 Latin alphabet|latin|roman alphabet|latin script; 1 Chinese characters|chinese|hanzi|chinese script;
+2 Greek alphabet|greek; 2 Hebrew alphabet|hebrew; 2 Cyrillic|cyrillic alphabet; 2 Devanagari; 2 Maya script|maya glyphs|mayan glyphs|maya hieroglyphs; 2 Hangul|hangeul|korean alphabet; 2 Kana|hiragana|katakana; 2 Runes|runic|runic alphabet|futhark;
+3 Ge'ez script|geez|ethiopic|fidel; 3 Kanji; 3 Hanja; 3 Chữ Nôm|chu nom|nom script; 3 Mongolian script|uyghur-mongolian script|mongolian; 3 Phags-pa script|phags-pa|phagspa; 3 Tibetan script|tibetan; 3 Armenian alphabet|armenian; 3 Georgian script|georgian|mkhedruli; 3 Syriac alphabet|syriac; 3 Tamil script|tamil; 3 Khmer script|khmer; 3 Aztec writing|aztec glyphs|aztec pictographs|nahuatl glyphs; 3 Mixtec writing|mixtec codices; 3 Coptic alphabet|coptic; 3 Glagolitic; 3 Thai script|thai alphabet|sukhothai script; 3 Javanese script|kawi|old javanese;
+4 Old Uyghur script|uyghur script; 4 Burmese script|burmese; 4 Bengali script|bengali; 4 Kannada script|kannada|telugu script; 4 Sinhala script|sinhala; 4 Malayalam script|malayalam; 4 Grantha; 4 Sharada; 4 Tifinagh; 4 Tangut script|tangut; 4 Jurchen script|jurchen; 4 Old Permic|abur; 4 Old Hungarian|rovas|hungarian runes
+? Wild card | Name a queen or empress from history (a ruler or a royal wife).
+1 Cleopatra; 1 Elizabeth I|elizabeth the first|queen elizabeth i; 1 Queen Victoria|victoria; 1 Elizabeth II|queen elizabeth ii; 1 Catherine the Great|catherine ii; 1 Marie Antoinette;
+2 Wu Zetian|empress wu|wu zhao; 2 Isabella I of Castile|isabella of castile|isabella; 2 Hatshepsut; 2 Nzinga|njinga|queen nzinga|nzinga mbande; 2 Maria Theresa; 2 Mary I|bloody mary|mary tudor; 2 Mary, Queen of Scots|mary queen of scots|mary stuart; 2 Cixi|empress dowager cixi; 2 Nefertiti; 2 Anne Boleyn; 2 Liliuokalani|queen liliuokalani; 2 Razia Sultana|razia|raziya; 2 Queen of Sheba|sheba|makeda;
+3 Tamar of Georgia|queen tamar|tamar; 3 Amina of Zazzau|queen amina|amina; 3 Theodora|empress theodora; 3 Zenobia; 3 Seondeok|queen seondeok; 3 Margaret I of Denmark|margaret of denmark|margrethe i; 3 Jadwiga|hedwig of poland; 3 Christina of Sweden|queen christina|kristina; 3 Queen Anne; 3 Mary II; 3 Eleanor of Aquitaine; 3 Ranavalona I|ranavalona; 3 Nur Jahan; 3 Rani Lakshmibai|lakshmibai|rani of jhansi; 3 Trưng Sisters|trung sisters|hai ba trung|trung trac; 3 Boudica|boudicca; 3 Empress Matilda|matilda; 3 Irene of Athens|empress irene; 3 Himiko|queen himiko; 3 Empress Suiko|suiko; 3 Catherine of Aragon; 3 Empress Josephine|josephine|josephine bonaparte; 3 Mumtaz Mahal;
+4 Shajar al-Durr|shajarat al-durr; 4 Urraca of León|urraca; 4 Lý Chiêu Hoàng|ly chieu hoang; 4 Empress Nam Phương|nam phuong; 4 Empress Myeongseong|queen min|myeongseong; 4 Olga of Kiev|saint olga|olga; 4 Taytu Betul|empress taytu; 4 Zewditu|empress zewditu; 4 Queen Wilhelmina|wilhelmina; 4 Margrethe II; 4 Empress Elizabeth of Russia|elizabeth of russia|elizaveta; 4 Alexandra Feodorovna|empress alexandra; 4 Sobekneferu

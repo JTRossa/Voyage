@@ -347,3 +347,57 @@
 2 Udon; 2 Soba; 2 Sake; 2 Wasabi; 2 Edamame; 2 Teriyaki; 2 Yakitori; 2 Onigiri|rice ball; 2 Takoyaki; 2 Okonomiyaki; 2 Gyoza; 2 Bento; 2 Tofu; 2 Tonkatsu|katsu; 2 Wagyu|kobe beef; 2 Soy sauce|shoyu; 2 Curry rice|japanese curry;
 3 Natto; 3 Sukiyaki; 3 Shabu-shabu|shabu shabu; 3 Dorayaki; 3 Dango; 3 Castella|kasutera; 3 Umeboshi; 3 Nori; 3 Ponzu; 3 Dashi; 3 Unagi; 3 Tamagoyaki; 3 Karaage; 3 Donburi|gyudon|katsudon; 3 Oden; 3 Yakisoba; 3 Taiyaki; 3 Wagashi; 3 Mirin; 3 Kaiseki; 3 Chawanmushi; 3 Shochu; 3 Konpeito|konpeito candy;
 4 Mentaiko; 4 Tsukemono; 4 Nabe; 4 Hojicha; 4 Genmaicha; 4 Amazake; 4 Yokan
+
+
+@voyage dias | The Cape of Storms | Bartolomeu Dias · Lisbon to the Cape of Good Hope · 1487–1488
+? Power | Name a fort, trading post, or colony that Europeans held in Africa between 1450 and 1750.
+1 Elmina|elmina castle|sao jorge da mina; 1 Cape Colony|cape town|cape of good hope; 1 Luanda|angola;
+2 Cape Coast Castle|cape coast; 2 Fort Jesus|mombasa; 2 Gorée|goree|goree island; 2 Mozambique Island|ilha de mocambique; 2 São Tomé|sao tome; 2 Cape Verde|cabo verde; 2 Canary Islands|canaries; 2 Madeira; 2 Ceuta; 2 Saint-Louis|saint louis|st louis;
+3 Benguela; 3 Sofala; 3 Kilwa; 3 Tangier; 3 Mazagan|el jadida; 3 Arguin; 3 Príncipe|principe; 3 James Island|kunta kinteh island|fort james; 3 Bunce Island; 3 Christiansborg|osu castle; 3 Fort Nassau; 3 Axim|fort san antonio; 3 Ouidah|whydah; 3 Melilla; 3 Oran; 3 Mauritius; 3 Réunion|reunion|bourbon;
+4 Fort Amsterdam|kormantin; 4 Agadir|santa cruz do cabo de gue; 4 Safi; 4 Larache; 4 Mogador|essaouira; 4 Massangano; 4 Sena; 4 Tete; 4 Malindi; 4 Cacheu; 4 Bissau; 4 Fort Frederiksborg
+? People | Name an African ruler or leader who lived between 1450 and 1750.
+1 Nzinga|queen nzinga|njinga|nzinga mbande; 1 Askia Muhammad|askia the great|askia; 1 Sunni Ali|sonni ali;
+2 Afonso I|nzinga mbemba|afonso of kongo; 2 Osei Tutu; 2 Okomfo Anokye; 2 Idris Alooma|idris alawoma; 2 Ahmad al-Mansur|al-mansur; 2 Ewuare|oba ewuare|ewuare the great; 2 Mwene Mutapa|monomotapa|mutapa;
+3 Lebna Dengel|dawit ii; 3 Ahmad ibn Ibrahim al-Ghazi|ahmad gragn|ahmad gran|gragn; 3 Susenyos; 3 Fasilides|fasil; 3 Iyasu I|iyasu the great; 3 Moulay Ismail|mulay ismail; 3 Kimpa Vita|beatriz kimpa vita|dona beatriz; 3 Garcia II of Kongo|garcia ii; 3 Antonio I of Kongo|antonio i|vita a nkanga; 3 Agaja|king agaja; 3 Opoku Ware; 3 Esigie|oba esigie; 3 Ozolua|oba ozolua; 3 Askia Dawud|askia daoud; 3 Amina of Zazzau|queen amina|amina; 3 Zara Yaqob|zera yacob; 3 Muhammad Rumfa|mohammed rumfa; 3 Nzinga a Nkuwu|joao i of kongo;
+4 Tegbesu; 4 Changamire Dombo|dombo; 4 Ali Ghaji; 4 Eskender; 4 Gelawdewos|claudius; 4 Sarsa Dengel; 4 Houegbadja|wegbaja
+? Culture | Name a language spoken in Africa today.
+1 Swahili|kiswahili; 1 Arabic; 1 French; 1 English; 1 Zulu|isizulu;
+2 Amharic; 2 Hausa; 2 Yoruba; 2 Igbo|ibo; 2 Portuguese; 2 Afrikaans; 2 Xhosa|isixhosa; 2 Somali; 2 Berber|tamazight|amazigh; 2 Malagasy;
+3 Oromo|afaan oromo; 3 Tigrinya; 3 Wolof; 3 Fula|fulani|fulfulde|pulaar; 3 Lingala; 3 Kikongo|kongo; 3 Shona; 3 Ndebele; 3 Sesotho|sotho; 3 Setswana|tswana; 3 Kinyarwanda; 3 Kirundi; 3 Luganda|ganda; 3 Twi|akan|fante|fanti; 3 Ewe; 3 Bambara|bamanankan; 3 Mandinka|mandingo; 3 Kanuri; 3 Kikuyu|gikuyu; 3 Luo|dholuo; 3 Chichewa|nyanja; 3 Bemba; 3 Spanish; 3 Maasai|maa;
+4 Tsonga|xitsonga; 4 Venda|tshivenda; 4 Sango; 4 Krio; 4 Ga; 4 Fon; 4 Dinka; 4 Nuer; 4 Afar; 4 Tigre; 4 Sidamo|sidama; 4 Umbundu; 4 Kimbundu; 4 Herero; 4 Oshiwambo|ovambo; 4 Mende; 4 Temne; 4 Swati|siswati; 4 Tumbuka; 4 Makhuwa|makua; 4 Kalenjin; 4 Nubian; 4 Hassaniya; 4 Songhay|songhai; 4 Dyula|jula; 4 Mooré|moore|mossi; 4 Efik; 4 Ibibio; 4 Tiv; 4 Edo|bini; 4 Ijaw; 4 Nigerian Pidgin|pidgin; 4 Comorian|shikomori; 4 Mauritian Creole|morisyen; 4 Seychellois Creole|seselwa
+? Geography | Name a river that flows into the Atlantic Ocean, the Caribbean Sea, or the Gulf of Mexico.
+1 Amazon; 1 Mississippi; 1 Congo|zaire; 1 Niger;
+2 Rio Grande|rio bravo; 2 St. Lawrence|saint lawrence; 2 Orinoco; 2 Paraná|parana; 2 Río de la Plata|rio de la plata|river plate; 2 Senegal; 2 Gambia; 2 Orange; 2 Hudson; 2 Tagus|tejo|tajo; 2 Loire;
+3 Uruguay; 3 São Francisco|sao francisco; 3 Kwanza|cuanza; 3 Volta; 3 Ogooué|ogooue|ogowe; 3 Douro|duero; 3 Guadalquivir; 3 Minho|miño; 3 Garonne|gironde; 3 Delaware; 3 Potomac; 3 James; 3 Savannah; 3 Magdalena; 3 Shannon; 3 Severn; 3 Essequibo; 3 Usumacinta; 3 Mobile; 3 Brazos; 3 Connecticut; 3 Susquehanna; 3 Seine; 3 Kunene|cunene; 3 Sanaga;
+4 Sassandra; 4 Cavally; 4 St. Johns|saint johns; 4 Sabine; 4 Grijalva; 4 Coatzacoalcos; 4 Pánuco|panuco; 4 Atrato; 4 Suriname; 4 Maroni; 4 Oyapock; 4 Parnaíba|parnaiba; 4 Tocantins; 4 Kennebec; 4 Merrimack; 4 Adour; 4 Mondego; 4 Guadiana
+? Wild card | Name a country that lies entirely or mostly in the Southern Hemisphere.
+1 Australia; 1 New Zealand; 1 South Africa; 1 Argentina; 1 Brazil; 1 Chile;
+2 Peru; 2 Bolivia; 2 Paraguay; 2 Uruguay; 2 Madagascar; 2 Indonesia; 2 Fiji; 2 Mozambique; 2 Angola; 2 Zimbabwe; 2 Zambia; 2 Namibia; 2 Botswana; 2 Tanzania;
+3 Malawi; 3 Lesotho; 3 Eswatini|swaziland; 3 Mauritius; 3 Papua New Guinea|png; 3 Samoa; 3 Tonga; 3 Rwanda; 3 Burundi; 3 Democratic Republic of the Congo|drc|dr congo; 3 Ecuador; 3 Gabon; 3 Republic of the Congo|congo-brazzaville|congo; 3 Solomon Islands; 3 Vanuatu; 3 Comoros; 3 Seychelles; 3 Timor-Leste|east timor; 3 Nauru; 3 Tuvalu
+
+@voyage roe | The Ambassador to the Great Mughal | Sir Thomas Roe · London to Ajmer · 1615–1616
+? Places | Name a city in present-day India that was a port or trading center between 1450 and 1750.
+1 Goa; 1 Surat; 1 Calicut|kozhikode; 1 Bombay|mumbai; 1 Madras|chennai;
+2 Calcutta|kolkata; 2 Cochin|kochi; 2 Agra; 2 Delhi; 2 Pondicherry|puducherry; 2 Ahmedabad; 2 Cambay|khambhat;
+3 Masulipatnam|machilipatnam; 3 Diu; 3 Daman; 3 Hooghly|hugli; 3 Chinsurah|chinsura; 3 Chandernagore|chandannagar; 3 Pulicat; 3 Quilon|kollam; 3 Cannanore|kannur; 3 Mangalore|mangaluru; 3 Tranquebar|tharangambadi; 3 Negapatam|nagapattinam; 3 Balasore; 3 Patna; 3 Murshidabad; 3 Broach|bharuch; 3 Chaul; 3 Bassein|vasai; 3 Mahé|mahe; 3 Tellicherry|thalassery; 3 Kasimbazar|cossimbazar; 3 Burhanpur; 3 Golconda|hyderabad; 3 Benares|varanasi; 3 Vijayanagara|hampi; 3 Bijapur|vijayapura; 3 Ajmer;
+4 Dabhol; 4 Bhatkal; 4 Honavar; 4 Karwar; 4 Cranganore|kodungallur; 4 Aurangabad
+? Culture | Name a famous building, monument, or site in India.
+1 Taj Mahal; 1 Red Fort|lal qila; 1 India Gate; 1 Gateway of India; 1 Qutb Minar|qutub minar;
+2 Golden Temple|harmandir sahib; 2 Lotus Temple; 2 Hawa Mahal; 2 Amber Fort|amer fort; 2 Humayun's Tomb|humayuns tomb; 2 Fatehpur Sikri; 2 Jama Masjid; 2 Charminar; 2 Agra Fort; 2 Mysore Palace; 2 Victoria Memorial; 2 Ajanta Caves|ajanta; 2 Ellora Caves|ellora;
+3 Konark Sun Temple|konark; 3 Khajuraho; 3 Meenakshi Temple|meenakshi amman temple; 3 Sanchi Stupa|sanchi; 3 Mahabodhi Temple|bodh gaya; 3 Hampi; 3 Gol Gumbaz; 3 Rashtrapati Bhavan; 3 Statue of Unity; 3 Akshardham; 3 Jantar Mantar; 3 Howrah Bridge; 3 Mehrangarh Fort; 3 City Palace|city palace udaipur; 3 Lake Palace; 3 Brihadeeswarar Temple|brihadeeswara|big temple; 3 Elephanta Caves|elephanta; 3 Kashi Vishwanath Temple|kashi vishwanath; 3 Somnath Temple|somnath; 3 Bibi Ka Maqbara; 3 Itmad-ud-Daulah|baby taj; 3 Buland Darwaza; 3 Chhatrapati Shivaji Terminus|victoria terminus; 3 Jaisalmer Fort; 3 Chittorgarh Fort|chittor; 3 Gwalior Fort; 3 Golconda Fort; 3 Rani ki Vav; 3 Jagannath Temple|puri temple; 3 Ram Mandir|ram temple; 3 Shore Temple|mahabalipuram|mamallapuram; 3 Ghats of Varanasi|varanasi ghats; 3 Nalanda; 3 Akbar's Tomb|sikandra;
+4 Safdarjung's Tomb|safdarjung tomb; 4 Lodhi Gardens; 4 Chand Baori; 4 Kumbhalgarh Fort|kumbhalgarh; 4 Dilwara Temples; 4 Ranakpur Temple|ranakpur; 4 Modhera Sun Temple|modhera; 4 Tirumala Temple|tirupati
+? People | Name an English or British person who lived between 1450 and 1750.
+1 Henry VIII; 1 Elizabeth I|queen elizabeth i; 1 William Shakespeare|shakespeare; 1 Isaac Newton|newton;
+2 Francis Drake|drake; 2 Walter Raleigh|raleigh; 2 Thomas More; 2 Oliver Cromwell; 2 John Locke|locke; 2 Thomas Hobbes|hobbes; 2 Mary I|bloody mary; 2 Anne Boleyn; 2 Charles I; 2 Charles II; 2 James I; 2 John Smith; 2 Mary, Queen of Scots|mary queen of scots; 2 Guy Fawkes;
+3 Henry VII; 3 Edward VI; 3 William III|william of orange; 3 Mary II; 3 Queen Anne; 3 George I; 3 George II; 3 Thomas Cromwell; 3 Thomas Wolsey|cardinal wolsey|wolsey; 3 John Milton|milton; 3 Christopher Marlowe|marlowe; 3 Francis Bacon; 3 William Harvey; 3 Robert Boyle|boyle; 3 Christopher Wren|wren; 3 Samuel Pepys|pepys; 3 Daniel Defoe|defoe; 3 Alexander Pope; 3 Edmond Halley|halley; 3 Robert Hooke|hooke; 3 Henry Hudson; 3 Thomas Roe; 3 William Penn; 3 John Winthrop; 3 Lady Jane Grey|jane grey; 3 John Bunyan; 3 John Donne; 3 Ben Jonson; 3 Thomas Cranmer; 3 William Tyndale; 3 Robert Walpole; 3 Duke of Marlborough|john churchill; 3 Richard III; 3 Edward IV; 3 Henry VI; 3 Aphra Behn; 3 Henry Purcell;
+4 James Cook; 4 Robert Clive; 4 Thomas Gresham; 4 John Dee; 4 George Fox; 4 John Wesley; 4 William Dampier; 4 Samuel Johnson; 4 Henry Fielding; 4 Thomas Wyatt; 4 Mary Wortley Montagu
+? Language | Name an English word that came into English from Spanish, Portuguese, or Dutch.
+1 Banana; 1 Mosquito; 1 Tornado; 1 Cookie|cookies; 1 Yacht; 1 Plaza; 1 Patio; 1 Fiesta; 1 Siesta;
+2 Hurricane; 2 Tomato; 2 Chocolate; 2 Potato; 2 Canyon; 2 Ranch; 2 Rodeo; 2 Cargo; 2 Boss; 2 Skipper; 2 Waffle; 2 Cruise; 2 Alligator; 2 Cobra; 2 Mango; 2 Tobacco; 2 Barbecue; 2 Coleslaw; 2 Santa Claus; 2 Iceberg; 2 Landscape; 2 Wagon; 2 Taco; 2 Salsa; 2 Macho; 2 Amigo;
+3 Molasses; 3 Mandarin; 3 Flamingo; 3 Albino; 3 Marmalade; 3 Caste; 3 Pagoda; 3 Savvy; 3 Piranha; 3 Jaguar; 3 Cashew; 3 Monsoon; 3 Embargo; 3 Armada; 3 Flotilla; 3 Guerrilla; 3 Lasso; 3 Cafeteria; 3 Canoe; 3 Bonanza; 3 Stampede; 3 Vigilante; 3 Mesa; 3 Adobe; 3 Cockroach; 3 Avocado; 3 Cigar; 3 Mustang; 3 Sombrero; 3 Poncho; 3 Vanilla; 3 Llama; 3 Desperado; 3 Brandy; 3 Sloop; 3 Deck; 3 Easel; 3 Trek; 3 Gin; 3 Booze; 3 Sketch; 3 Snoop; 3 Spook; 3 Stoop; 3 Coconut; 3 Boer;
+4 Palaver; 4 Fetish; 4 Dodo; 4 Baroque; 4 Zebra; 4 Decoy; 4 Freight; 4 Smuggle; 4 Keelhaul; 4 Frolic; 4 Hustle; 4 Uproar; 4 Knapsack; 4 Poppycock; 4 Matador; 4 Junta; 4 Aficionado; 4 Pronto; 4 Renegade; 4 Bravado; 4 Condor; 4 Puma; 4 Papaya; 4 Maize; 4 Buckaroo; 4 Cannibal; 4 Boom
+? Tech | Name a tool or device that people have used to measure or tell time.
+1 Clock|clocks; 1 Watch|wristwatch|watches; 1 Sundial; 1 Hourglass|sandglass|sand timer;
+2 Calendar; 2 Water clock|clepsydra; 2 Pendulum clock|grandfather clock|longcase clock; 2 Pocket watch; 2 Stopwatch; 2 Alarm clock; 2 Smartwatch; 2 Atomic clock; 2 Digital clock;
+3 Candle clock; 3 Incense clock; 3 Marine chronometer|chronometer; 3 Mechanical clock; 3 Quartz watch|quartz clock; 3 Cuckoo clock; 3 Astrolabe; 3 Almanac; 3 Gnomon|obelisk|shadow clock; 3 Bells|church bells|ships bell; 3 Oil lamp clock; 3 Kitchen timer|timer|egg timer; 3 Astronomical clock; 3 Smartphone|phone|mobile phone; 3 Big Ben;
+4 Stonehenge; 4 Nocturnal; 4 Su Song's clock tower|su song clock; 4 Prague Orloj|orloj; 4 Time ball|noon gun; 4 Jantar Mantar|samrat yantra
